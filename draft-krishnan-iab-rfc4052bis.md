@@ -208,7 +208,7 @@ statements, who claim to be speaking on behalf of IETF, are truly
 representing IETF views.
 
 All outgoing liaison statements will be copied to IETF Secretariat
-using procedures defined in [6] or its successors.
+using procedures defined in {{RFC4053}} or its successors.
 
 For a liaison statement generated on behalf of an IETF WG, the WG
 chair(s) must create a statement based on appropriate discussions
@@ -261,7 +261,7 @@ This document has no IANA actions.
 {:numbered="false"}
 
 This document was developed as part of a conversation regarding the
-management of [6], and the authors of that document contributed
+management of {{RFC4053}}, and the authors of that document contributed
 significantly to it.  Also, this version of the document has been
 improved over its predecessor by several suggestions from Stephen J.
 Trowbridge, Peter Saint-Andre, Michael Patton, Bert Wijnen, Fred
