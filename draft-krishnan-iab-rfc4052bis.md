@@ -175,29 +175,29 @@ the peer organization and the type of joint work being undertaken,
 the general expectations of a liaison manager appointed by the IAB
 are as follows:
 
-   o  Attend relevant meetings of the peer organization as needed and
+- Attend relevant meetings of the peer organization as needed and
       report back to the appropriate IETF organization any material
       updates.
 
-   o  Carry any messages from the IETF to the peer organization, when
+- Carry any messages from the IETF to the peer organization, when
       specifically instructed.  Generally, these communications
       "represent the IETF", and therefore due care and consensus must be
       applied in their construction.
 
-   o  Prepare occasional updates.  The target of these updates (e.g.,
+- Prepare occasional updates.  The target of these updates (e.g.,
       the IAB, an AD, a WG) will generally be identified upon
       appointment.
 
-   o  Oversee delivery of liaison statements addressed to the IETF,
+- Oversee delivery of liaison statements addressed to the IETF,
       ensuring that they reach the appropriate destination within the
       IETF, and ensure that relevant responses from the IETF are created
       and sent in a timely fashion.
 
-   o  Work with the other organization to ensure that the IETF's liaison
+- Work with the other organization to ensure that the IETF's liaison
       statements are appropriately directed and responded to in a timely
       fashion.
 
-   o  Communicate and coordinate with other IETF liaison managers and
+- Communicate and coordinate with other IETF liaison managers and
       representatives where concerned technical activities overlap.
 
 # Approval and Transmission of Liaison Statements
