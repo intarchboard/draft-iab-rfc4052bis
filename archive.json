@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-10-10T00:55:10.633080+00:00",
+  "timestamp": "2024-10-13T00:59:19.128428+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -49,6 +49,50 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
-  "pulls": []
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOMUjy5c6ZuWWz",
+      "title": "Move section 4 to RFC4053bis",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/1",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "that section talks about consensus and transmission of liaison statements, however, this is not specific to LS where we have a formal liaison relationship. Therefore it should not be part of this document but RFC5043 instead.",
+      "createdAt": "2024-10-10T14:38:41Z",
+      "updatedAt": "2024-10-10T14:38:41Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 2,
+      "id": "PR_kwDOMUjy5c5-PB95",
+      "title": "remove section 4",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/2",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "fixes #1",
+      "createdAt": "2024-10-10T14:43:53Z",
+      "updatedAt": "2024-10-10T14:43:53Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "c4b482abd1cc8a3ce15a0cccbb3812de64b11b74",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-1",
+      "headRefOid": "3c0a8c1d1151addf9ba40a12254d0bff231545fd",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
