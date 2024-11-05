@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-11-03T00:59:56.141068+00:00",
+  "timestamp": "2024-11-05T00:54:47.681962+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -63,6 +63,54 @@
       "body": "that section talks about consensus and transmission of liaison statements, however, this is not specific to LS where we have a formal liaison relationship. Therefore it should not be part of this document but RFC5043 instead.",
       "createdAt": "2024-10-10T14:38:41Z",
       "updatedAt": "2024-10-10T14:38:41Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 3,
+      "id": "I_kwDOMUjy5c6c0n1g",
+      "title": "Explain that informal relationships are preferred",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/3",
+      "state": "OPEN",
+      "author": "sureshkrishnan",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "There needs to be some text to document our current unwritten policy (needs to be rechecked for consensus) that informal relationships with other organizations are preferred over formal liaison relationships if they are sufficient. Section 2.4. talks a bit about this in the case of transmittal of liaison statements but this is a broader matter. ",
+      "createdAt": "2024-11-03T07:47:00Z",
+      "updatedAt": "2024-11-03T07:47:00Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 4,
+      "id": "I_kwDOMUjy5c6c0oVq",
+      "title": "Explain that liaisons have no special place in the IETF processes",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/4",
+      "state": "OPEN",
+      "author": "sureshkrishnan",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "There needs to be text in the document that everyone is open to participate in the IETF: all the documents are freely available to everyone and any input/output going through the liaisons is really going through the same WG/IETF process as any other participants.",
+      "createdAt": "2024-11-03T07:50:13Z",
+      "updatedAt": "2024-11-03T07:50:13Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 5,
+      "id": "I_kwDOMUjy5c6c0ozp",
+      "title": "Checklist for creation of relationships",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/5",
+      "state": "OPEN",
+      "author": "sureshkrishnan",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Work on some form of checklist with typical items that might require setting up a liaison relationship. In most cases this would be related to the other SDO's processes. e.g. Can the SDO's standards be freely accessed or does that require a liaison to access them, how can input be provided to their processes etc.",
+      "createdAt": "2024-11-03T07:54:13Z",
+      "updatedAt": "2024-11-03T07:54:13Z",
       "closedAt": null,
       "comments": []
     }
