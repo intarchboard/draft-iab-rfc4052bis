@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-01-21T00:54:27.905831+00:00",
+  "timestamp": "2025-01-23T00:54:51.462354+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -111,6 +111,38 @@
       "body": "Work on some form of checklist with typical items that might require setting up a liaison relationship. In most cases this would be related to the other SDO's processes. e.g. Can the SDO's standards be freely accessed or does that require a liaison to access them, how can input be provided to their processes etc.",
       "createdAt": "2024-11-03T07:54:13Z",
       "updatedAt": "2024-11-03T07:54:13Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 6,
+      "id": "I_kwDOMUjy5c6m-XSA",
+      "title": "Should we merge RFC4691 into RFC4052bis?",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/6",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "RFC4691 (https://datatracker.ietf.org/doc/html/rfc4691) seems to actually duplicate quite some thing from RFC4052, there I think it would be more beneficial to merge them together. Especially section 3.4 and 3.5 of RFC4691 should be merged with section 3 and 4 of RFC4052, respectively. Also we chould add a more clear statement on \" Speaking for the IETF\" Section 3.1.1 of RFC4691 to RFC4052bis. But not sure if we need much from section 3.2 and 3.3 though.",
+      "createdAt": "2025-01-21T10:22:17Z",
+      "updatedAt": "2025-01-21T10:22:17Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 7,
+      "id": "I_kwDOMUjy5c6m-ZdP",
+      "title": "Do we still need the liaison representative role?",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/7",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "This role exists in RFC4052 but I don't think we use it. I think it better to only have one decided responsible person. If that person is not available for some reason, the IAB or the IAB liaison coordinators should cover any urgent issues directly. If a liaison manager generally needs help, it might be sufficient to ask inofficially for support from a specific person for a specific topic but I don't think we need a formal process around this. Again, bottom line is we don't seem to use it.",
+      "createdAt": "2025-01-21T10:25:43Z",
+      "updatedAt": "2025-01-21T10:25:53Z",
       "closedAt": null,
       "comments": []
     }
