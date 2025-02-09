@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-02-06T00:56:06.800230+00:00",
+  "timestamp": "2025-02-09T00:58:43.563739+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -175,6 +175,22 @@
       "body": "Usually the term \"liaison\" is quite loosely used. e.g. people might call a liaison statement a \"liaison\" or assume that there is something like a default liaison between all (technical orgs). We should clearly define that informal liaison relationships are fine when e.g. when formal liaison statements or any entirely information communication between groups. However, we only talk about a formal liaison relationship if on our side the IAB has appointed a liaison manager and on the other side there is some kind of agreement or process recognises this relationship (formally); this may include cases where the other org has also appointed a liaison manager but no other written agreement. ",
       "createdAt": "2025-01-31T16:02:21Z",
       "updatedAt": "2025-01-31T16:02:21Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 10,
+      "id": "I_kwDOMUjy5c6pCYnT",
+      "title": "Main responsibility of LM is good communication between orgs",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/10",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "Sec 3 lists responsibilities of LMs. There are effectively 6 points in random order. I think we should make it much more clear that the one main (and basically only real) responsibility is to manage a good communication between the orgs. This includes of course caring about LSs (make sure they are correctly formatted, are sent to the right place on both sides, and support people sending replies in time) but also any additional communication e.g. to communicate back informally e.g when no reply is sent or explain our process or redirect questions to the right place. This may of course require to go to the meeting in some form at least.\n\nBut I think especially the point about providing updates is more optional. Making the IAB aware of issues is part of the communication bit, but giving real updates on what's happening in the other org might not necessarily be possible as orgs like 3GPP and ITU-T are big and probably hard to follow by one person only. If the LM gives these updates it's a nice service but not a requirement on the job.\n\nAlso we have these IAB program which are usually lead by the LM and these activities can be seen as important for ensuring good communication, however, it doesn't necessarily have to be the LM that leads these program. I think it usually makes sense that way and this is also the way all these programs work right now but it could also be a different person, e.g. if a split of load is desired.\n\nFurther, it is not the responsibilities of the LM to change anything in the way liaison management works. If there is a problem, the IAB should be notified and the IAB need to address the problem (potentially of course with the help of the LM as the LM is the matter expert).\n\nAlso inline with RFC4691 we should make more clear that it is not the job of the manager to directly engage in technical discussions (rather than beginning the messenger or pointing people to existing consensus positions). Of course a LM can participate in any technical discussion in its personal capacity but the LM cannot speak for the IETF, nor has their voice any higher weight.\n\n",
+      "createdAt": "2025-02-06T16:15:09Z",
+      "updatedAt": "2025-02-06T16:15:09Z",
       "closedAt": null,
       "comments": []
     }
