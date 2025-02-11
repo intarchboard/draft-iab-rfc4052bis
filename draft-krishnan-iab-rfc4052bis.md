@@ -170,35 +170,20 @@ discussed in {{?RFC4053}}.
 
 # Summary of IETF Liaison Manager Responsibilities
 
-While the requirements will certainly vary depending on the nature of
-the peer organization and the type of joint work being undertaken,
-the general expectations of a liaison manager appointed by the IAB
-are as follows:
+The main responsibility of the liaison manager is to ensure good and formally correct communication between the organisations. This often includes:
 
-- Attend relevant meetings of the peer organization as needed and
-      report back to the appropriate IETF organization any material
-      updates.
+- Ensure received LSs are recorded and delivered to the relevant groups.
 
-- Carry any messages from the IETF to the peer organization, when
-      specifically instructed.  Generally, these communications
-      "represent the IETF", and therefore due care and consensus must be
-      applied in their construction.
+- Ensure replies are sent in time or it is appropriately communicated why a reply is delayed or not sent.
 
-- Prepare occasional updates.  The target of these updates (e.g.,
-      the IAB, an AD, a WG) will generally be identified upon
-      appointment.
+- Ensure liaison statements from the IETF adhere to the formal requirements of the peer organization (e.g. formatting) and are delivered to the appropriate groups.
 
-- Oversee delivery of liaison statements addressed to the IETF,
-      ensuring that they reach the appropriate destination within the
-      IETF, and ensure that relevant responses from the IETF are created
-      and sent in a timely fashion.
+- Provide additional communication on e.g. process or known consensus positions in the IETF. This may also require to participate in relevant meetings of the peer organisation and potentially report back to the appropriate IETF organization any material information that is intended to be shared by the peer organisation.
 
-- Work with the other organization to ensure that the IETF's liaison
-      statements are appropriately directed and responded to in a timely
-      fashion.
+Formal messages from the IETF to the peer organization are usually carried in liaison statements. In certain situations
+the liaison manager may carry addional messages, when specifically instructed. However, if these communications aim to "represent the IETF", they must have consensus, e.g. by being based on an RFC or some other formal statement by a group within the IETF.
 
-- Communicate and coordinate with other IETF liaison managers and
-      representatives where concerned technical activities overlap.
+Optionally liaison manager may provide updates to the IAB on technical matters. Especially if a concern e.g. regarding technical overlap or correctness is detected this should be communicated to the IAB. However, given most organization are quite large, it is not expected that the liaison manager can have the full overview about everything that is going on.
 
 # Approval and Transmission of Liaison Statements
 
