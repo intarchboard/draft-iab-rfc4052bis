@@ -68,8 +68,8 @@ the scope of this document.
 
 The IETF has chartered the Internet Architecture Board to manage
 liaison relationships.  Consistent with its charter {{!BCP39}}, the IAB acts
-as representative of the interests of the IETF and the Internet
-Society in technical liaison relationships with other organizations
+as representative of the interests of the IETF
+in technical liaison relationships with other organizations
 concerned with standards and other technical and organizational
 issues relevant to the worldwide Internet.  Liaison relationships are
 kept as informal as possible and must be of demonstrable value to the
