@@ -93,8 +93,15 @@ relationship can provide the framework for ongoing communications to
 ## Liaison Relationships
 
 A liaison relationship is set up when it is mutually agreeable and
-needed for some specific purpose, in the view of the other
-organization, the IAB, and the IETF participants conducting the work.
+needed, e.g., for some specific purposes, in the view of the other
+organization, the IAB, and the IETF participants conducting the work:
+
+o Require appropriate liaison manager to access documents in other organizations
+
+o Participate in meeting in other organizations
+
+o Provide input to process in other organizations
+
 There is no set process or form for this; the IETF participants and
 the peer organization approach the IAB, and after discussion come to
 an agreement to form the relationship.  In some cases, the intended
