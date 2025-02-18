@@ -168,6 +168,11 @@ organizations use a form known as a "liaison statement".  Procedures
 for sending, managing, and responding to liaison statements are
 discussed in {{?RFC4053}}.
 
+Note that communications between organizations have no difference to
+any other IETF contributions and should follow the same IETF process and
+polices and should be open to everyone for inputs and contributions, e.g.,
+input discussion in specific working group in the IETF.
+
 # Summary of IETF Liaison Manager Responsibilities
 
 While the requirements will certainly vary depending on the nature of
