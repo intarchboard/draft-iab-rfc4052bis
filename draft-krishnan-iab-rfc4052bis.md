@@ -157,15 +157,17 @@ liaison representative will be identified at the time of appointment.
 
 ## Liaison Communications
 
-Communications between organizations use a variety of formal and
-informal channels.  The stated preference of the IETF, which is
-largely an informal organization, is to use informal channels, as
-these have historically worked well to expedite matters.  In some
-cases, however, a more formal communication is appropriate, either as
-an adjunct to the informal channel or in its place.  In the case of
-formal communications, the established procedures of many
-organizations use a form known as a "liaison statement".  Procedures
-for sending, managing, and responding to liaison statements are
+Communications between organizations use a variety of formal and informal
+channels irrespective of established liaison relationships. The stated
+preference of the IETF, which is largely an informal organization, is to
+use informal channels (e.g., discussion on expert level in specific Working
+group Meeting or mailing list), as these have integrated better into IETF
+process and historically worked well to expedite matters. In some cases,
+however, a more formal communication is appropriate, either as an adjunct
+to the informal channel or in its own place with or without liaison
+relationship. In the case of formal communications, the established
+procedures of many organizations use a form known as a "liaison statement".
+Procedures for sending, managing, and responding to liaison statements are
 discussed in {{?RFC4053}}.
 
 # Summary of IETF Liaison Manager Responsibilities
