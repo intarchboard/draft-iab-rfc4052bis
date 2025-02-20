@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-02-18T00:55:42.722919+00:00",
+  "timestamp": "2025-02-20T00:56:33.634660+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -83,7 +83,7 @@
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/3",
       "state": "OPEN",
       "author": "sureshkrishnan",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [
         "sureshkrishnan"
       ],
@@ -92,9 +92,17 @@
       ],
       "body": "There needs to be some text to document our current unwritten policy (needs to be rechecked for consensus) that informal relationships with other organizations are preferred over formal liaison relationships if they are sufficient. Section 2.4. talks a bit about this in the case of transmittal of liaison statements but this is a broader matter. ",
       "createdAt": "2024-11-03T07:47:00Z",
-      "updatedAt": "2025-02-12T13:42:06Z",
+      "updatedAt": "2025-02-18T12:11:20Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Regarding section 2.4, one following up question is:\nHow to distinct formal communication from non-formal communication? If Liaison manager has been appointed to interface\u00a0with one org, it seems to mean that there is formal liaison relation.In case of formal liaison relationship, can you use non-formal communication channel?Another case, is there is no formal liaison relationship and there is no liaison manager to be assigned to this org, can I use such non-formal communication channel? in such cases, who will be responsible for updating status of ongoing\u00a0work to other org?",
+          "createdAt": "2025-02-18T12:11:18Z",
+          "updatedAt": "2025-02-18T12:11:18Z"
+        }
+      ]
     },
     {
       "number": 4,
@@ -103,7 +111,7 @@
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/4",
       "state": "OPEN",
       "author": "sureshkrishnan",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [
         "sureshkrishnan"
       ],
@@ -112,9 +120,17 @@
       ],
       "body": "There needs to be text in the document that everyone is open to participate in the IETF: all the documents are freely available to everyone and any input/output going through the liaisons is really going through the same WG/IETF process as any other participants.",
       "createdAt": "2024-11-03T07:50:13Z",
-      "updatedAt": "2025-02-12T13:42:39Z",
+      "updatedAt": "2025-02-18T12:42:00Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "It seems to me there is gray area whether this issue should be addressed in RFC4052bis or RFC4053bis?",
+          "createdAt": "2025-02-18T12:41:58Z",
+          "updatedAt": "2025-02-18T12:41:58Z"
+        }
+      ]
     },
     {
       "number": 5,
@@ -123,7 +139,7 @@
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/5",
       "state": "OPEN",
       "author": "sureshkrishnan",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [
         "sureshkrishnan"
       ],
@@ -161,7 +177,7 @@
       "id": "I_kwDOMUjy5c6m-ZdP",
       "title": "Do we still need the liaison representative role?",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/7",
-      "state": "CLOSED",
+      "state": "OPEN",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [
@@ -172,8 +188,8 @@
       ],
       "body": "This role exists in RFC4052 but I don't think we use it. I think it better to only have one decided responsible person. If that person is not available for some reason, the IAB or the IAB liaison coordinators should cover any urgent issues directly. If a liaison manager generally needs help, it might be sufficient to ask inofficially for support from a specific person for a specific topic but I don't think we need a formal process around this. Again, bottom line is we don't seem to use it.",
       "createdAt": "2025-01-21T10:25:43Z",
-      "updatedAt": "2025-02-12T15:00:25Z",
-      "closedAt": "2025-02-12T15:00:25Z",
+      "updatedAt": "2025-02-18T13:23:53Z",
+      "closedAt": null,
       "comments": [
         {
           "author": "mirjak",
@@ -181,6 +197,13 @@
           "body": "Agreed that we don't need anymore (at least not formatting in the RFC)",
           "createdAt": "2025-02-12T13:43:56Z",
           "updatedAt": "2025-02-12T13:43:56Z"
+        },
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Section 1 said:\n\"\nWhen the liaison relationship is expected to encompass a complex or broad range of activities, more people may be designated to undertake some portions of the communications, coordinated by the liaison manager.\n\"\nIf we remove liaison Representative role, section 1 and also section 2.3 should be cleaned up or deleted.",
+          "createdAt": "2025-02-18T13:23:50Z",
+          "updatedAt": "2025-02-18T13:23:50Z"
         }
       ]
     },
@@ -233,7 +256,7 @@
       "id": "I_kwDOMUjy5c6pCYnT",
       "title": "Main responsibility of LM is good communication between orgs",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/10",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [],
@@ -242,8 +265,8 @@
       ],
       "body": "Sec 3 lists responsibilities of LMs. There are effectively 6 points in random order. I think we should make it much more clear that the one main (and basically only real) responsibility is to manage a good communication between the orgs. This includes of course caring about LSs (make sure they are correctly formatted, are sent to the right place on both sides, and support people sending replies in time) but also any additional communication e.g. to communicate back informally e.g when no reply is sent or explain our process or redirect questions to the right place. This may of course require to go to the meeting in some form at least.\n\nBut I think especially the point about providing updates is more optional. Making the IAB aware of issues is part of the communication bit, but giving real updates on what's happening in the other org might not necessarily be possible as orgs like 3GPP and ITU-T are big and probably hard to follow by one person only. If the LM gives these updates it's a nice service but not a requirement on the job.\n\nAlso we have these IAB program which are usually lead by the LM and these activities can be seen as important for ensuring good communication, however, it doesn't necessarily have to be the LM that leads these program. I think it usually makes sense that way and this is also the way all these programs work right now but it could also be a different person, e.g. if a split of load is desired.\n\nFurther, it is not the responsibilities of the LM to change anything in the way liaison management works. If there is a problem, the IAB should be notified and the IAB need to address the problem (potentially of course with the help of the LM as the LM is the matter expert).\n\nAlso inline with RFC4691 we should make more clear that it is not the job of the manager to directly engage in technical discussions (rather than beginning the messenger or pointing people to existing consensus positions). Of course a LM can participate in any technical discussion in its personal capacity but the LM cannot speak for the IETF, nor has their voice any higher weight.\n\n",
       "createdAt": "2025-02-06T16:15:09Z",
-      "updatedAt": "2025-02-12T13:52:23Z",
-      "closedAt": null,
+      "updatedAt": "2025-02-19T23:34:13Z",
+      "closedAt": "2025-02-19T23:34:13Z",
       "comments": []
     },
     {
@@ -253,7 +276,7 @@
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/13",
       "state": "OPEN",
       "author": "sureshkrishnan",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [
         "-01"
@@ -299,24 +322,26 @@
       "id": "PR_kwDOMUjy5c6K1IMd",
       "title": "new proposed text on liaison manager responsibilities",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/11",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [],
       "labels": [],
       "body": "fixes #10",
       "createdAt": "2025-02-11T16:29:13Z",
-      "updatedAt": "2025-02-11T16:29:14Z",
+      "updatedAt": "2025-02-19T23:34:12Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "f2a87ad9fada43086581acebe8f9c6ec3f82ea42",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "mirjak-patch-2",
       "headRefOid": "52490866c81d9ac0503caf92b6bf09f1ad29d64e",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2025-02-19T23:34:12Z",
+      "mergedAt": "2025-02-19T23:34:12Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "bfc3957696dc531075f3dd67ede1e054ab849e0c"
+      },
       "comments": [],
       "reviews": []
     },
@@ -347,6 +372,149 @@
       },
       "comments": [],
       "reviews": []
+    },
+    {
+      "number": 14,
+      "id": "PR_kwDOMUjy5c6Ll0_V",
+      "title": "Explain that informal relationships are preferred #3",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/14",
+      "state": "MERGED",
+      "author": "billwuqin",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "The key point is Information communication and formal communication don't rely on whether there is liaison relationship. without liaison relationship and liaison manager, we still can use informal channel and formal channel, formal channel means we use liaison statement as tool for communication.",
+      "createdAt": "2025-02-18T12:34:52Z",
+      "updatedAt": "2025-02-19T23:35:28Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "e3464026e1e6d2b7b735f39943af6ff43f07b0e4",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "billwuqin-patch-1",
+      "headRefOid": "50d2adef156ceb9665d05949bc3b121e6dfdcb81",
+      "closedAt": "2025-02-19T23:35:28Z",
+      "mergedAt": "2025-02-19T23:35:28Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "369f9478d17c8e75c04374919d85517d9e8d9f13"
+      },
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Fix #3 ",
+          "createdAt": "2025-02-18T12:38:49Z",
+          "updatedAt": "2025-02-18T12:38:49Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 15,
+      "id": "PR_kwDOMUjy5c6LmJZ9",
+      "title": "Explain that liaisons have no special place in the IETF processes",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/15",
+      "state": "MERGED",
+      "author": "billwuqin",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-02-18T13:11:08Z",
+      "updatedAt": "2025-02-19T23:58:23Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "e3464026e1e6d2b7b735f39943af6ff43f07b0e4",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "billwuqin-patch-2",
+      "headRefOid": "e893780d4b2bea111297e170bba95980a5b29c51",
+      "closedAt": "2025-02-19T23:58:23Z",
+      "mergedAt": "2025-02-19T23:58:23Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "104e0a03c337e8d961c233d9bbf65c31e2595dd3"
+      },
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Fix #4 ",
+          "createdAt": "2025-02-18T13:12:27Z",
+          "updatedAt": "2025-02-18T13:12:27Z"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c6cp9nN",
+          "commit": {
+            "abbreviatedOid": "e893780"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-02-19T23:57:47Z",
+          "updatedAt": "2025-02-19T23:58:14Z",
+          "comments": [
+            {
+              "originalPosition": 4,
+              "body": "I think this needs to talk about this only from the IETF side because we do not know if this true from the other organizations' side",
+              "createdAt": "2025-02-19T23:57:47Z",
+              "updatedAt": "2025-02-19T23:58:14Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "id": "PR_kwDOMUjy5c6LmVpy",
+      "title": "Checklist for creation of relationships",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/16",
+      "state": "MERGED",
+      "author": "billwuqin",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-02-18T13:31:43Z",
+      "updatedAt": "2025-02-19T23:59:56Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "e3464026e1e6d2b7b735f39943af6ff43f07b0e4",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "billwuqin-patch-3",
+      "headRefOid": "eccf06391ca9ac11386ede1fab5a2336ec76738f",
+      "closedAt": "2025-02-19T23:59:56Z",
+      "mergedAt": "2025-02-19T23:59:55Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "3ca701a593e4613e7009b35b7971ef939fd6992b"
+      },
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Fix #5 ",
+          "createdAt": "2025-02-18T13:32:02Z",
+          "updatedAt": "2025-02-18T13:32:02Z"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c6cp-Ig",
+          "commit": {
+            "abbreviatedOid": "eccf063"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "I think this is a good start but it needs more detail. I will work on a change for this.",
+          "createdAt": "2025-02-19T23:59:49Z",
+          "updatedAt": "2025-02-19T23:59:49Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
