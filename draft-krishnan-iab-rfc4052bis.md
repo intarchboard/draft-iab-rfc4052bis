@@ -30,7 +30,7 @@ This document discusses the procedures used by the IAB to establish
 and maintain formal liaison relationships between the IETF and other
 Standards Development Organizations (SDOs), consortia and industry
 fora.  This document also discusses the appointment and
-responsibilities of IETF liaison managers and representatives, and
+responsibilities of IETF liaison managers, and
 the expectations of the IAB in establishing liaison
 relationships.
 
@@ -51,16 +51,13 @@ relationships are generically referred to as "liaison relationships".
 
 In such cases, a person is designated by the IAB to manage a given
 liaison relationship; that person is generally called the "IETF
-liaison manager" to the other organization.  When the liaison
-relationship is expected to encompass a complex or broad range of
-activities, more people may be designated to undertake some portions
-of the communications, coordinated by the liaison manager.  Often,
+liaison manager" to the other organization. Often,
 the other organization will similarly designate their own liaison
 manager to the IETF.
 
 This document is chiefly concerned with:
 - the establishment and maintenance of liaison relationships, and
-- the appointment and responsibilities of IETF liaison managers and representatives.
+- the appointment and responsibilities of IETF liaison managers.
 
 The management of other organizations' liaison managers to the IETF,
 whether or not in the context of a liaison relationship, is outside
@@ -74,8 +71,7 @@ concerned with standards, and other technical and organizational
 issues relevant to the worldwide Internet.  Liaison relationships are
 kept informal whenever possible, and must possess demonstrable value to the
 IETF's technical mandate.  Individual participants from the IETF community are
-appointed as liaison managers or representatives to other
-organizations by the IAB.
+appointed as liaison managers to other organizations by the IAB.
 
 In general, a liaison relationship is most valuable when there are
 areas of technical development of mutual interest.  For the most
@@ -145,24 +141,6 @@ anyone who has a problem with a relationship (whether an IETF
 participant or a person from the peer organization) should first
 consult the IAB's designated liaison manager, and if that does not
 result in a satisfactory outcome, the IAB itself.
-
-## Liaison Representatives
-
-The liaison manager is, specifically, a representative of the IETF
-for the purpose of managing the liaison relationship.  There may be
-occasion to identify other representatives for the same relationship.
-For example, if the area of mutual work is extensive, it might be
-appropriate to name several people as liaison representatives to
-different parts of the other organization.  Or, it might be
-appropriate to name a liaison representative to attend a particular
-meeting.
-
-These other liaison representatives are selected by the IAB and work
-in conjunction (and close communication) with the liaison manager.
-In some cases, this may also require communication and coordination
-with other liaison managers or representatives where concerned
-technical activities overlap.  The specific responsibilities of the
-liaison representative will be identified at the time of appointment.
 
 ## Liaison Communications
 
