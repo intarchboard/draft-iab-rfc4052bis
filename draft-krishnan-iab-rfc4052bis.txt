@@ -4,8 +4,8 @@
 
 Network Working Group                                        S. Krishnan
 Internet-Draft                                                       IAB
-Intended status: Informational                          19 February 2025
-Expires: 23 August 2025
+Intended status: Informational                          20 February 2025
+Expires: 24 August 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 23 August 2025.
+   This Internet-Draft will expire on 24 August 2025.
 
 Copyright Notice
 
@@ -139,8 +139,16 @@ Table of Contents
 2.1.  Liaison Relationships
 
    A liaison relationship is set up when it is mutually agreeable and
-   needed for some specific purpose, in the view of the other
-   organization, the IAB, and the IETF participants conducting the work.
+   needed, e.g., for some specific purposes, in the view of the other
+   organization, the IAB, and the IETF participants conducting the work:
+
+   o Require appropriate liaison manager to access documents in other
+   organizations
+
+   o Participate in meeting in other organizations
+
+   o Provide input to process in other organizations
+
    There is no set process or form for this; the IETF participants and
    the peer organization approach the IAB, and after discussion come to
    an agreement to form the relationship.  In some cases, the intended
