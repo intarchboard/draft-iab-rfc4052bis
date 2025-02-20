@@ -90,17 +90,17 @@ relationship can provide the framework for ongoing communications to
 
 # Aspects of Liaisons and Liaison Management
 
-## Liaison Relationships
+## Formal Liaison Relationships
 
-A liaison relationship is set up when it is mutually agreeable and
-needed, e.g., for some specific purposes, in the view of the other
-organization, the IAB, and the IETF participants conducting the work:
+A formal liaison relationship is set up when it is mutually agreeable and
+required for some specific purposes, as viewed by the other
+organization, the IAB, and the IETF participants conducting the work. Some potential purposes include:
 
-o Require appropriate liaison manager to access documents in other organizations
+o The other organization requires a formal liaison relationship in order to provide access to their working documents or standards.
 
-o Participate in meeting in other organizations
+o A formal liaison relationship is required to provide input to ongoing work at other organizations.
 
-o Provide input to process in other organizations
+o Required to participate in meetings of other organizations
 
 There is no set process or form for this; the IETF participants and
 the peer organization approach the IAB, and after discussion come to
@@ -111,13 +111,13 @@ specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
 In setting up the relationship, the IAB expects that there will be a
 mutual exchange of views and discussion of the best approach for
 undertaking new standardization work items.  Any work items resulting
-for the IETF will be undertaken in the usual IETF procedures, defined
+for the IETF will be undertaken using the usual IETF procedures, defined
 in {{!BCP9}}.  The peer organization often has different organizational
 structure and procedures than the IETF, which will require some
-flexibility on the part of both organizations to accommodate.  The
-IAB expects that each organization will use the relationship
-carefully, allowing time for the processes it requests to occur in
-the other organization, and will not make unreasonable demands.
+flexibility on the part of both organizations to accommodate.  There
+is an expectation that both organizations will use the relationship
+carefully, allowing sufficient time for the requests they make on
+the other organization to be processed.
 
 ## Liaison Manager
 
