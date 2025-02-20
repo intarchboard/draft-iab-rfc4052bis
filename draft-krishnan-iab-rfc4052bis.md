@@ -88,6 +88,8 @@ relationship can provide the framework for ongoing communications to
 - provide authoritative information of one organization's
       dependencies on the other's work.
 
+It is important to note that participation in the IETF work is open to everyone, and all the working documents and RFCs are freely available to everyone without the need for a formal liaison relationship. Hence, in almost all cases the need for a formal relationship is mostly driven by other organizations rather than by the IETF.
+
 # Aspects of Liaisons and Liaison Management
 
 ## Formal Liaison Relationships
