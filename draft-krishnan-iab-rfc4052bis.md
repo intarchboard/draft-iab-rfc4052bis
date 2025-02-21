@@ -195,7 +195,7 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-{{RFC4052}} was authored by Leslie Daigle and developed as part of a conversation regarding the
+{{?RFC4052}} was authored by Leslie Daigle and developed as part of a conversation regarding the
 management of {{RFC4053}}, and the authors of that document contributed
 significantly to it as well.
 
