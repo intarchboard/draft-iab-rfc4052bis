@@ -195,10 +195,9 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-This document was developed as part of a conversation regarding the
+{{RFC4052}} was authored by Leslie Daigle and developed as part of a conversation regarding the
 management of {{RFC4053}}, and the authors of that document contributed
-significantly to it.  Also, this version of the document has been
-improved over its predecessor by several suggestions from Stephen J.
-Trowbridge, Peter Saint-Andre, Michael Patton, Bert Wijnen, Fred
-Baker, Scott Bradner, Scott Brim, Avri Doria, Allison Mankin, Thomas
-Narten, Russ Housley and Dan Romasanu.
+significantly to it as well.
+
+This version of the document contains signification text from {{RFC4052}}, however,
+more updates to all parts of the text are expected in the process.
