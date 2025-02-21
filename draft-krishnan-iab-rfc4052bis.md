@@ -86,6 +86,19 @@ relationship can provide the framework for ongoing communications to
 
 It is important to note that participation in the IETF work is open to everyone, and all the working documents and RFCs are freely available to everyone without the need for a formal liaison relationship. Hence, in almost all cases the need for a formal relationship is mostly driven by other organizations rather than by the IETF.
 
+## Changes compared to RFC4052
+
+This version of the document contains the following updates:
+
+1. Notes in the Introduction and Section 2.1 on "Liaison Relationsships" that the IETF process itself does not require
+   a formal liaison relationship, e.g. for document access or meeting participation,
+   and therefore the need for a formal liaison relationship of often driven by processes of the peer organization.
+4. Statement that the "IAB acts as representative of the interests of [..] the Internet Society" has been removed.
+5. Role of the Liaison Representative (Section 2.3) has been removed; this role is not used in pratice.
+6. Clarifcation in section on "Liaison Communication" (now 2.3; was 2.4) that informal channels are preferred,
+   with and without a formal liaison relationship, and further that liaison statements have no "special standing" in the IETF process.
+7. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
+
 # Aspects of Liaisons and Liaison Management
 
 ## Formal Liaison Relationships
