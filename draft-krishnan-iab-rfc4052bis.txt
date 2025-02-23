@@ -340,6 +340,11 @@ Table of Contents
               Guidelines", RFC 3356, DOI 10.17487/RFC3356, August 2002,
               <https://www.rfc-editor.org/rfc/rfc3356>.
 
+   [RFC4052]  Daigle, L., Ed. and IAB, "IAB Processes for Management of
+              IETF Liaison Relationships", BCP 102, RFC 4052,
+              DOI 10.17487/RFC4052, April 2005,
+              <https://www.rfc-editor.org/rfc/rfc4052>.
+
    [RFC4053]  Trowbridge, S., Bradner, S., and F. Baker, "Procedures for
               Handling Liaison Statements to and from the IETF",
               BCP 103, RFC 4053, DOI 10.17487/RFC4053, April 2005,
@@ -347,13 +352,13 @@ Table of Contents
 
 Acknowledgments
 
-   This document was developed as part of a conversation regarding the
-   management of [RFC4053], and the authors of that document contributed
-   significantly to it.  Also, this version of the document has been
-   improved over its predecessor by several suggestions from Stephen J.
-   Trowbridge, Peter Saint-Andre, Michael Patton, Bert Wijnen, Fred
-   Baker, Scott Bradner, Scott Brim, Avri Doria, Allison Mankin, Thomas
-   Narten, Russ Housley and Dan Romasanu.
+   [RFC4052] was authored by Leslie Daigle and developed as part of a
+   conversation regarding the management of [RFC4053], and the authors
+   of that document contributed significantly to it as well.
+
+   This version of the document contains signification text from
+   [RFC4052], however, more updates to all parts of the text are
+   expected in the process.
 
 Authors' Addresses
 
