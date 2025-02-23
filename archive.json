@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-02-20T00:56:33.634660+00:00",
+  "timestamp": "2025-02-23T01:00:40.508229+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -81,7 +81,7 @@
       "id": "I_kwDOMUjy5c6c0n1g",
       "title": "Explain that informal relationships are preferred",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/3",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "sureshkrishnan",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [
@@ -92,8 +92,8 @@
       ],
       "body": "There needs to be some text to document our current unwritten policy (needs to be rechecked for consensus) that informal relationships with other organizations are preferred over formal liaison relationships if they are sufficient. Section 2.4. talks a bit about this in the case of transmittal of liaison statements but this is a broader matter. ",
       "createdAt": "2024-11-03T07:47:00Z",
-      "updatedAt": "2025-02-18T12:11:20Z",
-      "closedAt": null,
+      "updatedAt": "2025-02-20T15:48:11Z",
+      "closedAt": "2025-02-20T15:48:10Z",
       "comments": [
         {
           "author": "billwuqin",
@@ -101,6 +101,13 @@
           "body": "Regarding section 2.4, one following up question is:\nHow to distinct formal communication from non-formal communication? If Liaison manager has been appointed to interface\u00a0with one org, it seems to mean that there is formal liaison relation.In case of formal liaison relationship, can you use non-formal communication channel?Another case, is there is no formal liaison relationship and there is no liaison manager to be assigned to this org, can I use such non-formal communication channel? in such cases, who will be responsible for updating status of ongoing\u00a0work to other org?",
           "createdAt": "2025-02-18T12:11:18Z",
           "updatedAt": "2025-02-18T12:11:18Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "merged #14",
+          "createdAt": "2025-02-20T15:48:10Z",
+          "updatedAt": "2025-02-20T15:48:10Z"
         }
       ]
     },
@@ -116,11 +123,11 @@
         "sureshkrishnan"
       ],
       "labels": [
-        "-00"
+        "-01"
       ],
       "body": "There needs to be text in the document that everyone is open to participate in the IETF: all the documents are freely available to everyone and any input/output going through the liaisons is really going through the same WG/IETF process as any other participants.",
       "createdAt": "2024-11-03T07:50:13Z",
-      "updatedAt": "2025-02-18T12:42:00Z",
+      "updatedAt": "2025-02-20T15:47:22Z",
       "closedAt": null,
       "comments": [
         {
@@ -137,7 +144,7 @@
       "id": "I_kwDOMUjy5c6c0ozp",
       "title": "Checklist for creation of relationships",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/5",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "sureshkrishnan",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [
@@ -148,9 +155,17 @@
       ],
       "body": "Work on some form of checklist with typical items that might require setting up a liaison relationship. In most cases this would be related to the other SDO's processes. e.g. Can the SDO's standards be freely accessed or does that require a liaison to access them, how can input be provided to their processes etc.",
       "createdAt": "2024-11-03T07:54:13Z",
-      "updatedAt": "2025-02-12T15:01:32Z",
-      "closedAt": null,
-      "comments": []
+      "updatedAt": "2025-02-20T15:45:56Z",
+      "closedAt": "2025-02-20T15:45:54Z",
+      "comments": [
+        {
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Added non exclusive checklist with a few possible reasons",
+          "createdAt": "2025-02-20T15:45:54Z",
+          "updatedAt": "2025-02-20T15:45:54Z"
+        }
+      ]
     },
     {
       "number": 6,
@@ -177,7 +192,7 @@
       "id": "I_kwDOMUjy5c6m-ZdP",
       "title": "Do we still need the liaison representative role?",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/7",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [
@@ -188,8 +203,8 @@
       ],
       "body": "This role exists in RFC4052 but I don't think we use it. I think it better to only have one decided responsible person. If that person is not available for some reason, the IAB or the IAB liaison coordinators should cover any urgent issues directly. If a liaison manager generally needs help, it might be sufficient to ask inofficially for support from a specific person for a specific topic but I don't think we need a formal process around this. Again, bottom line is we don't seem to use it.",
       "createdAt": "2025-01-21T10:25:43Z",
-      "updatedAt": "2025-02-18T13:23:53Z",
-      "closedAt": null,
+      "updatedAt": "2025-02-20T15:46:02Z",
+      "closedAt": "2025-02-20T15:46:02Z",
       "comments": [
         {
           "author": "mirjak",
@@ -204,6 +219,13 @@
           "body": "Section 1 said:\n\"\nWhen the liaison relationship is expected to encompass a complex or broad range of activities, more people may be designated to undertake some portions of the communications, coordinated by the liaison manager.\n\"\nIf we remove liaison Representative role, section 1 and also section 2.3 should be cleaned up or deleted.",
           "createdAt": "2025-02-18T13:23:50Z",
           "updatedAt": "2025-02-18T13:23:50Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "#18 merged",
+          "createdAt": "2025-02-20T15:45:43Z",
+          "updatedAt": "2025-02-20T15:45:43Z"
         }
       ]
     },
@@ -285,6 +307,42 @@
       "createdAt": "2025-02-12T13:51:06Z",
       "updatedAt": "2025-02-12T13:52:36Z",
       "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 19,
+      "id": "I_kwDOMUjy5c6q3GeP",
+      "title": "Dealing with previous IAB authorship and acknowledgements",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/19",
+      "state": "OPEN",
+      "author": "sureshkrishnan",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [
+        "sureshkrishnan"
+      ],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-02-20T15:50:22Z",
+      "updatedAt": "2025-02-20T15:50:22Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 20,
+      "id": "I_kwDOMUjy5c6q3hAb",
+      "title": "Add a \"Changes from RFC4052\" section",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/20",
+      "state": "CLOSED",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [
+        "-00"
+      ],
+      "body": "",
+      "createdAt": "2025-02-20T16:27:49Z",
+      "updatedAt": "2025-02-23T00:15:48Z",
+      "closedAt": "2025-02-23T00:15:48Z",
       "comments": []
     }
   ],
@@ -515,6 +573,230 @@
           "comments": []
         }
       ]
+    },
+    {
+      "number": 17,
+      "id": "PR_kwDOMUjy5c6L6U_C",
+      "title": "Update draft-krishnan-iab-rfc4052bis.md",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/17",
+      "state": "MERGED",
+      "author": "sureshkrishnan",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Explained that IETF processes and documents are open to everyone and the liaison relationship is usually required from the other organization",
+      "createdAt": "2025-02-20T14:51:52Z",
+      "updatedAt": "2025-02-20T15:40:21Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "4278a74a9c84b088bb8065a4fdd4bf5ddcaf4dea",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "sureshkrishnan-patch-1-1",
+      "headRefOid": "815ca878f02323f36c27c51157af9c3fe2998710",
+      "closedAt": "2025-02-20T15:40:21Z",
+      "mergedAt": "2025-02-20T15:40:21Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "88ae86143e0ed8db733f4d7c74fb71eadd77ba86"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c6cxy6B",
+          "commit": {
+            "abbreviatedOid": "4d7c140"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-02-20T15:38:20Z",
+          "updatedAt": "2025-02-20T15:38:20Z",
+          "comments": [
+            {
+              "originalPosition": 4,
+              "body": "```suggestion\r\nIt is important to note that participation in the IETF work is open to everyone, and all the working documents and RFCs are freely available to everyone without the need for a formal liaison relationship. Hence, in almost all cases the need for a formal relationship is mostly driven by other organizations rather than by the IETF.\r\n```",
+              "createdAt": "2025-02-20T15:38:20Z",
+              "updatedAt": "2025-02-20T15:38:20Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "id": "PR_kwDOMUjy5c6L64t5",
+      "title": "remove representative",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/18",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-02-20T15:44:36Z",
+      "updatedAt": "2025-02-20T15:45:13Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "88ae86143e0ed8db733f4d7c74fb71eadd77ba86",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-4",
+      "headRefOid": "532e1fa9ac60936d9e1e88d1beb43241cee7a51a",
+      "closedAt": "2025-02-20T15:45:13Z",
+      "mergedAt": "2025-02-20T15:45:13Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "65c2f4b0a3e83037cf94478a8232e336681c698e"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 21,
+      "id": "PR_kwDOMUjy5c6MENtZ",
+      "title": "header: add Mirja, mark suresh as editor, obsolete",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/21",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-02-21T15:24:29Z",
+      "updatedAt": "2025-02-23T00:08:27Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "65c2f4b0a3e83037cf94478a8232e336681c698e",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-5",
+      "headRefOid": "3ed48f8d2282389dddbecc53c3e459b28e1c78f7",
+      "closedAt": "2025-02-23T00:08:26Z",
+      "mergedAt": "2025-02-23T00:08:26Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "b27c1ef94ba857c82c31b0760d2ce82a4724f46b"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c6dFGAV",
+          "commit": {
+            "abbreviatedOid": "3ed48f8"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-02-23T00:08:20Z",
+          "updatedAt": "2025-02-23T00:08:20Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "id": "PR_kwDOMUjy5c6MEQnb",
+      "title": "proposal to update the acknowledgement section",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/22",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-02-21T15:30:41Z",
+      "updatedAt": "2025-02-23T00:14:48Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "65c2f4b0a3e83037cf94478a8232e336681c698e",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-6",
+      "headRefOid": "7150fea2608806e8a821797970f09119358d592f",
+      "closedAt": "2025-02-23T00:14:48Z",
+      "mergedAt": "2025-02-23T00:14:48Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "dfe977481ffd2dd2a08711d9118034526e0430d0"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c6c9ri5",
+          "commit": {
+            "abbreviatedOid": "b9a3ca2"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-02-21T15:34:04Z",
+          "updatedAt": "2025-02-21T15:34:05Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "```suggestion\r\n{{?RFC4052}} was authored by Leslie Daigle and developed as part of a conversation regarding the\r\n```",
+              "createdAt": "2025-02-21T15:34:04Z",
+              "updatedAt": "2025-02-21T15:34:05Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "id": "PR_kwDOMUjy5c6MEbz1",
+      "title": "New section changes compared to RFC4052",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/23",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-02-21T15:49:54Z",
+      "updatedAt": "2025-02-23T00:15:26Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "65c2f4b0a3e83037cf94478a8232e336681c698e",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-7",
+      "headRefOid": "9829249b9cd75dfcf2d6f1df0aeda87c78dea8e3",
+      "closedAt": "2025-02-23T00:15:26Z",
+      "mergedAt": "2025-02-23T00:15:26Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "5a82f1ec35fdfe9b4a769e4ebdfe3bf71d12b26d"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 24,
+      "id": "PR_kwDOMUjy5c6MLapQ",
+      "title": "Slight updates to Acknowledgments",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/24",
+      "state": "MERGED",
+      "author": "sureshkrishnan",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-02-23T00:17:23Z",
+      "updatedAt": "2025-02-23T00:18:05Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "5a82f1ec35fdfe9b4a769e4ebdfe3bf71d12b26d",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "sureshkrishnan-patch-2",
+      "headRefOid": "048e3fdfd7c4bcf17e7a45ba20a2113f54747269",
+      "closedAt": "2025-02-23T00:18:05Z",
+      "mergedAt": "2025-02-23T00:18:05Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "e244ac8a67609efa20efd6e7e7e5bc0bcba087bd"
+      },
+      "comments": [],
+      "reviews": []
     }
   ]
 }
