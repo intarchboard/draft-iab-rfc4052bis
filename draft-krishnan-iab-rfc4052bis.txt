@@ -68,6 +68,7 @@ Copyright Notice
 Table of Contents
 
    1.  Introduction
+     1.1.  Changes compared to RFC4052
    2.  Aspects of Liaisons and Liaison Management
      2.1.  Formal Liaison Relationships
      2.2.  Liaison Manager
@@ -136,6 +137,31 @@ Table of Contents
    relationship.  Hence, in almost all cases the need for a formal
    relationship is mostly driven by other organizations rather than by
    the IETF.
+
+1.1.  Changes compared to RFC4052
+
+   This version of the document contains the following updates:
+
+   1.  Notes in the Introduction and Section 2.1 on "Liaison
+       Relationsships" that the IETF process itself does not require a
+       formal liaison relationship, e.g. for document access or meeting
+       participation, and therefore the need for a formal liaison
+       relationship of often driven by processes of the peer
+       organization.
+
+   2.  Statement that the "IAB acts as representative of the interests
+       of [..] the Internet Society" has been removed.
+
+   3.  Role of the Liaison Representative (Section 2.3) has been
+       removed; this role is not used in pratice.
+
+   4.  Clarifcation in section on "Liaison Communication" (now 2.3; was
+       2.4) that informal channels are preferred, with and without a
+       formal liaison relationship, and further that liaison statements
+       have no "special standing" in the IETF process.
+
+   5.  Section 4 on "Approval and Transmission of Liaison Statements"
+       has been moved to 4053bis.
 
 2.  Aspects of Liaisons and Liaison Management
 
