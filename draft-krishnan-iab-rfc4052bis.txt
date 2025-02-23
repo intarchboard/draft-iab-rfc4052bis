@@ -2,10 +2,11 @@
 
 
 
-Network Working Group                                        S. Krishnan
-Internet-Draft                                                       IAB
-Intended status: Informational                          20 February 2025
-Expires: 24 August 2025
+Network Working Group                                   S. Krishnan, Ed.
+Internet-Draft                                             M. Kuehlewind
+Obsoletes: 4052 (if approved)                                        IAB
+Intended status: Informational                          23 February 2025
+Expires: 27 August 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -51,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 24 August 2025.
+   This Internet-Draft will expire on 27 August 2025.
 
 Copyright Notice
 
@@ -78,7 +79,7 @@ Table of Contents
      6.1.  Normative References
      6.2.  Informative References
    Acknowledgments
-   Author's Address
+   Authors' Addresses
 
 1.  Introduction
 
@@ -354,8 +355,13 @@ Acknowledgments
    Baker, Scott Bradner, Scott Brim, Avri Doria, Allison Mankin, Thomas
    Narten, Russ Housley and Dan Romasanu.
 
-Author's Address
+Authors' Addresses
 
-   Suresh Krishnan
+   Suresh Krishnan (editor)
    IAB
    Email: suresh.krishnan@gmail.com
+
+
+   Mirja Kuehlewind
+   IAB
+   Email: ietf@kuehlewind.net
