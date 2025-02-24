@@ -26,7 +26,7 @@ author:
     email: ietf@kuehlewind.net
  -
    fullname: Qin Wu
-   orgnization: IAB
+   organization: IAB
    email: bill.wu@huawei.com
 
 normative:
