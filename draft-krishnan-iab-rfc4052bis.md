@@ -35,7 +35,7 @@ informative:
 This document discusses the procedures used by the IAB to establish
 and maintain formal liaison relationships between the IETF and other
 Standards Development Organizations (SDOs), consortia and industry
-fora.  This document also discusses the appointment and
+fora. This document also discusses the appointment and
 responsibilities of IETF liaison managers, and
 the expectations of the IAB in establishing liaison
 relationships.
@@ -62,6 +62,7 @@ the other organization will similarly designate their own liaison
 manager to the IETF.
 
 This document is chiefly concerned with:
+
 - the establishment and maintenance of liaison relationships, and
 - the appointment and responsibilities of IETF liaison managers.
 
@@ -85,6 +86,7 @@ part, SDOs would rather leverage existing work done by other
 organizations than recreate it themselves (and would like the same
 done with respect to their own work).  Establishing a liaison
 relationship can provide the framework for ongoing communications to
+
 - prevent inadvertent duplication of effort, without obstructing
       either organization from pursuing its own mandate;
 - provide authoritative information of one organization's
@@ -113,11 +115,9 @@ A formal liaison relationship is set up when it is mutually agreeable and
 required for some specific purposes, as viewed by the other
 organization, the IAB, and the IETF participants conducting the work. Some potential purposes include:
 
-o The other organization requires a formal liaison relationship in order to provide access to their working documents or standards.
-
-o A formal liaison relationship is required to provide input to ongoing work at other organizations.
-
-o Required to participate in meetings of other organizations
+- The other organization requires a formal liaison relationship in order to provide access to their working documents or standards.
+- A formal liaison relationship is required to provide input to ongoing work at other organizations.
+- Required to participate in meetings of other organizations
 
 There is no set process or form for this; the IETF participants and
 the peer organization approach the IAB, and after discussion come to
@@ -186,11 +186,8 @@ input discussion in specific working group in the IETF.
 The main responsibility of the liaison manager is to ensure good and formally correct communication between the organisations. This often includes:
 
 - Ensure received LSs are recorded and delivered to the relevant groups.
-
 - Ensure replies are sent in time or it is appropriately communicated why a reply is delayed or not sent.
-
 - Ensure liaison statements from the IETF adhere to the formal requirements of the peer organization (e.g. formatting) and are delivered to the appropriate groups.
-
 - Provide additional communication on e.g. process or known consensus positions in the IETF. This may also require to participate in relevant meetings of the peer organisation and potentially report back to the appropriate IETF organization any material information that is intended to be shared by the peer organisation.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison statements. In certain situations
