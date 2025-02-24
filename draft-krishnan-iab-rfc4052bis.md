@@ -123,7 +123,7 @@ This version of the document contains the following updates:
 
 ## Formal Liaison Relationships
 
-A formal liaison relationship is set up when it is mutually agreeable and required for
+A formal liaison relationship is established when it is mutually agreeable and required for
 some specific purposes, as viewed by the other organization, the IAB, and the IETF
 participants conducting the work. Some potential purposes include:
 
@@ -198,7 +198,7 @@ input discussion in specific working group in the IETF.
 # Summary of IETF Liaison Manager Responsibilities
 
 The main responsibility of the liaison manager is to ensure good and formally
-correct communication between the organisations. This often includes:
+correct communication between the organizations. This often includes:
 
 - Ensure received LSs are recorded and delivered to the relevant groups.
 - Ensure replies are sent in time or it is appropriately communicated why a reply
@@ -206,9 +206,9 @@ correct communication between the organisations. This often includes:
 - Ensure liaison statements from the IETF adhere to the formal requirements of the
   peer organization (e.g. formatting) and are delivered to the appropriate groups.
 - Provide additional communication on e.g. process or known consensus positions in
-  the IETF. This may also require to participate in relevant meetings of the peer
-  organisation and potentially report back to the appropriate IETF organization any
-  material information that is intended to be shared by the peer organisation.
+  the IETF. This may also require participation in relevant meetings of the peer
+  organization and potentially report back to the appropriate IETF organization any
+  material information that is intended to be shared by the peer organization.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison
 statements. In certain situations, the liaison manager may carry addional messages, when
