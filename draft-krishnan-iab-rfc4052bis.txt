@@ -5,8 +5,8 @@
 Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                        IAB
-Intended status: Informational                          23 February 2025
-Expires: 27 August 2025
+Intended status: Informational                          24 February 2025
+Expires: 28 August 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 27 August 2025.
+   This Internet-Draft will expire on 28 August 2025.
 
 Copyright Notice
 
@@ -101,9 +101,11 @@ Table of Contents
    organization will similarly designate their own liaison manager to
    the IETF.
 
-   This document is chiefly concerned with: - the establishment and
-   maintenance of liaison relationships, and - the appointment and
-   responsibilities of IETF liaison managers.
+   This document is chiefly concerned with:
+
+   *  the establishment and maintenance of liaison relationships, and
+
+   *  the appointment and responsibilities of IETF liaison managers.
 
    The management of other organizations' liaison managers to the IETF,
    whether or not in the context of a liaison relationship, is outside
@@ -126,10 +128,12 @@ Table of Contents
    organizations than recreate it themselves (and would like the same
    done with respect to their own work).  Establishing a liaison
    relationship can provide the framework for ongoing communications to
-   - prevent inadvertent duplication of effort, without obstructing
-   either organization from pursuing its own mandate; - provide
-   authoritative information of one organization's dependencies on the
-   other's work.
+
+   *  prevent inadvertent duplication of effort, without obstructing
+      either organization from pursuing its own mandate;
+
+   *  provide authoritative information of one organization's
+      dependencies on the other's work.
 
    It is important to note that participation in the IETF work is open
    to everyone, and all the working documents and RFCs are freely
@@ -172,13 +176,13 @@ Table of Contents
    organization, the IAB, and the IETF participants conducting the work.
    Some potential purposes include:
 
-   o The other organization requires a formal liaison relationship in
-   order to provide access to their working documents or standards.
+   *  The other organization requires a formal liaison relationship in
+      order to provide access to their working documents or standards.
 
-   o A formal liaison relationship is required to provide input to
-   ongoing work at other organizations.
+   *  A formal liaison relationship is required to provide input to
+      ongoing work at other organizations.
 
-   o Required to participate in meetings of other organizations
+   *  Required to participate in meetings of other organizations
 
    There is no set process or form for this; the IETF participants and
    the peer organization approach the IAB, and after discussion come to
