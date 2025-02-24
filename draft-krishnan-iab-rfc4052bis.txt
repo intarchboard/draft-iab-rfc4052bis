@@ -5,8 +5,8 @@
 Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                        IAB
-Intended status: Informational                          24 February 2025
-Expires: 28 August 2025
+Intended status: Informational                                     Q. Wu
+Expires: 28 August 2025                                 24 February 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -147,7 +147,7 @@ Table of Contents
    This version of the document contains the following updates:
 
    1.  Notes in the Introduction and Section 2.1 on "Liaison
-       Relationsships" that the IETF process itself does not require a
+       Relationships" that the IETF process itself does not require a
        formal liaison relationship, e.g. for document access or meeting
        participation, and therefore the need for a formal liaison
        relationship of often driven by processes of the peer
@@ -156,8 +156,8 @@ Table of Contents
    2.  Statement that the "IAB acts as representative of the interests
        of [..] the Internet Society" has been removed.
 
-   3.  Role of the Liaison Representative (Section 2.3) has been
-       removed; this role is not used in pratice.
+   3.  Role of the Liaison Representative (Section 2.3) has been removed
+       sincethis role is not used in pratice.
 
    4.  Clarifcation in section on "Liaison Communication" (now 2.3; was
        2.4) that informal channels are preferred, with and without a
@@ -272,7 +272,7 @@ Table of Contents
       organisation.
 
    Formal messages from the IETF to the peer organization are usually
-   carried in liaison statements.  In certain situations the liaison
+   carried in liaison statements.  In certain situations, the liaison
    manager may carry addional messages, when specifically instructed.
    However, if these communications aim to "represent the IETF", they
    must have consensus, e.g. by being based on an RFC or some other
@@ -280,8 +280,8 @@ Table of Contents
 
    Optionally liaison manager may provide updates to the IAB on
    technical matters.  Especially if a concern e.g. regarding technical
-   overlap or correctness is detected this should be communicated to the
-   IAB.  However, given most organization are quite large, it is not
+   overlap or incorrectness is detected this should be communicated to
+   the IAB.  However, given most organization are quite large, it is not
    expected that the liaison manager can have the full overview about
    everything that is going on.
 
@@ -401,3 +401,7 @@ Authors' Addresses
    Mirja Kuehlewind
    IAB
    Email: ietf@kuehlewind.net
+
+
+   Qin Wu
+   Email: bill.wu@huawei.com
