@@ -109,10 +109,10 @@ This version of the document contains the following updates:
 1. Notes in the Introduction and Section 2.1 on "Liaison Relationships" that the
    IETF process itself does not require a formal liaison relationship, e.g. for
    document access or meeting participation, and therefore the need for a formal
-    liaison relationship of often driven by processes of the peer organization.
+   liaison relationship is often driven by processes of the peer organization.
 2. Statement that the "IAB acts as representative of the interests of [..] the
    Internet Society" has been removed.
-3. Role of the Liaison Representative (Section 2.3) has been removed sincethis role
+3. Role of the Liaison Representative (Section 2.3) has been removed since this role
    is not used in pratice.
 4. Clarifcation in section on "Liaison Communication" (now 2.3; was 2.4) that informal
    channels are preferred, with and without a formal liaison relationship, and further
