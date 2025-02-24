@@ -4,8 +4,8 @@
 
 Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
-Obsoletes: 4052 (if approved)                                        IAB
-Intended status: Informational                                     Q. Wu
+Obsoletes: 4052 (if approved)                                      Q. Wu
+Intended status: Informational                                       IAB
 Expires: 28 August 2025                                 24 February 2025
 
 
@@ -404,4 +404,5 @@ Authors' Addresses
 
 
    Qin Wu
+   IAB
    Email: bill.wu@huawei.com
