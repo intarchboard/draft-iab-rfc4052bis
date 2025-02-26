@@ -1,6 +1,6 @@
 ---
 title: "IAB Processes for Management of IETF Liaison Relationships"
-abbrev: "IAB Liaison Management "
+abbrev: "IAB Liaison Management"
 category: info
 
 docname: draft-krishnan-iab-rfc4052bis-latest
