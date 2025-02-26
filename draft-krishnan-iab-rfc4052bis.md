@@ -1,6 +1,6 @@
 ---
 title: "IAB Processes for Management of IETF Liaison Relationships"
-abbrev: "IAB Liaison Management "
+abbrev: "IAB Liaison Management"
 category: info
 
 docname: draft-krishnan-iab-rfc4052bis-latest
@@ -12,7 +12,7 @@ venue:
   group: "Internet Architecture Board"
   type: "Internet Engineering Task Force"
   mail: "iab@iab.org"
-  github: "intarchboard/draft-tab-rfc4052bis"
+  github: "intarchboard/draft-iab-rfc4052bis"
 
 author:
  -
@@ -110,11 +110,11 @@ This version of the document contains the following updates:
    IETF process itself does not require a formal liaison relationship, e.g. for
    document access or meeting participation, and therefore the need for a formal
    liaison relationship is often driven by processes of the peer organization.
-2. Statement that the "IAB acts as representative of the interests of [..] the
+2. Statement that the "IAB acts as representative of the interests of \[..] the
    Internet Society" has been removed.
 3. Role of the Liaison Representative (Section 2.3) has been removed since this role
    is not used in pratice.
-4. Clarifcation in section on "Liaison Communication" (now 2.3; was 2.4) that informal
+4. Clarification in section on "Liaison Communication" (now 2.3; was 2.4) that informal
    channels are preferred, with and without a formal liaison relationship, and further
    that liaison statements have no "special standing" in the IETF process.
 6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
