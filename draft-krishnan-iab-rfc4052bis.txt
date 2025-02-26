@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 28 August 2025                                 24 February 2025
+Expires: 30 August 2025                                 26 February 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -35,7 +35,7 @@ About This Document
    https://www.ietf.org/mailman/listinfo/iab/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/intarchboard/draft-tab-rfc4052bis.
+   https://github.com/intarchboard/draft-iab-rfc4052bis.
 
 Status of This Memo
 
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 28 August 2025.
+   This Internet-Draft will expire on 30 August 2025.
 
 Copyright Notice
 
@@ -159,7 +159,7 @@ Table of Contents
    3.  Role of the Liaison Representative (Section 2.3) has been removed
        since this role is not used in pratice.
 
-   4.  Clarifcation in section on "Liaison Communication" (now 2.3; was
+   4.  Clarification in section on "Liaison Communication" (now 2.3; was
        2.4) that informal channels are preferred, with and without a
        formal liaison relationship, and further that liaison statements
        have no "special standing" in the IETF process.
