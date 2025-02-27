@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-02-25T00:57:46.900559+00:00",
+  "timestamp": "2025-02-27T00:57:34.470255+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -906,6 +906,34 @@
       "mergedBy": "sureshkrishnan",
       "mergeCommit": {
         "oid": "db4ded0c4b6bb95d6c8f8c95f1e3bebbec74aa66"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 29,
+      "id": "PR_kwDOMUjy5c6MjOTV",
+      "title": "Typos",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/29",
+      "state": "MERGED",
+      "author": "martinthomson",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-02-26T01:17:05Z",
+      "updatedAt": "2025-02-26T01:55:03Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "920786b7237871da215d92daea341e0670a7f276",
+      "headRepository": "martinthomson/draft-iab-rfc4052bis",
+      "headRefName": "patch-1",
+      "headRefOid": "acdb6c90296cc25b3d764b0b133134d70436f951",
+      "closedAt": "2025-02-26T01:55:03Z",
+      "mergedAt": "2025-02-26T01:55:03Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "98e3347abb3db5c2bb9b6601d7b45ec5c2ea4053"
       },
       "comments": [],
       "reviews": []
