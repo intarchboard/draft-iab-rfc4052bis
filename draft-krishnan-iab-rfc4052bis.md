@@ -211,7 +211,7 @@ correct communication between the organizations. This often includes:
   material information that is intended to be shared by the peer organization.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison
-statements. In certain situations, the liaison manager may carry addional messages, when
+statements. In certain situations, the liaison manager may carry additional messages, when
 specifically instructed. However, if these communications aim to "represent the IETF",
 they must have consensus, e.g. by being based on an RFC or some other formal statement
 by a group within the IETF.
