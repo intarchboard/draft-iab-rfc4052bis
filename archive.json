@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-02-27T00:57:34.470255+00:00",
+  "timestamp": "2025-03-02T01:01:13.344681+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -314,7 +314,7 @@
       "id": "I_kwDOMUjy5c6q3GeP",
       "title": "Dealing with previous IAB authorship and acknowledgements",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/19",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "sureshkrishnan",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [
@@ -323,9 +323,17 @@
       "labels": [],
       "body": "",
       "createdAt": "2025-02-20T15:50:22Z",
-      "updatedAt": "2025-02-20T15:50:22Z",
-      "closedAt": null,
-      "comments": []
+      "updatedAt": "2025-02-27T13:09:32Z",
+      "closedAt": "2025-02-27T13:09:31Z",
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "merged #22",
+          "createdAt": "2025-02-27T13:09:31Z",
+          "updatedAt": "2025-02-27T13:09:31Z"
+        }
+      ]
     },
     {
       "number": 20,
