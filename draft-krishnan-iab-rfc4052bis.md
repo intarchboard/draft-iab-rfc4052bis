@@ -113,7 +113,7 @@ This version of the document contains the following updates:
 2. Statement that the "IAB acts as representative of the interests of \[..] the
    Internet Society" has been removed.
 3. Role of the Liaison Representative (Section 2.3) has been removed since this role
-   is not used in pratice.
+   is not used in practice.
 4. Clarification in section on "Liaison Communication" (now 2.3; was 2.4) that informal
    channels are preferred, with and without a formal liaison relationship, and further
    that liaison statements have no "special standing" in the IETF process.
