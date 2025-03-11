@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 31 August 2025                                 27 February 2025
+Expires: 12 September 2025                                 11 March 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 31 August 2025.
+   This Internet-Draft will expire on 12 September 2025.
 
 Copyright Notice
 
@@ -157,7 +157,7 @@ Table of Contents
        of [..] the Internet Society" has been removed.
 
    3.  Role of the Liaison Representative (Section 2.3) has been removed
-       since this role is not used in pratice.
+       since this role is not used in practice.
 
    4.  Clarification in section on "Liaison Communication" (now 2.3; was
        2.4) that informal channels are preferred, with and without a
