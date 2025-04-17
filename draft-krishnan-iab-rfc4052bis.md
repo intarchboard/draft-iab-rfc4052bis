@@ -139,7 +139,7 @@ a) There is an overlap in work between one or more groups in each organization t
 
 b) There are formal requirements or other process barriers that hinders informal collaboration. This might also includes the case
    where informal collaboration works well on group-level but the volume and tightly-coupled nature of interactions
-   might make a more formal structure beneficial. However, this case could also be addreseds with other kinds of IAB structures and
+   might make a more formal structure beneficial. However, this case could also be addressed with other kinds of IAB structures and
    might therefore not automatically require a formal liaison relationship with a liaison manager. Further note, that there
    are no processes in the IETF that require a formal liaison relationship. In otherwords, having a formal liaison relationship
    does not give the input or praticiation from the peer organization any different standing or weight than any other individual
