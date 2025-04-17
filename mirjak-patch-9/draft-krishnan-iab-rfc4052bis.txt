@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 28 August 2025                                 24 February 2025
+Expires: 19 October 2025                                   17 April 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -35,7 +35,7 @@ About This Document
    https://www.ietf.org/mailman/listinfo/iab/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/intarchboard/draft-tab-rfc4052bis.
+   https://github.com/intarchboard/draft-iab-rfc4052bis.
 
 Status of This Memo
 
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 28 August 2025.
+   This Internet-Draft will expire on 19 October 2025.
 
 Copyright Notice
 
@@ -157,24 +157,27 @@ Table of Contents
        of [..] the Internet Society" has been removed.
 
    3.  Role of the Liaison Representative (Section 2.3) has been removed
-       since this role is not used in pratice.
+       since this role is not used in practice.
 
-   4.  Clarifcation in section on "Liaison Communication" (now 2.3; was
+   4.  Clarification in section on "Liaison Communication" (now 2.3; was
        2.4) that informal channels are preferred, with and without a
        formal liaison relationship, and further that liaison statements
        have no "special standing" in the IETF process.
 
-   5.  Section 4 on "Approval and Transmission of Liaison Statements"
+   5.  Section on Summary of IETF Liaison Manager Responsibilities
+       reworked.
+
+   6.  Section 4 on "Approval and Transmission of Liaison Statements"
        has been moved to 4053bis.
 
 2.  Aspects of Liaisons and Liaison Management
 
 2.1.  Formal Liaison Relationships
 
-   A formal liaison relationship is set up when it is mutually agreeable
-   and required for some specific purposes, as viewed by the other
-   organization, the IAB, and the IETF participants conducting the work.
-   Some potential purposes include:
+   A formal liaison relationship is established when it is mutually
+   agreeable and required for some specific purposes, as viewed by the
+   other organization, the IAB, and the IETF participants conducting the
+   work.  Some potential purposes include:
 
    *  The other organization requires a formal liaison relationship in
       order to provide access to their working documents or standards.
@@ -251,7 +254,7 @@ Table of Contents
 3.  Summary of IETF Liaison Manager Responsibilities
 
    The main responsibility of the liaison manager is to ensure good and
-   formally correct communication between the organisations.  This often
+   formally correct communication between the organizations.  This often
    includes:
 
    *  Ensure received LSs are recorded and delivered to the relevant
@@ -265,15 +268,15 @@ Table of Contents
       delivered to the appropriate groups.
 
    *  Provide additional communication on e.g. process or known
-      consensus positions in the IETF.  This may also require to
-      participate in relevant meetings of the peer organisation and
+      consensus positions in the IETF.  This may also require
+      participation in relevant meetings of the peer organization and
       potentially report back to the appropriate IETF organization any
       material information that is intended to be shared by the peer
-      organisation.
+      organization.
 
    Formal messages from the IETF to the peer organization are usually
    carried in liaison statements.  In certain situations, the liaison
-   manager may carry addional messages, when specifically instructed.
+   manager may carry additional messages, when specifically instructed.
    However, if these communications aim to "represent the IETF", they
    must have consensus, e.g. by being based on an RFC or some other
    formal statement by a group within the IETF.
