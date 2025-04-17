@@ -195,7 +195,7 @@ Table of Contents
    hinders informal collaboration.  This might also includes the case
    where informal collaboration works well on group-level but the volume
    and tightly-coupled nature of interactions might make a more formal
-   structure beneficial.  However, this case could also be addreseds
+   structure beneficial.  However, this case could also be addressed
    with other kinds of IAB structures and might therefore not
    automatically require a formal liaison relationship with a liaison
    manager.  Further note, that there are no processes in the IETF that
