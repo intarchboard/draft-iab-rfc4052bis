@@ -125,7 +125,7 @@ This version of the document contains the following updates:
 
 A formal liaison relationship is established when it is mutually agreeable and required for
 some specific purposes, as viewed by the other organization, the IAB, and the IETF
-participants conducting the work. 
+participants conducting the work.
 
 The purpose includes two aspects:
 
