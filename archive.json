@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-04-01T01:07:54.585654+00:00",
+  "timestamp": "2025-04-20T01:06:19.527159+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -351,6 +351,38 @@
       "createdAt": "2025-02-20T16:27:49Z",
       "updatedAt": "2025-02-23T00:15:48Z",
       "closedAt": "2025-02-23T00:15:48Z",
+      "comments": []
+    },
+    {
+      "number": 31,
+      "id": "I_kwDOMUjy5c6y-YnD",
+      "title": "Should we mention IAB support groups in this doc?",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/31",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "An the IAB webpage on liaison coordination we also mentions IAB support groups:\n\n\"For a few liaison relationships with organizations where there are a larger number of document dependencies, especially when specifications are developed in parallel, the IAB in addition maintains Coordination Support Groups: currently there are groups for [IEEE](https://datatracker.ietf.org/iabasg/ietfieee/about/), [3GPP](https://datatracker.ietf.org/iabasg/ietf3gpp/about/), and [W3C](https://datatracker.ietf.org/group/ietfw3c/about/).\"\n\nThese groups and the liaison manager role are from my point of view actually independent, meaning that I think we could have a group even without having a formal liaison relationship with a liaison manager and even if we have a liaison manager that doesn't automatically mean that that person also needs to lead the group. Of course usually that setup makes sense but I don't think we have any such formal requirements. Maybe it's worth to write this down somewhere? However, maybe this is not the right doc or maybe we shouldn't write this in an RFC at all because IAB support groups are not a concept that is defined by any RFC?",
+      "createdAt": "2025-04-17T14:38:25Z",
+      "updatedAt": "2025-04-17T14:38:25Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 33,
+      "id": "I_kwDOMUjy5c6y-0D3",
+      "title": "Designed to accommodate process requirement of various other SDOs",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/33",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "I think it would be good to note right at the beginning of the document (in the intro?) that the processes described in this document are designed to accommodate requirements derived from the processes of various other SDOs. Every SDO works different but many have the general concept of a liaison relationship which is required from their side for inter-SDO communication. While the IETF does not have such a requirement (and therefore no special-standing of input or participation though a formal liaison relationship) the liaison process is designed such that we can enable good communication and collaboration with other SDOs. As such we try to have the processes in this document simple, light-weight and flexible to be able to potentially address different requirements from others SDO using the same process on our side.",
+      "createdAt": "2025-04-17T15:22:03Z",
+      "updatedAt": "2025-04-17T15:22:03Z",
+      "closedAt": null,
       "comments": []
     }
   ],
@@ -945,6 +977,99 @@
       },
       "comments": [],
       "reviews": []
+    },
+    {
+      "number": 30,
+      "id": "PR_kwDOMUjy5c6S_3CY",
+      "title": "missing point in \"Changes\" section",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/30",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-04-17T14:11:57Z",
+      "updatedAt": "2025-04-17T14:11:57Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-9",
+      "headRefOid": "d2146d6e57dc329989a607f414957bdff735b339",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 32,
+      "id": "PR_kwDOMUjy5c6TANZ8",
+      "title": "Proposed further text on purpose/pre-conditions to establish a formal\u2026",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/32",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "\u2026 relationship",
+      "createdAt": "2025-04-17T14:51:37Z",
+      "updatedAt": "2025-04-17T15:06:30Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-10",
+      "headRefOid": "5690ecc26a1d36efb8b02544ab0418c72d0d4baf",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c6ld_Dy",
+          "commit": {
+            "abbreviatedOid": "0753bf1"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-04-17T15:05:01Z",
+          "updatedAt": "2025-04-17T15:05:02Z",
+          "comments": [
+            {
+              "originalPosition": 11,
+              "body": "```suggestion\r\nparticipants conducting the work.\r\n```",
+              "createdAt": "2025-04-17T15:05:01Z",
+              "updatedAt": "2025-04-17T15:05:02Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c6leALR",
+          "commit": {
+            "abbreviatedOid": "be8773e"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-04-17T15:06:22Z",
+          "updatedAt": "2025-04-17T15:06:23Z",
+          "comments": [
+            {
+              "originalPosition": 25,
+              "body": "```suggestion\r\n   might make a more formal structure beneficial. However, this case could also be addressed with other kinds of IAB structures and\r\n```",
+              "createdAt": "2025-04-17T15:06:23Z",
+              "updatedAt": "2025-04-17T15:06:23Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
