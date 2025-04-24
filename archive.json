@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-04-20T01:06:19.527159+00:00",
+  "timestamp": "2025-04-24T01:02:30.635748+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -377,13 +377,23 @@
       "state": "OPEN",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
-      "assignees": [],
+      "assignees": [
+        "sureshkrishnan"
+      ],
       "labels": [],
       "body": "I think it would be good to note right at the beginning of the document (in the intro?) that the processes described in this document are designed to accommodate requirements derived from the processes of various other SDOs. Every SDO works different but many have the general concept of a liaison relationship which is required from their side for inter-SDO communication. While the IETF does not have such a requirement (and therefore no special-standing of input or participation though a formal liaison relationship) the liaison process is designed such that we can enable good communication and collaboration with other SDOs. As such we try to have the processes in this document simple, light-weight and flexible to be able to potentially address different requirements from others SDO using the same process on our side.",
       "createdAt": "2025-04-17T15:22:03Z",
-      "updatedAt": "2025-04-17T15:22:03Z",
+      "updatedAt": "2025-04-23T14:37:42Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "Discussed at liaison coordinator meeting on April 23, 2025. Suresh will propose text.",
+          "createdAt": "2025-04-23T14:37:40Z",
+          "updatedAt": "2025-04-23T14:37:40Z"
+        }
+      ]
     }
   ],
   "pulls": [
