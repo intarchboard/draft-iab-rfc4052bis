@@ -199,7 +199,7 @@ In case of liaison statements sent to IAB from other SDO for research topic
 consultation, IAB can choose to forward them to IRTF research group. The IRTF
 chair as a member of IAB can work with IAB, specific IRTF research group chair
 to decide whether the response liaison statement is needed.  Procedures for
-responding to liaison statements is similar to one discussed in 
+responding to liaison statements is similar to one discussed in
 {{?I-D.iab-rfc4053bis}}. Note that IRTF as closely related organization of IETF,
 should not send liaison statement proactively. All the working documents and RFCs
 from IRTF are freely available to everyone without the need for a formal liaison
