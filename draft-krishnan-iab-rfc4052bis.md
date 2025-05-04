@@ -150,6 +150,10 @@ is an expectation that both organizations will use the relationship
 carefully, allowing sufficient time for the requests they make on
 the other organization to be processed.
 
+In case there are a larger number of document dependencies, especially when
+specifications are developed in parallel, IAB Coordination Support Groups
+can be setup, e.g., currently there are groups for IEEE, 3GPP, and W3C.
+
 ## Liaison Manager
 
 As described above, most work on mutually interesting topics will be
