@@ -89,7 +89,8 @@ areas of technical development of mutual interest. For the most
 part, SDOs would rather leverage existing work done by other
 organizations than recreate it themselves (and would like the same
 done with respect to their own work).  Establishing a liaison
-relationship can provide the framework for ongoing communications to
+relationship and appointing liaison managers in both IETF and peer
+organization can provide the framework for ongoing communications to
 
 - prevent inadvertent duplication of effort, without obstructing
   either organization from pursuing its own mandate;
