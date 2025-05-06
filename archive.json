@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-04-24T01:02:30.635748+00:00",
+  "timestamp": "2025-05-06T01:03:36.285290+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -127,7 +127,7 @@
       ],
       "body": "There needs to be text in the document that everyone is open to participate in the IETF: all the documents are freely available to everyone and any input/output going through the liaisons is really going through the same WG/IETF process as any other participants.",
       "createdAt": "2024-11-03T07:50:13Z",
-      "updatedAt": "2025-02-20T15:47:22Z",
+      "updatedAt": "2025-05-04T03:31:05Z",
       "closedAt": null,
       "comments": [
         {
@@ -136,6 +136,13 @@
           "body": "It seems to me there is gray area whether this issue should be addressed in RFC4052bis or RFC4053bis?",
           "createdAt": "2025-02-18T12:41:58Z",
           "updatedAt": "2025-02-18T12:41:58Z"
+        },
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "See section 1:\n\"\nIt is important to note that participation in the IETF work is open to everyone, and all the working documents and RFCs are freely available to everyone without the need for a formal liaison relationship. Hence, in almost all cases the need for a formal relationship is mostly driven by other organizations rather than by the IETF.\n\"\n\nSee section 2.3:\n\"\nNote that communications between organizations have no difference to any other IETF contributions and should follow the same IETF process and polices and should be open to everyone for inputs and contributions, e.g., input discussion in specific working group in the IETF.\n\"\nIs this something we have already fixed? No?",
+          "createdAt": "2025-05-04T03:31:04Z",
+          "updatedAt": "2025-05-04T03:31:04Z"
         }
       ]
     },
@@ -183,9 +190,17 @@
       ],
       "body": "RFC4691 (https://datatracker.ietf.org/doc/html/rfc4691) seems to actually duplicate quite some thing from RFC4052, there I think it would be more beneficial to merge them together. Especially section 3.4 and 3.5 of RFC4691 should be merged with section 3 and 4 of RFC4052, respectively. Also we chould add a more clear statement on \" Speaking for the IETF\" Section 3.1.1 of RFC4691 to RFC4052bis. But not sure if we need much from section 3.2 and 3.3 though.",
       "createdAt": "2025-01-21T10:22:17Z",
-      "updatedAt": "2025-02-12T13:52:07Z",
+      "updatedAt": "2025-05-04T03:39:33Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "related to #9 as well ",
+          "createdAt": "2025-05-04T03:39:32Z",
+          "updatedAt": "2025-05-04T03:39:32Z"
+        }
+      ]
     },
     {
       "number": 7,
@@ -269,9 +284,17 @@
       ],
       "body": "Usually the term \"liaison\" is quite loosely used. e.g. people might call a liaison statement a \"liaison\" or assume that there is something like a default liaison between all (technical orgs). We should clearly define that informal liaison relationships are fine when e.g. when formal liaison statements or any entirely information communication between groups. However, we only talk about a formal liaison relationship if on our side the IAB has appointed a liaison manager and on the other side there is some kind of agreement or process recognises this relationship (formally); this may include cases where the other org has also appointed a liaison manager but no other written agreement. ",
       "createdAt": "2025-01-31T16:02:21Z",
-      "updatedAt": "2025-02-12T13:46:34Z",
+      "updatedAt": "2025-05-04T03:11:56Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Should such unwritten agreement be documented in this RFC4052bis? Or we just acknowledge such unwritten agreement exist?\nnote that whether a liaison manager can be appointed from other side and interface with IETF is not something we can influence? no? or we should have best practice to make sure both side have liaison manager to interface with each other's SDOs.",
+          "createdAt": "2025-05-04T03:06:59Z",
+          "updatedAt": "2025-05-04T03:11:55Z"
+        }
+      ]
     },
     {
       "number": 10,
@@ -305,9 +328,17 @@
       ],
       "body": "There are liaisons that are received that might be relevant for research groups. Currently this is informally processed through the IRTF chair who is part of the IAB. Do we need to formalize this somehow in this document.",
       "createdAt": "2025-02-12T13:51:06Z",
-      "updatedAt": "2025-02-12T13:52:36Z",
+      "updatedAt": "2025-05-04T02:56:15Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "I feel describing liaison relationship for IRTF is over engineering since the focus of RFC4052bis is IETF liaison relationship management. Since we have already had several exceptional cases to receive liaison statement from ITU-T, here is proposed text\nto section 2.3:\n\"\nIn case of liaison statements sent to IAB from other SDO for research topic consultation, IAB can choose to forward them to IRTF\nresearch group. IRTF chair as a member of IAB can work with IAB, specific IRTF research group chair to decide whether the response liaison statement is needed.  Procedures for responding to liaison statements is similar to one discussed in [I.D-iab-rfc4053bis]. Note that IRTF as closely related organization of IETF, should not send liaison statement proactively.\n\"",
+          "createdAt": "2025-05-04T02:56:14Z",
+          "updatedAt": "2025-05-04T02:56:14Z"
+        }
+      ]
     },
     {
       "number": 19,
@@ -365,9 +396,17 @@
       "labels": [],
       "body": "An the IAB webpage on liaison coordination we also mentions IAB support groups:\n\n\"For a few liaison relationships with organizations where there are a larger number of document dependencies, especially when specifications are developed in parallel, the IAB in addition maintains Coordination Support Groups: currently there are groups for [IEEE](https://datatracker.ietf.org/iabasg/ietfieee/about/), [3GPP](https://datatracker.ietf.org/iabasg/ietf3gpp/about/), and [W3C](https://datatracker.ietf.org/group/ietfw3c/about/).\"\n\nThese groups and the liaison manager role are from my point of view actually independent, meaning that I think we could have a group even without having a formal liaison relationship with a liaison manager and even if we have a liaison manager that doesn't automatically mean that that person also needs to lead the group. Of course usually that setup makes sense but I don't think we have any such formal requirements. Maybe it's worth to write this down somewhere? However, maybe this is not the right doc or maybe we shouldn't write this in an RFC at all because IAB support groups are not a concept that is defined by any RFC?",
       "createdAt": "2025-04-17T14:38:25Z",
-      "updatedAt": "2025-04-17T14:38:25Z",
+      "updatedAt": "2025-05-04T07:08:39Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Section 2.1 said:\n\"\nThe peer organization often has different organizational structure and procedures than the IETF, which will require some flexibility on the part of both organizations to accommodate.\n\"\nwhat else do we need?",
+          "createdAt": "2025-05-04T07:08:37Z",
+          "updatedAt": "2025-05-04T07:08:37Z"
+        }
+      ]
     },
     {
       "number": 33,
@@ -1080,6 +1119,110 @@
           ]
         }
       ]
+    },
+    {
+      "number": 34,
+      "id": "PR_kwDOMUjy5c6U1tBk",
+      "title": "Describe liaison relationships for IRTF",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/34",
+      "state": "OPEN",
+      "author": "billwuqin",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "#13",
+      "createdAt": "2025-05-04T03:01:13Z",
+      "updatedAt": "2025-05-04T03:04:04Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "billwuqin-patch-6",
+      "headRefOid": "b6947432c40099e6cef6f02521ed566ded96ffc1",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 35,
+      "id": "PR_kwDOMUjy5c6U1u_K",
+      "title": "Recommend both side to appoint liaison manager",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/35",
+      "state": "OPEN",
+      "author": "billwuqin",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Fix #9 \r\nThis is a little over design, in my thinking",
+      "createdAt": "2025-05-04T03:24:51Z",
+      "updatedAt": "2025-05-04T03:24:52Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "billwuqin-patch-7",
+      "headRefOid": "c9dfcdf0df711dfe703ddc8ab3c8fe6d8de381f5",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 36,
+      "id": "PR_kwDOMUjy5c6U17lZ",
+      "title": "RFC4691 consolidation",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/36",
+      "state": "OPEN",
+      "author": "billwuqin",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Fix #6",
+      "createdAt": "2025-05-04T06:51:30Z",
+      "updatedAt": "2025-05-04T06:51:30Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "billwuqin-patch-8",
+      "headRefOid": "4d824f92c4f52d1ea6b264f50c95a2ddcbd372e4",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 37,
+      "id": "PR_kwDOMUjy5c6U18uy",
+      "title": "Clarify when we need IAB support groups",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/37",
+      "state": "OPEN",
+      "author": "billwuqin",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-05-04T07:05:58Z",
+      "updatedAt": "2025-05-04T07:05:59Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "billwuqin-patch-9",
+      "headRefOid": "ed445a850b9fc0a13f84735ef92212a79b87926a",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
     }
   ]
 }
