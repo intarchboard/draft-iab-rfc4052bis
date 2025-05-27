@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-05-06T01:03:36.285290+00:00",
+  "timestamp": "2025-05-27T01:04:11.424156+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -1132,7 +1132,7 @@
       "labels": [],
       "body": "#13",
       "createdAt": "2025-05-04T03:01:13Z",
-      "updatedAt": "2025-05-04T03:04:04Z",
+      "updatedAt": "2025-05-26T14:15:51Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
@@ -1143,7 +1143,15 @@
       "mergedAt": null,
       "mergedBy": null,
       "mergeCommit": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "I think this text belongs into RFC4053bis. @sureshkrishnan indicated that he want to note it in both docs but why?\r\n\r\nIf we want to note something in RFC4052bis that it should be a liaison relationships. Maybe we can say somewhere that the IRTF is not an SDO and therefore not part of the formal relationship (but might be handled by the IAB).",
+          "createdAt": "2025-05-26T14:15:50Z",
+          "updatedAt": "2025-05-26T14:15:50Z"
+        }
+      ],
       "reviews": []
     },
     {
@@ -1158,7 +1166,7 @@
       "labels": [],
       "body": "Fix #9 \r\nThis is a little over design, in my thinking",
       "createdAt": "2025-05-04T03:24:51Z",
-      "updatedAt": "2025-05-04T03:24:52Z",
+      "updatedAt": "2025-05-26T14:52:56Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
@@ -1169,7 +1177,15 @@
       "mergedAt": null,
       "mergedBy": null,
       "mergeCommit": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "I wouldn't want to add this in this sentence. For the IETF, creating a liaison relationship implies that we appoint a liaison manager and maybe we should say that somewhere in the document explicitly (if not already notes somewhere). However, what the process of the other SDO is, is not in our hands. An SDO could also e.g. decide to not have an explicit liaison or handle all formal liaisons through a central role. For example I think we don't have a counter part in ISO and our liaison manager would probably handle both incoming and outgoing liaisons.\r\n\r\nAlso note that this change to not address issue #9. Therefore please do not use the keyword \"fix\"; using this keyword would automatically close the issue when this PR is merged.",
+          "createdAt": "2025-05-26T14:52:54Z",
+          "updatedAt": "2025-05-26T14:52:54Z"
+        }
+      ],
       "reviews": []
     },
     {
@@ -1184,7 +1200,7 @@
       "labels": [],
       "body": "Fix #6",
       "createdAt": "2025-05-04T06:51:30Z",
-      "updatedAt": "2025-05-04T06:51:30Z",
+      "updatedAt": "2025-05-26T15:06:20Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
@@ -1196,7 +1212,28 @@
       "mergedBy": null,
       "mergeCommit": null,
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c6q_Rc7",
+          "commit": {
+            "abbreviatedOid": "4d824f9"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-05-26T15:06:20Z",
+          "updatedAt": "2025-05-26T15:06:20Z",
+          "comments": [
+            {
+              "originalPosition": 81,
+              "body": "Note that Section 3.4 in RFC4691 is an extended version of the list provided in RFC4052 in section 3.\r\n\r\nI think we should not add these points.\r\n\r\nOn the first bullet, I don't think we should have a requirement to provide reports if everything runs fine. It's more a requirement/duty for the IAB to check from time to time with the liaison manager if things are actually fine.\r\n\r\nFurther, I think the second bullet is not needed as the more detailed responsibilities are listed above already. I don't think this text adds much. If a liaison manager helps to write the reply text, he/she would also do that more as an expert but not necessarily as part of the liaison manager role. But there is no requirement for the liaison manager to right the text; usually the chairs/ADs or some technical expert should write the text. \r\n\r\n",
+              "createdAt": "2025-05-26T15:06:20Z",
+              "updatedAt": "2025-05-26T15:06:20Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "number": 37,
@@ -1210,7 +1247,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2025-05-04T07:05:58Z",
-      "updatedAt": "2025-05-04T07:05:59Z",
+      "updatedAt": "2025-05-26T15:15:23Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
@@ -1222,7 +1259,48 @@
       "mergedBy": null,
       "mergeCommit": null,
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c6q_Yng",
+          "commit": {
+            "abbreviatedOid": "ed445a8"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-05-26T15:13:29Z",
+          "updatedAt": "2025-05-26T15:13:29Z",
+          "comments": [
+            {
+              "originalPosition": 6,
+              "body": "\"Coordination Support Groups\" are not officially defined anywhere in an RFC and therefore don't have to exist in future, there is would be good to formulate this more generally: \r\n```suggestion\r\nIf more tight coordination is needed, e.g. in cases where there are\r\na larger number of document dependencies, especially when\r\nspecifications are developed in parallel, the IAB might consider\r\nadditional activities such as meetings or call with the relevant\r\npeople (e.g. chairs, ADs, and authors). Such activities could be\r\none-time events or organised in a standing groups. The liaison manager\r\nshould be involved in these activities and may even help to lead the\r\norganisation of those activities.\r\n```",
+              "createdAt": "2025-05-26T15:13:29Z",
+              "updatedAt": "2025-05-26T15:13:29Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c6q_Zjz",
+          "commit": {
+            "abbreviatedOid": "ed445a8"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-05-26T15:15:23Z",
+          "updatedAt": "2025-05-26T15:15:23Z",
+          "comments": [
+            {
+              "originalPosition": 6,
+              "body": "Also not sure this is the right place in the document? Maybe it would be better to move this into the intro because these activities are actually _NOT_ part of the formal liaison relationship but more something the IAB decides to do in addition.",
+              "createdAt": "2025-05-26T15:15:23Z",
+              "updatedAt": "2025-05-26T15:15:23Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
