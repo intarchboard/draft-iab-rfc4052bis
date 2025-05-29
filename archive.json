@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-05-27T01:04:11.424156+00:00",
+  "timestamp": "2025-05-29T01:05:27.014194+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -322,13 +322,15 @@
       "state": "OPEN",
       "author": "sureshkrishnan",
       "authorAssociation": "CONTRIBUTOR",
-      "assignees": [],
+      "assignees": [
+        "sureshkrishnan"
+      ],
       "labels": [
         "-01"
       ],
       "body": "There are liaisons that are received that might be relevant for research groups. Currently this is informally processed through the IRTF chair who is part of the IAB. Do we need to formalize this somehow in this document.",
       "createdAt": "2025-02-12T13:51:06Z",
-      "updatedAt": "2025-05-04T02:56:15Z",
+      "updatedAt": "2025-05-27T15:46:14Z",
       "closedAt": null,
       "comments": [
         {
@@ -1159,21 +1161,21 @@
       "id": "PR_kwDOMUjy5c6U1u_K",
       "title": "Recommend both side to appoint liaison manager",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/35",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "billwuqin",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
-      "body": "Fix #9 \r\nThis is a little over design, in my thinking",
+      "body": "Target to #9 \r\nThis is a little over design, in my thinking",
       "createdAt": "2025-05-04T03:24:51Z",
-      "updatedAt": "2025-05-26T14:52:56Z",
+      "updatedAt": "2025-05-27T15:49:15Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "billwuqin-patch-7",
       "headRefOid": "c9dfcdf0df711dfe703ddc8ab3c8fe6d8de381f5",
-      "closedAt": null,
+      "closedAt": "2025-05-27T15:49:15Z",
       "mergedAt": null,
       "mergedBy": null,
       "mergeCommit": null,
@@ -1184,6 +1186,13 @@
           "body": "I wouldn't want to add this in this sentence. For the IETF, creating a liaison relationship implies that we appoint a liaison manager and maybe we should say that somewhere in the document explicitly (if not already notes somewhere). However, what the process of the other SDO is, is not in our hands. An SDO could also e.g. decide to not have an explicit liaison or handle all formal liaisons through a central role. For example I think we don't have a counter part in ISO and our liaison manager would probably handle both incoming and outgoing liaisons.\r\n\r\nAlso note that this change to not address issue #9. Therefore please do not use the keyword \"fix\"; using this keyword would automatically close the issue when this PR is merged.",
           "createdAt": "2025-05-26T14:52:54Z",
           "updatedAt": "2025-05-26T14:52:54Z"
+        },
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Good point, this also align with my comment in #9, but how we can address this issue? Does nothing, rather than document unwritten agreement to have liaison manager in both side?",
+          "createdAt": "2025-05-27T13:17:42Z",
+          "updatedAt": "2025-05-27T13:17:42Z"
         }
       ],
       "reviews": []
