@@ -257,10 +257,6 @@ correct communication between the organizations. This often includes:
   the IETF. This may also require participation in relevant meetings of the peer
   organization and potentially report back to the appropriate IETF organization any
   material information that is intended to be shared by the peer organization.
-- Provide report to the IETF on the status of the liaison relationship or update on
-  developments in the peer organization either by written reports or verbally as
-  requested by the IAB or other interested parties in the IETF.
-- Assist with the preparation of IETF liaison statements based on IETF consensus.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison
 statements. In certain situations, the liaison manager may carry additional messages, when
