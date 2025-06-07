@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 5 November 2025                                      4 May 2025
+Expires: 9 December 2025                                     7 June 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 5 November 2025.
+   This Internet-Draft will expire on 9 December 2025.
 
 Copyright Notice
 
@@ -320,14 +320,6 @@ Table of Contents
       potentially report back to the appropriate IETF organization any
       material information that is intended to be shared by the peer
       organization.
-
-   *  Provide report to the IETF on the status of the liaison
-      relationship or update on developments in the peer organization
-      either by written reports or verbally as requested by the IAB or
-      other interested parties in the IETF.
-
-   *  Assist with the preparation of IETF liaison statements based on
-      IETF consensus.
 
    Formal messages from the IETF to the peer organization are usually
    carried in liaison statements.  In certain situations, the liaison
