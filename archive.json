@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-05-29T01:05:27.014194+00:00",
+  "timestamp": "2025-06-08T01:12:12.383059+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -1127,21 +1127,21 @@
       "id": "PR_kwDOMUjy5c6U1tBk",
       "title": "Describe liaison relationships for IRTF",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/34",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "billwuqin",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "#13",
       "createdAt": "2025-05-04T03:01:13Z",
-      "updatedAt": "2025-05-26T14:15:51Z",
+      "updatedAt": "2025-06-07T12:01:10Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "billwuqin-patch-6",
       "headRefOid": "b6947432c40099e6cef6f02521ed566ded96ffc1",
-      "closedAt": null,
+      "closedAt": "2025-06-07T12:01:10Z",
       "mergedAt": null,
       "mergedBy": null,
       "mergeCommit": null,
@@ -1152,6 +1152,13 @@
           "body": "I think this text belongs into RFC4053bis. @sureshkrishnan indicated that he want to note it in both docs but why?\r\n\r\nIf we want to note something in RFC4052bis that it should be a liaison relationships. Maybe we can say somewhere that the IRTF is not an SDO and therefore not part of the formal relationship (but might be handled by the IAB).",
           "createdAt": "2025-05-26T14:15:50Z",
           "updatedAt": "2025-05-26T14:15:50Z"
+        },
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "I have moved PR #34 from 4052bis to 4053bis",
+          "createdAt": "2025-06-07T12:01:08Z",
+          "updatedAt": "2025-06-07T12:01:08Z"
         }
       ],
       "reviews": []
@@ -1207,15 +1214,15 @@
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
-      "body": "Fix #6",
+      "body": "Relevant to #6",
       "createdAt": "2025-05-04T06:51:30Z",
-      "updatedAt": "2025-05-26T15:06:20Z",
+      "updatedAt": "2025-06-07T12:13:31Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "billwuqin-patch-8",
-      "headRefOid": "4d824f92c4f52d1ea6b264f50c95a2ddcbd372e4",
+      "headRefOid": "746e2fd444a30b9ac90644692eb5a5a342c708aa",
       "closedAt": null,
       "mergedAt": null,
       "mergedBy": null,
@@ -1239,6 +1246,26 @@
               "body": "Note that Section 3.4 in RFC4691 is an extended version of the list provided in RFC4052 in section 3.\r\n\r\nI think we should not add these points.\r\n\r\nOn the first bullet, I don't think we should have a requirement to provide reports if everything runs fine. It's more a requirement/duty for the IAB to check from time to time with the liaison manager if things are actually fine.\r\n\r\nFurther, I think the second bullet is not needed as the more detailed responsibilities are listed above already. I don't think this text adds much. If a liaison manager helps to write the reply text, he/she would also do that more as an expert but not necessarily as part of the liaison manager role. But there is no requirement for the liaison manager to right the text; usually the chairs/ADs or some technical expert should write the text. \r\n\r\n",
               "createdAt": "2025-05-26T15:06:20Z",
               "updatedAt": "2025-05-26T15:06:20Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c6tSi-v",
+          "commit": {
+            "abbreviatedOid": "4d824f9"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-06-07T12:11:29Z",
+          "updatedAt": "2025-06-07T12:11:29Z",
+          "comments": [
+            {
+              "originalPosition": 81,
+              "body": "Agree Section 3.4 in RFC4691 overlap with section 3 of RFC4052 in section 3.\r\nThe list provided in section 3 of RFC4052bis has already been good enough, I will remove this duplicated part proposed in this PR ",
+              "createdAt": "2025-06-07T12:11:29Z",
+              "updatedAt": "2025-06-07T12:11:30Z"
             }
           ]
         }
