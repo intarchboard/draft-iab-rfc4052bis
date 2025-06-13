@@ -160,9 +160,7 @@ manager must not send liaison statements on their own initiative to a
 liaised organization on behalf of IETF, or any of its areas and
 working groups. The liaison manager speaks on behalf of the IETF on
 the subject matter of the liaison, but only after making sure that
-the IETF consensus is understood. Therefore the liaison manager needs
-to have close and detailed coordination/consultation with the IETF
-community.
+the IETF consensus is understood.
 
 ### Main Function of the Liaison manager
 
