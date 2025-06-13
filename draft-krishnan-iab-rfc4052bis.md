@@ -156,7 +156,7 @@ the other organization to be processed.
 
 The mandate for IETF liaison managers is strictly limited to
 conveying IETF consensus to the liaised organization.  The liaison
-manager MUST NOT on their own initiative send liaison statements to a
+manager must not send liaison statements on their own initiative to a
 liaised organization on behalf of IETF, or any of its areas and
 working groups. The liaison manager speaks on behalf of the IETF on
 the subject matter of the liaison, but only after making sure that
