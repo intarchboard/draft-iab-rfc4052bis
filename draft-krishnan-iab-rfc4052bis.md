@@ -117,6 +117,7 @@ This version of the document contains the following updates:
 4. Clarification in section on "Liaison Communication" (now 2.3; was 2.4) that informal
    channels are preferred, with and without a formal liaison relationship, and further
    that liaison statements have no "special standing" in the IETF process.
+5. Section on Summary of IETF Liaison Manager Responsibilities reworked.
 6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
 
 # Aspects of Liaisons and Liaison Management
