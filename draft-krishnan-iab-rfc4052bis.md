@@ -126,13 +126,30 @@ This version of the document contains the following updates:
 
 A formal liaison relationship is established when it is mutually agreeable and required for
 some specific purposes, as viewed by the other organization, the IAB, and the IETF
-participants conducting the work. Some potential purposes include:
+participants conducting the work.
 
-- The other organization requires a formal liaison relationship in order to provide access
-  to their working documents or standards.
-- A formal liaison relationship is required to provide input to ongoing work at other
-  organizations.
-- Required to participate in meetings of other organizations
+The purpose includes two aspects:
+
+a) There is an overlap in work between one or more groups in each organization that requires close collaboration.
+   This might include situation where one group in one organization has a dependency on a document produced in the other
+   organization and requests in-depth support or would like to feedback new requirements. However note that the agreeded need
+   for close callobaration is a pre-condition for establishing a formal liaison relationship but does automatically require the establishment
+   of a formal liaison relationship as long as as there are no other formal or process barriers that are hindering the collaboration.
+   Generally informal collaboration is prefered and even formal communication in form of liaison statements, if needed,
+   can be used without establishing a formal liaison relationship.
+
+b) There are formal requirements or other process barriers that hinders informal collaboration. This might also includes the case
+   where informal collaboration works well on group-level but the volume and tightly-coupled nature of interactions
+   might make a more formal structure beneficial. However, this case could also be addressed with other kinds of IAB structures and
+   might therefore not automatically require a formal liaison relationship with a liaison manager. Further note, that there
+   are no processes in the IETF that require a formal liaison relationship. In otherwords, having a formal liaison relationship
+   does not give the input or praticiation from the peer organization any different standing or weight than any other individual
+   contribution. However, there might be formal requirements from the peer organization to enable collaboration within the peer organization's
+   processes. Such potential formal requirements include the need for a formal liaison relationship:
+
+    - To get access to the peer organization's working documents or standards.
+    - To provide input to ongoing work at the peer organization.
+    - To participate in meetings of the peer organization.
 
 There is no set process or form for this; the IETF participants and
 the peer organization approach the IAB, and after discussion come to
