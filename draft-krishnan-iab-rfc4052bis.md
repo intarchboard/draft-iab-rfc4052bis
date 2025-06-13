@@ -187,40 +187,6 @@ result in a satisfactory outcome, the IAB itself.
 IETF liaison managers should also communicate and coordinate with
 other liaison managers where concerned technical activities overlap.
 
-### Liaison Managers Representing Peer Organizations
-
-Liaised organizations may appoint a person to act as a liaison
-manager for "their side" of the relationship.  This is the person
-that will speak authoritatively, within the IETF, on the activities
-performed by the other organization.  The other organization needs to
-make this person known to the IETF.  This person might request a slot
-on a working group agenda to discuss developments and plans of the
-liaised organization.
-
-Opinions expressed by a liaison mangers of other SDOs, other than
-reports on work within the liaised organization, are given equal
-weight with opinions expressed by other working group participants.
-{{?RFC3356}} describes this in the context of the relationship
-between the IETF and the ITU-T; however, the same model is applicable
-to all other organizations with which the IETF has a liaison
-relationship.
-
-The mandates of liaison managers from other organizations are
-recognized by the IETF to the extent needed to understand the
-information received from the liaison manager.  In all other respects
-he or she participates in IETF activities under the same conditions
-and rules as any other IETF participant.  It is important that the
-IETF liaison manager understands the extent to which the peer liaison
-manager is mandated or delegated to speak on behalf of the peer
-organization, and to inform the relevant part of the IETF if the peer
-liaison manager appears to be stepping outside the role or stance
-given to him or her by the peer organization.
-
-IETF liaison managers should work to include the liaison manager from
-the liaised organization within their contact network, and to
-understand the positions being communicated by the peer liaison
-manager.
-
 ## Liaison Communications
 
 Communications between organizations use a variety of formal and informal
