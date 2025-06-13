@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 9 December 2025                                     7 June 2025
+Expires: 15 December 2025                                   13 June 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 9 December 2025.
+   This Internet-Draft will expire on 15 December 2025.
 
 Copyright Notice
 
@@ -210,7 +210,7 @@ Table of Contents
 
    The mandate for IETF liaison managers is strictly limited to
    conveying IETF consensus to the liaised organization.  The liaison
-   manager MUST NOT on their own initiative send liaison statements to a
+   manager must not send liaison statements on their own initiative to a
    liaised organization on behalf of IETF, or any of its areas and
    working groups.  The liaison manager speaks on behalf of the IETF on
    the subject matter of the liaison, but only after making sure that
