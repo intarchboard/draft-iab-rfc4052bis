@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 12 September 2025                                 11 March 2025
+Expires: 15 December 2025                                   13 June 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 12 September 2025.
+   This Internet-Draft will expire on 15 December 2025.
 
 Copyright Notice
 
@@ -164,7 +164,10 @@ Table of Contents
        formal liaison relationship, and further that liaison statements
        have no "special standing" in the IETF process.
 
-   5.  Section 4 on "Approval and Transmission of Liaison Statements"
+   5.  Section on Summary of IETF Liaison Manager Responsibilities
+       reworked.
+
+   6.  Section 4 on "Approval and Transmission of Liaison Statements"
        has been moved to 4053bis.
 
 2.  Aspects of Liaisons and Liaison Management
