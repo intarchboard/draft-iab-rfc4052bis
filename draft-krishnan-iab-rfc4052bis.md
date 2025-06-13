@@ -170,6 +170,18 @@ the other organization to be processed.
 
 ## Liaison Manager
 
+### Speaking for the IETF
+
+The mandate for IETF liaison managers is strictly limited to
+conveying IETF consensus to the liaised organization.  The liaison
+manager must not send liaison statements on their own initiative to a
+liaised organization on behalf of IETF, or any of its areas and
+working groups. The liaison manager speaks on behalf of the IETF on
+the subject matter of the liaison, but only after making sure that
+the IETF consensus is understood.
+
+### Main Function of the Liaison manager
+
 As described above, most work on mutually interesting topics will be
 carried out in the usual way within the IETF and the peer
 organization.  Therefore, most communications will be informal in
@@ -184,14 +196,14 @@ inappropriate party, such as being sent to the WG but not copying the
 Area Director (AD) or being sent to the wrong WG, the liaison manager
 will help redirect or otherwise augment the communication.
 
-IETF liaison managers should also communicate and coordinate with
-other liaison managers where concerned technical activities overlap.
-
 Since the IAB is ultimately responsible for liaison relationships,
 anyone who has a problem with a relationship (whether an IETF
 participant or a person from the peer organization) should first
 consult the IAB's designated liaison manager, and if that does not
 result in a satisfactory outcome, the IAB itself.
+
+IETF liaison managers should also communicate and coordinate with
+other liaison managers where concerned technical activities overlap.
 
 ## Liaison Communications
 
