@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-06-08T01:12:12.383059+00:00",
+  "timestamp": "2025-06-15T01:13:43.144115+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -116,7 +116,7 @@
       "id": "I_kwDOMUjy5c6c0oVq",
       "title": "Explain that liaisons have no special place in the IETF processes",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/4",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "sureshkrishnan",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [
@@ -127,8 +127,8 @@
       ],
       "body": "There needs to be text in the document that everyone is open to participate in the IETF: all the documents are freely available to everyone and any input/output going through the liaisons is really going through the same WG/IETF process as any other participants.",
       "createdAt": "2024-11-03T07:50:13Z",
-      "updatedAt": "2025-05-04T03:31:05Z",
-      "closedAt": null,
+      "updatedAt": "2025-06-13T15:08:47Z",
+      "closedAt": "2025-06-13T15:08:47Z",
       "comments": [
         {
           "author": "billwuqin",
@@ -143,6 +143,20 @@
           "body": "See section 1:\n\"\nIt is important to note that participation in the IETF work is open to everyone, and all the working documents and RFCs are freely available to everyone without the need for a formal liaison relationship. Hence, in almost all cases the need for a formal relationship is mostly driven by other organizations rather than by the IETF.\n\"\n\nSee section 2.3:\n\"\nNote that communications between organizations have no difference to any other IETF contributions and should follow the same IETF process and polices and should be open to everyone for inputs and contributions, e.g., input discussion in specific working group in the IETF.\n\"\nIs this something we have already fixed? No?",
           "createdAt": "2025-05-04T03:31:04Z",
           "updatedAt": "2025-05-04T03:31:04Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "We now also proposed more text for the intro in 4053bis. That seems sufficient to me. Should we close the issue here?",
+          "createdAt": "2025-06-13T13:50:59Z",
+          "updatedAt": "2025-06-13T13:50:59Z"
+        },
+        {
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "This has been addressed in new text added in rfc4053bis.",
+          "createdAt": "2025-06-13T15:08:47Z",
+          "updatedAt": "2025-06-13T15:08:47Z"
         }
       ]
     },
@@ -179,7 +193,7 @@
       "id": "I_kwDOMUjy5c6m-XSA",
       "title": "Should we merge RFC4691 into RFC4052bis?",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/6",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [
@@ -190,8 +204,8 @@
       ],
       "body": "RFC4691 (https://datatracker.ietf.org/doc/html/rfc4691) seems to actually duplicate quite some thing from RFC4052, there I think it would be more beneficial to merge them together. Especially section 3.4 and 3.5 of RFC4691 should be merged with section 3 and 4 of RFC4052, respectively. Also we chould add a more clear statement on \" Speaking for the IETF\" Section 3.1.1 of RFC4691 to RFC4052bis. But not sure if we need much from section 3.2 and 3.3 though.",
       "createdAt": "2025-01-21T10:22:17Z",
-      "updatedAt": "2025-05-04T03:39:33Z",
-      "closedAt": null,
+      "updatedAt": "2025-06-13T15:23:12Z",
+      "closedAt": "2025-06-13T15:23:12Z",
       "comments": [
         {
           "author": "billwuqin",
@@ -273,7 +287,7 @@
       "id": "I_kwDOMUjy5c6oUO02",
       "title": "terminology: define and use \"formal liaison relationship\"?",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/9",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [
@@ -284,8 +298,8 @@
       ],
       "body": "Usually the term \"liaison\" is quite loosely used. e.g. people might call a liaison statement a \"liaison\" or assume that there is something like a default liaison between all (technical orgs). We should clearly define that informal liaison relationships are fine when e.g. when formal liaison statements or any entirely information communication between groups. However, we only talk about a formal liaison relationship if on our side the IAB has appointed a liaison manager and on the other side there is some kind of agreement or process recognises this relationship (formally); this may include cases where the other org has also appointed a liaison manager but no other written agreement. ",
       "createdAt": "2025-01-31T16:02:21Z",
-      "updatedAt": "2025-05-04T03:11:56Z",
-      "closedAt": null,
+      "updatedAt": "2025-06-13T15:11:20Z",
+      "closedAt": "2025-06-13T15:11:20Z",
       "comments": [
         {
           "author": "billwuqin",
@@ -293,6 +307,13 @@
           "body": "Should such unwritten agreement be documented in this RFC4052bis? Or we just acknowledge such unwritten agreement exist?\nnote that whether a liaison manager can be appointed from other side and interface with IETF is not something we can influence? no? or we should have best practice to make sure both side have liaison manager to interface with each other's SDOs.",
           "createdAt": "2025-05-04T03:06:59Z",
           "updatedAt": "2025-05-04T03:11:55Z"
+        },
+        {
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Made changes and verified that the term liaison is always qualified with whether it refers to the relationship, manager or statement. ",
+          "createdAt": "2025-06-13T15:11:20Z",
+          "updatedAt": "2025-06-13T15:11:20Z"
         }
       ]
     },
@@ -424,7 +445,7 @@
       "labels": [],
       "body": "I think it would be good to note right at the beginning of the document (in the intro?) that the processes described in this document are designed to accommodate requirements derived from the processes of various other SDOs. Every SDO works different but many have the general concept of a liaison relationship which is required from their side for inter-SDO communication. While the IETF does not have such a requirement (and therefore no special-standing of input or participation though a formal liaison relationship) the liaison process is designed such that we can enable good communication and collaboration with other SDOs. As such we try to have the processes in this document simple, light-weight and flexible to be able to potentially address different requirements from others SDO using the same process on our side.",
       "createdAt": "2025-04-17T15:22:03Z",
-      "updatedAt": "2025-04-23T14:37:42Z",
+      "updatedAt": "2025-06-13T13:49:20Z",
       "closedAt": null,
       "comments": [
         {
@@ -433,6 +454,13 @@
           "body": "Discussed at liaison coordinator meeting on April 23, 2025. Suresh will propose text.",
           "createdAt": "2025-04-23T14:37:40Z",
           "updatedAt": "2025-04-23T14:37:40Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "Actually I added some text on this for 4053bis. So maybe it's enough to have it there? Or maybe it's good to have it in both...? I guess we can leave this issue open for -02",
+          "createdAt": "2025-06-13T13:49:20Z",
+          "updatedAt": "2025-06-13T13:49:20Z"
         }
       ]
     }
@@ -1034,24 +1062,26 @@
       "id": "PR_kwDOMUjy5c6S_3CY",
       "title": "missing point in \"Changes\" section",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/30",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2025-04-17T14:11:57Z",
-      "updatedAt": "2025-04-17T14:11:57Z",
+      "updatedAt": "2025-06-13T13:51:00Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "mirjak-patch-9",
       "headRefOid": "d2146d6e57dc329989a607f414957bdff735b339",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2025-06-13T13:50:59Z",
+      "mergedAt": "2025-06-13T13:50:59Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "40d3c7a32e41bef4fb14205de44d716d791598c3"
+      },
       "comments": [],
       "reviews": []
     },
@@ -1060,24 +1090,26 @@
       "id": "PR_kwDOMUjy5c6TANZ8",
       "title": "Proposed further text on purpose/pre-conditions to establish a formal\u2026",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/32",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [],
       "labels": [],
       "body": "\u2026 relationship",
       "createdAt": "2025-04-17T14:51:37Z",
-      "updatedAt": "2025-04-17T15:06:30Z",
+      "updatedAt": "2025-06-13T15:12:47Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "mirjak-patch-10",
       "headRefOid": "5690ecc26a1d36efb8b02544ab0418c72d0d4baf",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2025-06-13T15:12:47Z",
+      "mergedAt": "2025-06-13T15:12:47Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "bd6b58ccc008b95e0133f7f0f61889e2bae64981"
+      },
       "comments": [],
       "reviews": [
         {
@@ -1209,24 +1241,26 @@
       "id": "PR_kwDOMUjy5c6U17lZ",
       "title": "RFC4691 consolidation",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/36",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "billwuqin",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "Relevant to #6",
       "createdAt": "2025-05-04T06:51:30Z",
-      "updatedAt": "2025-06-07T12:13:31Z",
+      "updatedAt": "2025-06-13T15:23:12Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "billwuqin-patch-8",
-      "headRefOid": "746e2fd444a30b9ac90644692eb5a5a342c708aa",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "headRefOid": "b0ed6af0529967eff28431267761c87e47ba64bb",
+      "closedAt": "2025-06-13T15:23:11Z",
+      "mergedAt": "2025-06-13T15:23:11Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "d33a3cee380257797d0c76624be7b48f4b5aca20"
+      },
       "comments": [],
       "reviews": [
         {
@@ -1268,6 +1302,79 @@
               "updatedAt": "2025-06-07T12:11:30Z"
             }
           ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c6uWxq-",
+          "commit": {
+            "abbreviatedOid": "746e2fd"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-06-13T15:19:19Z",
+          "updatedAt": "2025-06-13T15:19:19Z",
+          "comments": [
+            {
+              "originalPosition": 8,
+              "body": "```suggestion\r\nmanager must not send liaison statements on their own initiative to a\r\n```",
+              "createdAt": "2025-06-13T15:19:19Z",
+              "updatedAt": "2025-06-13T15:19:20Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c6uWyeK",
+          "commit": {
+            "abbreviatedOid": "0832fc1"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-06-13T15:20:16Z",
+          "updatedAt": "2025-06-13T15:20:16Z",
+          "comments": [
+            {
+              "originalPosition": 14,
+              "body": "```suggestion\r\nthe IETF consensus is understood.\r\n```",
+              "createdAt": "2025-06-13T15:20:16Z",
+              "updatedAt": "2025-06-13T15:20:32Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c6uW0ZW",
+          "commit": {
+            "abbreviatedOid": "5ef7eda"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-06-13T15:22:19Z",
+          "updatedAt": "2025-06-13T15:22:19Z",
+          "comments": [
+            {
+              "originalPosition": 68,
+              "body": "```suggestion\r\n```",
+              "createdAt": "2025-06-13T15:22:19Z",
+              "updatedAt": "2025-06-13T15:22:19Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c6uW1QU",
+          "commit": {
+            "abbreviatedOid": "b0ed6af"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-06-13T15:23:00Z",
+          "updatedAt": "2025-06-13T15:23:00Z",
+          "comments": []
         }
       ]
     },
