@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-06-17T01:06:30.744928+00:00",
+  "timestamp": "2025-07-03T01:07:14.700126+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -470,6 +470,22 @@
           "updatedAt": "2025-06-15T11:37:57Z"
         }
       ]
+    },
+    {
+      "number": 38,
+      "id": "I_kwDOMUjy5c6-XhLe",
+      "title": "Link to subscribe to IAB list in the \"About This Document\" section",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/38",
+      "state": "OPEN",
+      "author": "cindymorgan",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "The \"About This Document\" section contains:\n\n>    Discussion of this document takes place on the Internet Architecture\n>    Board Internet Engineering Task Force mailing list\n>    (mailto:iab@iab.org), which is archived at\n>    https://mailarchive.ietf.org/arch/browse/iab/.  Subscribe at\n>    https://www.ietf.org/mailman/listinfo/iab/.\n\nBut the IAB list has a closed membership and no archive. Should this point to architecture-discuss instead?",
+      "createdAt": "2025-07-01T21:13:37Z",
+      "updatedAt": "2025-07-01T21:15:00Z",
+      "closedAt": null,
+      "comments": []
     }
   ],
   "pulls": [
