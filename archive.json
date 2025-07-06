@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-07-03T01:07:14.700126+00:00",
+  "timestamp": "2025-07-06T01:13:37.995409+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -484,6 +484,22 @@
       "body": "The \"About This Document\" section contains:\n\n>    Discussion of this document takes place on the Internet Architecture\n>    Board Internet Engineering Task Force mailing list\n>    (mailto:iab@iab.org), which is archived at\n>    https://mailarchive.ietf.org/arch/browse/iab/.  Subscribe at\n>    https://www.ietf.org/mailman/listinfo/iab/.\n\nBut the IAB list has a closed membership and no archive. Should this point to architecture-discuss instead?",
       "createdAt": "2025-07-01T21:13:37Z",
       "updatedAt": "2025-07-01T21:15:00Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 39,
+      "id": "I_kwDOMUjy5c6-3Obh",
+      "title": "Check with ISOC about removing ISOC from the doc",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/39",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-07-04T10:24:58Z",
+      "updatedAt": "2025-07-04T10:24:58Z",
       "closedAt": null,
       "comments": []
     }
