@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-07-06T01:13:37.995409+00:00",
+  "timestamp": "2025-07-20T01:17:31.614306+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -500,6 +500,38 @@
       "body": "",
       "createdAt": "2025-07-04T10:24:58Z",
       "updatedAt": "2025-07-04T10:24:58Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 40,
+      "id": "I_kwDOMUjy5c7BI4fC",
+      "title": "Clarify intended process and document status in appendix",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/40",
+      "state": "OPEN",
+      "author": "dhruvdhody",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "It might be helpful to explicitly describe the intended process for this document within the I-D itself, perhaps in an appendix.\n\nSpecifically, we should explain that:\n\t\u2022\tRFC 4052/4053 are BCPs.\n\t\u2022\tThe current draft is marked as Informational until the IAB completes its process and formally approves it.\n\t\u2022\tAfter IAB approval, an AD will take over, and the document will enter the IETF process to update its intended status to BCP.\n\t\u2022\tAt the time of publication, this explanatory section can be removed.\n\nThis clarification would make the intended path clearer to readers and reduce possible confusion during review.",
+      "createdAt": "2025-07-17T17:16:15Z",
+      "updatedAt": "2025-07-17T17:16:15Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 41,
+      "id": "I_kwDOMUjy5c7BJC7T",
+      "title": "Why does the document not mention IAB Liaison Coordinators?",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/41",
+      "state": "OPEN",
+      "author": "dhruvdhody",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Given that IAB Liaison Coordinators play a key role in managing relationships and communication between the IAB and external organizations, I\u2019m wondering why this role isn\u2019t referenced here.\n\nIs there a reason we don't want it to be listed in an RFC? \n\nEspecially in this paragraph, adding liaison coordinators before the whole IAB makes sense! \n\n>    Since the IAB is ultimately responsible for liaison relationships,\n>    anyone who has a problem with a relationship (whether an IETF\n>    participant or a person from the peer organization) should first\n>    consult the IAB's designated liaison manager, and if that does not\n>    result in a satisfactory outcome, the IAB itself.",
+      "createdAt": "2025-07-17T17:33:07Z",
+      "updatedAt": "2025-07-17T17:44:59Z",
       "closedAt": null,
       "comments": []
     }
@@ -1483,6 +1515,32 @@
           ]
         }
       ]
+    },
+    {
+      "number": 42,
+      "id": "PR_kwDOMUjy5c6fbQQ0",
+      "title": "minor-edits",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/42",
+      "state": "OPEN",
+      "author": "dhruvdhody",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-07-17T17:59:15Z",
+      "updatedAt": "2025-07-17T17:59:16Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "dhruvdhody-patch-minor-edits",
+      "headRefOid": "51c5488c754a8002106cf555f0b4952603d2fbec",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
     }
   ]
 }
