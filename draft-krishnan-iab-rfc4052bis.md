@@ -125,6 +125,9 @@ This version of the document contains the following updates:
 The IETF communicates with other organizations (such as other SDOs)
 through two different forms of relationships: Formal Liaison
 Relationships {{formal}} and Informal Relationships {{#informal}}.
+The type of relationship needed depends on the resources that groups within each
+organization (for example ,"Working Groups" in the IETF) need in order to communicate 
+and collaborate effectively.
 
 ## Formal Liaison Relationships {#formal}
 
@@ -139,8 +142,6 @@ organization's processes.
 These specific purposes includes two aspects, both of which are required for the IETF to agree to a formal relationship.  
 The first aspect deals with the level of collaboration needed, 
 and the second deals with any restrictive nature of communication that impedes open collaboration.
-
-XXX: the document doesn't discuss what "groups" within organizations means
 
 a) There is an overlap in work between one or more groups in each organization that requires close
    collaboration that would not be possible without a formal relationship.
