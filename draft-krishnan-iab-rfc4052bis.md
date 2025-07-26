@@ -136,9 +136,9 @@ rewrite of the relationship section:
 
 The IETF communicates with other organizations (such as other SDOs)
 through two different forms of relationships: Formal Liaison
-Relationships {{formal}} and Informal Relationships {{#informal}}.
+Relationships {{formal}} and Informal Relationships {{informal}}.
 The type of relationship needed depends on the resources that groups within each
-organization (for example ,"Working Groups" in the IETF) need in order to communicate 
+organization (for example ,"Working Groups" in the IETF) need in order to communicate
 and collaborate effectively.
 
 ## Formal Liaison Relationships {#formal}
@@ -149,10 +149,10 @@ IETF's perspective this is needed only when required for specific
 purposes.
 However, there might be formal requirements from the
 peer organization to enable collaboration within the peer
-organization's processes. 
+organization's processes.
 
-These specific purposes includes two aspects, both of which are required for the IETF to agree to a formal relationship.  
-The first aspect deals with the level of collaboration needed, 
+These specific purposes includes two aspects, both of which are required for the IETF to agree to a formal relationship.
+The first aspect deals with the level of collaboration needed,
 and the second deals with any restrictive nature of communication that impedes open collaboration.
 
 a) There is an overlap in work between one or more groups in each organization that requires close
@@ -162,7 +162,7 @@ a) There is an overlap in work between one or more groups in each organization t
    for close collaboration is a pre-condition for establishing a formal liaison relationship but is not alone sufficient for the IETF
    to require the establishment of a formal liaison relationship.
 
-b) The peer organization of the IETF may require a more formal communication structure in order to 
+b) The peer organization of the IETF may require a more formal communication structure in order to
    allow the IETF to work directly within the peer organization's processes.
    Some potential formal requirements from the peer organizations include:
 
@@ -174,7 +174,7 @@ Without the combination of both the need and the requirements for a formal liais
 the IETF will collaborate with the peer organization in an informal relationship ({{informal}}).
 
 There is no set process or form for establishing a formal liaison relationship;
-the IETF participants and the peer organization will need to open a dialog 
+the IETF participants and the peer organization will need to open a dialog
 the IAB, and after discussion may come to an agreement to form the relationship.
 In some cases, the intended scope and guidelines for the collaboration are documented
 specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
@@ -185,7 +185,7 @@ undertaking new standardization work items.  Any work items resulting
 for the IETF will be undertaken using the usual IETF procedures, defined
 in {{!BCP9}}.  The peer organization often has different organizational
 structures and procedures than the IETF, and these differences
-will require some flexibility on the part of both organizations to accommodate. 
+will require some flexibility on the part of both organizations to accommodate.
 There is an expectation that both organizations will use the relationship
 carefully, allowing sufficient time for the requests they make on
 the other organization to be processed.
@@ -196,18 +196,18 @@ Generally informal collaboration between the IETF and peer
 organizations is preferred whenever possible, when direct working
 relationships between the members of both organizations is possible.
 Specifically, there are no processes in the IETF that require a formal
-liaison relationship as our work is conducted in open public meetings and on 
+liaison relationship as our work is conducted in open public meetings and on
 mailing lists where anyone can contribute.
-Inputs from all participants in the IETF, regardless of the type of relationship, 
-are given equal weight and standing.  When a similar structure exists in the peer 
-organization and all participants have access to open working documents and 
-communication mechanisms, then neither organization should need a more formal 
+Inputs from all participants in the IETF, regardless of the type of relationship,
+are given equal weight and standing.  When a similar structure exists in the peer
+organization and all participants have access to open working documents and
+communication mechanisms, then neither organization should need a more formal
 structure.
 
 Note that even formal communication in form of liaison statements, if needed,
-can be used without establishing a more formal liaison relationship.  
-In this case, since a formal liaison manager 
-does not exist, the IAB itself will be responsible for ensuring 
+can be used without establishing a more formal liaison relationship.
+In this case, since a formal liaison manager
+does not exist, the IAB itself will be responsible for ensuring
 liaison statements are handled appropriately.
 
 ## Liaison Manager
