@@ -166,9 +166,9 @@ b) The peer organization of the IETF may require a more formal communication str
    allow the IETF to work directly within the peer organization's processes.
    Some potential formal requirements from the peer organizations include:
 
-    - Access restrictions of the peer organization's working documents or standards.
-    - Ability to participate directly in the peer organization's groups and forums.
-    - Ability to participate in the ongoing work of the peer organization.
+    - Access restrictions for accessing the peer organization's working documents or standards.
+    - Ability to participate and contribute directly in the peer organization's groups and forums.
+    - Ability to participate in and contribute to the ongoing work of the peer organization.
 
 Without the combination of both the need and the requirements for a formal liaison relationship,
 the IETF will collaborate with the peer organization in an informal relationship ({{informal}}).
