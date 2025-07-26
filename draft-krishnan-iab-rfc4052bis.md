@@ -186,7 +186,10 @@ Specifically, there are no processes in the IETF that require a formal
 liaison relationship as our work is conducted in open public meetings and on 
 mailing lists where anyone can contribute.
 Inputs from all participants in the IETF, regardless of the type of relationship, 
-are given equal weight and standing.
+are given equal weight and standing.  When a similar structure exists in the peer 
+organization and all participants have access to open working documents and 
+communication mechanisms, then neither organization should need a more formal 
+structure.
 
 Note that even formal communication in form of liaison statements, if needed,
 can be used without establishing a more formal liaison relationship.  
