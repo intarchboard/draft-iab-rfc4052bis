@@ -130,6 +130,8 @@ rewrite of the relationship section:
 - Clarified what happens with liaison communications that don't have a
   formal relationship (IE: it falls on the IAB's responsibility to
   ensure they're handled if need be)
+- noted definitively that an informal relationship does not have
+  (need) an establishment procedure.
 - Added a definition of "group" within an organization, as that was missing
 
 # Aspects of Liaisons and Liaison Management
@@ -203,6 +205,11 @@ are given equal weight and standing.  When a similar structure exists in the pee
 organization and all participants have access to open working documents and
 communication mechanisms, then neither organization should need a more formal
 structure.
+
+There is no procedure for establishing an informal relationship, as
+one exists by defacto when members of both organizations simply
+cross-collaborate and participate in the groups with overlapping
+interest.
 
 Note that even formal communication in form of liaison statements, if needed,
 can be used without establishing a more formal liaison relationship.
