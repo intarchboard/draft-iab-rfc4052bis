@@ -120,6 +120,18 @@ This version of the document contains the following updates:
 5. Section on Summary of IETF Liaison Manager Responsibilities reworked.
 6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
 
+(keeping this separate just for review purposes): Changes in Wes'
+rewrite of the relationship section:
+
+- Reworked the entire section to better define each type of
+  relationship separately for clarity.
+- Better described the double set of requirements for establishing a
+  formal relationship
+- Clarified what happens with liaison communications that don't have a
+  formal relationship (IE: it falls on the IAB's responsibility to
+  ensure they're handled if need be)
+- Added a definition of "group" within an organization, as that was missing
+
 # Aspects of Liaisons and Liaison Management
 
 The IETF communicates with other organizations (such as other SDOs)
