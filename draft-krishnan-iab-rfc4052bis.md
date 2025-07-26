@@ -230,7 +230,7 @@ input discussion in specific working group in the IETF.
 The main responsibility of the liaison manager is to ensure good and formally
 correct communication between the organizations. This often includes:
 
-- Ensure received LSs are recorded and delivered to the relevant groups.
+- Ensure received liaison statements are recorded and delivered to the relevant groups.
 - Ensure replies are sent in time or it is appropriately communicated why a reply
   is delayed or not sent.
 - Ensure liaison statements from the IETF adhere to the formal requirements of the
