@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-07-24T01:11:24.842117+00:00",
+  "timestamp": "2025-07-27T01:17:56.727980+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -1554,13 +1554,47 @@
       "labels": [],
       "body": "I appreciate this sentence was carried over from the original RFC.  However, re-reading the sentence a lifetime later, it struck me that it sounds like 1/ the IETF chartered the IAB (solely) and 2/ this is the IAB's only purpose.",
       "createdAt": "2025-07-23T15:23:55Z",
-      "updatedAt": "2025-07-23T15:23:56Z",
+      "updatedAt": "2025-07-26T06:52:07Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
       "headRepository": "ldaigle/draft-iab-rfc4052bis",
       "headRefName": "patch-1",
       "headRefOid": "0723aae45e1ee5bfb4a87e280f126b48a4ddb2e0",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [
+        {
+          "author": "hardaker",
+          "authorAssociation": "NONE",
+          "body": "that sentence was weird to me too, and your  fix is perfect :-)",
+          "createdAt": "2025-07-26T06:52:07Z",
+          "updatedAt": "2025-07-26T06:52:07Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 44,
+      "id": "PR_kwDOMUjy5c6gvKz8",
+      "title": "LS is never used elsewhere and undefined",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/44",
+      "state": "OPEN",
+      "author": "hardaker",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "LS is used just once in the document, and otherwise undefined.  So this just expands it and doesn't bother with the abreviation.",
+      "createdAt": "2025-07-26T06:50:14Z",
+      "updatedAt": "2025-07-26T06:50:15Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
+      "headRepository": "hardaker/draft-iab-rfc4052bis",
+      "headRefName": "ls-expansion",
+      "headRefOid": "97672755eb2bb8fb16f4b91d9d8a56f00df524d2",
       "closedAt": null,
       "mergedAt": null,
       "mergedBy": null,
