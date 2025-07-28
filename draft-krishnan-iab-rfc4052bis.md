@@ -153,7 +153,7 @@ However, there might be formal requirements from the
 peer organization to enable collaboration within the peer
 organization's processes.
 
-These specific purposes includes two aspects, both of which are required for the IETF to agree to a formal relationship.
+The IAB uses two different aspects when it considers whether or not to establish a formal relationship with a peer organization.
 The first aspect deals with the level of collaboration needed,
 and the second deals with any restrictive nature of communication that impedes open collaboration.
 
