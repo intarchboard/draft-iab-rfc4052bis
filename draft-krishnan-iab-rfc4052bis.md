@@ -94,7 +94,9 @@ relationship can provide the framework for ongoing communications to
 - prevent inadvertent duplication of effort, without obstructing
   either organization from pursuing its own mandate;
 - provide authoritative information of one organization's
-  dependencies on the other's work.
+  dependencies on the other's work;
+- allow for the collaboration and coordination of efforts between the IETF
+  and other organizations.
 
 It is important to note that participation in the IETF work is open to everyone,
 and all the working documents and RFCs are freely available to everyone without
@@ -125,25 +127,25 @@ This version of the document contains the following updates:
 ## Formal Liaison Relationships
 
 A formal liaison relationship is established when it is mutually agreeable and required for
-some specific purposes, as viewed by the other organization, the IAB, and the IETF
+some specific purpose, as viewed by the other organization, the IAB, and the IETF
 participants conducting the work.
 
 The purpose includes two aspects:
 
 a) There is an overlap in work between one or more groups in each organization that requires close collaboration.
-   This might include situation where one group in one organization has a dependency on a document produced in the other
-   organization and requests in-depth support or would like to feedback new requirements. However note that the agreeded need
-   for close callobaration is a pre-condition for establishing a formal liaison relationship but does automatically require the establishment
-   of a formal liaison relationship as long as as there are no other formal or process barriers that are hindering the collaboration.
-   Generally informal collaboration is prefered and even formal communication in form of liaison statements, if needed,
+   This might include situations where one group in one organization has a dependency on a document produced in the other
+   organization and requests in-depth support or would like to feedback new requirements. However note that the agreed need
+   for close collaboration is a pre-condition for establishing a formal liaison relationship but does automatically require the establishment
+   of a formal liaison relationship if there are no other formal or process barriers that are hindering the collaboration.
+   Generally informal collaboration is preferred. Even formal communication in the form of liaison statements, if needed,
    can be used without establishing a formal liaison relationship.
 
-b) There are formal requirements or other process barriers that hinders informal collaboration. This might also includes the case
-   where informal collaboration works well on group-level but the volume and tightly-coupled nature of interactions
+b) There are formal requirements or other process barriers that hinders informal collaboration. This might also include the case
+   in which informal collaboration works well on group-level, but the volume and tightly-coupled nature of interactions
    might make a more formal structure beneficial. However, this case could also be addressed with other kinds of IAB structures and
    might therefore not automatically require a formal liaison relationship with a liaison manager. Further note, that there
-   are no processes in the IETF that require a formal liaison relationship. In otherwords, having a formal liaison relationship
-   does not give the input or praticiation from the peer organization any different standing or weight than any other individual
+   are no processes in the IETF that require a formal liaison relationship. In other words, having a formal liaison relationship
+   does not give the input or participation from the peer organization any different standing or weight than any other individual
    contribution. However, there might be formal requirements from the peer organization to enable collaboration within the peer organization's
    processes. Such potential formal requirements include the need for a formal liaison relationship:
 
@@ -152,7 +154,7 @@ b) There are formal requirements or other process barriers that hinders informal
     - To participate in meetings of the peer organization.
 
 There is no set process or form for this; the IETF participants and
-the peer organization approach the IAB, and after discussion come to
+the peer organization approach the IAB, and, after discussion come to
 an agreement to form the relationship.  In some cases, the intended
 scope and guidelines for the collaboration are documented
 specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
@@ -165,7 +167,7 @@ in {{!BCP9}}.  The peer organization often has different organizational
 structure and procedures than the IETF, which will require some
 flexibility on the part of both organizations to accommodate.  There
 is an expectation that both organizations will use the relationship
-carefully, allowing sufficient time for the requests they make on
+appropriately, allowing sufficient time for the requests they make on
 the other organization to be processed.
 
 ## Liaison Manager
@@ -197,10 +199,10 @@ Area Director (AD) or being sent to the wrong WG, the liaison manager
 will help redirect or otherwise augment the communication.
 
 Since the IAB is ultimately responsible for liaison relationships,
-anyone who has a problem with a relationship (whether an IETF
+anyone who has an issue with a relationship (whether an IETF
 participant or a person from the peer organization) should first
 consult the IAB's designated liaison manager, and if that does not
-result in a satisfactory outcome, the IAB itself.
+result in a satisfactory outcome, then consult IAB itself.
 
 IETF liaison managers should also communicate and coordinate with
 other liaison managers where concerned technical activities overlap.
@@ -220,7 +222,7 @@ procedures of many organizations use a form known as a "liaison statement".
 Procedures for sending, managing, and responding to liaison statements are
 discussed in {{?RFC4053}}.
 
-Note that communications between organizations have no difference to
+Note that communications between organizations have no impact to
 any other IETF contributions and should follow the same IETF process and
 polices and should be open to everyone for inputs and contributions, e.g.,
 input discussion in specific working group in the IETF.
@@ -234,7 +236,7 @@ correct communication between the organizations. This often includes:
 - Ensure replies are sent in time or it is appropriately communicated why a reply
   is delayed or not sent.
 - Ensure liaison statements from the IETF adhere to the formal requirements of the
-  peer organization (e.g. formatting) and are delivered to the appropriate groups.
+  peer organization (e.g. structure/formatting) and are delivered to the appropriate groups.
 - Provide additional communication on e.g. process or known consensus positions in
   the IETF. This may also require participation in relevant meetings of the peer
   organization and potentially report back to the appropriate IETF organization any
