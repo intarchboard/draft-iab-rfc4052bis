@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-07-29T01:19:52.372247+00:00",
+  "timestamp": "2025-09-21T01:05:25.876590+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -1528,7 +1528,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2025-07-17T17:59:15Z",
-      "updatedAt": "2025-07-17T17:59:16Z",
+      "updatedAt": "2025-09-19T08:11:01Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
@@ -1540,7 +1540,21 @@
       "mergedBy": null,
       "mergeCommit": null,
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7BVw0r",
+          "commit": {
+            "abbreviatedOid": "51c5488"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "I like the overall change although I reserve on the last change \"overview about everything\" ->\"overview of everyting\", but I am not a native english speaker, I think the change should be fine.",
+          "createdAt": "2025-09-19T08:11:01Z",
+          "updatedAt": "2025-09-19T08:11:01Z",
+          "comments": []
+        }
+      ]
     },
     {
       "number": 43,
@@ -1554,7 +1568,7 @@
       "labels": [],
       "body": "I appreciate this sentence was carried over from the original RFC.  However, re-reading the sentence a lifetime later, it struck me that it sounds like 1/ the IETF chartered the IAB (solely) and 2/ this is the IAB's only purpose.",
       "createdAt": "2025-07-23T15:23:55Z",
-      "updatedAt": "2025-07-29T00:47:45Z",
+      "updatedAt": "2025-09-19T08:13:59Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
@@ -1581,7 +1595,21 @@
           "updatedAt": "2025-07-29T00:47:45Z"
         }
       ],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7BVzYQ",
+          "commit": {
+            "abbreviatedOid": "0723aae"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "Review the history of internet and IETF, I think IAB formed before IETF existing, or IETF is derived from earlier IAB activities.",
+          "createdAt": "2025-09-19T08:13:59Z",
+          "updatedAt": "2025-09-19T08:13:59Z",
+          "comments": []
+        }
+      ]
     },
     {
       "number": 44,
@@ -1595,7 +1623,7 @@
       "labels": [],
       "body": "LS is used just once in the document, and otherwise undefined.  So this just expands it and doesn't bother with the abreviation.",
       "createdAt": "2025-07-26T06:50:14Z",
-      "updatedAt": "2025-07-26T06:50:15Z",
+      "updatedAt": "2025-09-19T08:15:12Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
@@ -1607,7 +1635,21 @@
       "mergedBy": null,
       "mergeCommit": null,
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7BV0bF",
+          "commit": {
+            "abbreviatedOid": "9767275"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-09-19T08:15:12Z",
+          "updatedAt": "2025-09-19T08:15:12Z",
+          "comments": []
+        }
+      ]
     },
     {
       "number": 45,
@@ -1621,7 +1663,7 @@
       "labels": [],
       "body": "This is a fairly extensive reorganization from the top of 2 to the new 2.2.",
       "createdAt": "2025-07-28T19:50:36Z",
-      "updatedAt": "2025-07-28T19:50:37Z",
+      "updatedAt": "2025-09-19T08:29:57Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
@@ -1633,7 +1675,34 @@
       "mergedBy": null,
       "mergeCommit": null,
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7BV455",
+          "commit": {
+            "abbreviatedOid": "2a17e19"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "CHANGES_REQUESTED",
+          "body": "",
+          "createdAt": "2025-09-19T08:20:56Z",
+          "updatedAt": "2025-09-19T08:29:57Z",
+          "comments": [
+            {
+              "originalPosition": 113,
+              "body": "I like this paragraph on informal Relationships, it acticulate such informal relationship precisely, thanks.",
+              "createdAt": "2025-09-19T08:20:56Z",
+              "updatedAt": "2025-09-19T08:29:57Z"
+            },
+            {
+              "originalPosition": 94,
+              "body": "There is disconnect between \"open a dialog\" and \"The IAB\".  Open Dialog with IAB? privately or in the IABOpen meeting?",
+              "createdAt": "2025-09-19T08:29:17Z",
+              "updatedAt": "2025-09-19T08:29:57Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
