@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-09-21T01:05:25.876590+00:00",
+  "timestamp": "2025-09-28T01:06:28.557363+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -515,9 +515,17 @@
       "labels": [],
       "body": "It might be helpful to explicitly describe the intended process for this document within the I-D itself, perhaps in an appendix.\n\nSpecifically, we should explain that:\n\t\u2022\tRFC 4052/4053 are BCPs.\n\t\u2022\tThe current draft is marked as Informational until the IAB completes its process and formally approves it.\n\t\u2022\tAfter IAB approval, an AD will take over, and the document will enter the IETF process to update its intended status to BCP.\n\t\u2022\tAt the time of publication, this explanatory section can be removed.\n\nThis clarification would make the intended path clearer to readers and reduce possible confusion during review.",
       "createdAt": "2025-07-17T17:16:15Z",
-      "updatedAt": "2025-07-17T17:16:15Z",
+      "updatedAt": "2025-09-27T17:17:50Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "poepjeshanspieter-cyber",
+          "authorAssociation": "NONE",
+          "body": "[PDF_Reader_RECOVERED_1753913275792_gmsnet2.png.pdf](https://github.com/user-attachments/files/22575628/PDF_Reader_RECOVERED_1753913275792_gmsnet2.png.pdf)",
+          "createdAt": "2025-09-27T17:17:50Z",
+          "updatedAt": "2025-09-27T17:17:50Z"
+        }
+      ]
     },
     {
       "number": 41,
@@ -1663,7 +1671,7 @@
       "labels": [],
       "body": "This is a fairly extensive reorganization from the top of 2 to the new 2.2.",
       "createdAt": "2025-07-28T19:50:36Z",
-      "updatedAt": "2025-09-19T08:29:57Z",
+      "updatedAt": "2025-09-25T14:59:13Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
@@ -1699,6 +1707,26 @@
               "body": "There is disconnect between \"open a dialog\" and \"The IAB\".  Open Dialog with IAB? privately or in the IABOpen meeting?",
               "createdAt": "2025-09-19T08:29:17Z",
               "updatedAt": "2025-09-19T08:29:57Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7CzShb",
+          "commit": {
+            "abbreviatedOid": "2a17e19"
+          },
+          "author": "hardaker",
+          "authorAssociation": "NONE",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-09-25T14:59:13Z",
+          "updatedAt": "2025-09-25T14:59:13Z",
+          "comments": [
+            {
+              "originalPosition": 94,
+              "body": "That's a fair question and probably one that the liaison coordinators need to pick.  I'd suggest maybe \"contact the IAB\" rather than open a dialog?",
+              "createdAt": "2025-09-25T14:59:13Z",
+              "updatedAt": "2025-09-25T14:59:13Z"
             }
           ]
         }
