@@ -74,8 +74,8 @@ The management of other organizations' liaison managers to the IETF,
 whether or not in the context of a liaison relationship, is outside
 the scope of this document.
 
-The IETF has chartered the Internet Architecture Board to manage
-the formal liaison relationships.  Consistent with its charter {{!BCP39}},
+The IETF has tasked the Internet Architecture Board to manage
+formal liaison relationships.  Consistent with its charter {{!BCP39}},
 the IAB acts as representative of the interests of the IETF
 in technical liaison relationships with other organizations
 concerned with standards, and other technical and organizational
