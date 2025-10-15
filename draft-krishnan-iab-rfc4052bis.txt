@@ -73,7 +73,7 @@ Table of Contents
      2.1.  Formal Liaison Relationships
      2.2.  Liaison Manager
        2.2.1.  Speaking for the IETF
-       2.2.2.  Main Function of the Liaison manager
+       2.2.2.  Main Function of the Liaison Manager
      2.3.  Liaison Communications
    3.  Summary of IETF Liaison Manager Responsibilities
    4.  Security Considerations
@@ -115,7 +115,7 @@ Table of Contents
 
    The IETF has tasked the Internet Architecture Board to manage formal
    liaison relationships.  Consistent with its charter [BCP39], the IAB
-   acts as representative of the interests of the IETF in technical
+   acts as a representative of the interests of the IETF in technical
    liaison relationships with other organizations concerned with
    standards, and other technical and organizational issues relevant to
    the worldwide Internet.  Liaison relationships are kept informal
@@ -212,11 +212,10 @@ Table of Contents
    other individual contribution.  However, there might be formal
    requirements from the peer organization to enable collaboration
    within the peer organization's processes.  Such potential formal
-   requirements include the need for a formal liaison relationship:
-
-- To get access to the peer organization's working documents or standards.
-- To provide input to ongoing work at the peer organization.
-- To participate in meetings of the peer organization.
+   requirements include the need for a formal liaison relationship: - To
+   get access to the peer organization's working documents or standards.
+   - To provide input to ongoing work at the peer organization.  - To
+   participate in meetings of the peer organization.
 
    There is no set process or form for this; the IETF participants and
    the peer organization approach the IAB, and, after discussion come to
@@ -247,7 +246,7 @@ Table of Contents
    the subject matter of the liaison, but only after making sure that
    the IETF consensus is understood.
 
-2.2.2.  Main Function of the Liaison manager
+2.2.2.  Main Function of the Liaison Manager
 
    As described above, most work on mutually interesting topics will be
    carried out in the usual way within the IETF and the peer
@@ -255,8 +254,8 @@ Table of Contents
    nature (for example, Working Group (WG) or mailing list discussions).
 
    An important function of the liaison manager is to ensure that
-   communication is maintained, productive, and timely.  He or she may
-   use any applicable businesslike approach, from private to public
+   communication is maintained, productive, and timely.  They may use
+   any applicable businesslike approach, from private to public
    communications, and bring in other parties as needed.  If a
    communication from a peer organization is addressed to an
    inappropriate party, such as being sent to the WG but not copying the
@@ -284,9 +283,9 @@ Table of Contents
    communication is appropriate, either as an adjunct to the informal
    channel or in its own place with or without liaison relationship.  In
    the case of formal communications, the established procedures of many
-   organizations use a form known as a "liaison statement".  Procedures
-   for sending, managing, and responding to liaison statements are
-   discussed in [RFC4053].
+   organizations use a form known as a "liaison statement" (LS).
+   Procedures for sending, managing, and responding to liaison
+   statements are discussed in [I-D.kuehlewind-iab-rfc4053bis].
 
    Note that communications between organizations have no impact to any
    other IETF contributions and should follow the same IETF process and
@@ -323,11 +322,11 @@ Table of Contents
    must have consensus, e.g. by being based on an RFC or some other
    formal statement by a group within the IETF.
 
-   Optionally liaison manager may provide updates to the IAB on
+   Optionally, liaison manager may provide updates to the IAB on
    technical matters.  Especially if a concern e.g. regarding technical
-   overlap or incorrectness is detected this should be communicated to
+   overlap or incorrectness, is detected, this should be communicated to
    the IAB.  However, given most organization are quite large, it is not
-   expected that the liaison manager can have the full overview about
+   expected that the liaison manager can have the full overview of
    everything that is going on.
 
 4.  Security Considerations
@@ -397,6 +396,13 @@ Table of Contents
               <https://www.rfc-editor.org/info/rfc9282>.
 
 6.2.  Informative References
+
+   [I-D.kuehlewind-iab-rfc4053bis]
+              Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
+              Handling Liaison Statements to and from the IETF", Work in
+              Progress, Internet-Draft, draft-kuehlewind-iab-rfc4053bis-
+              01, 13 June 2025, <https://datatracker.ietf.org/doc/html/
+              draft-kuehlewind-iab-rfc4053bis-01>.
 
    [RFC3113]  Rosenbrock, K., Sanmugam, R., Bradner, S., and J. Klensin,
               "3GPP-IETF Standardization Collaboration", RFC 3113,
