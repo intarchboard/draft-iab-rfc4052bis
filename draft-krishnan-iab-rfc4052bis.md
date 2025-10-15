@@ -127,7 +127,7 @@ This version of the document contains the following updates:
 9. Clarified there are no specific establishment procedures for informal
    relationships and described handling of liaison communications that don't have a
    formal relationship.
-     
+
 # Aspects of Liaisons and Liaison Management
 
 The IETF communicates with other organizations (such as other SDOs)
