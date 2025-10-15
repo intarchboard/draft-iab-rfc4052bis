@@ -74,9 +74,9 @@ The management of other organizations' liaison managers to the IETF,
 whether or not in the context of a liaison relationship, is outside
 the scope of this document.
 
-The IETF has chartered the Internet Architecture Board to manage
-the formal liaison relationships.  Consistent with its charter {{!BCP39}},
-the IAB acts as representative of the interests of the IETF
+The IETF has tasked the Internet Architecture Board to manage
+formal liaison relationships.  Consistent with its charter {{!BCP39}},
+the IAB acts as a representative of the interests of the IETF
 in technical liaison relationships with other organizations
 concerned with standards, and other technical and organizational
 issues relevant to the worldwide Internet.  Liaison relationships are
@@ -94,7 +94,9 @@ relationship can provide the framework for ongoing communications to
 - prevent inadvertent duplication of effort, without obstructing
   either organization from pursuing its own mandate;
 - provide authoritative information of one organization's
-  dependencies on the other's work.
+  dependencies on the other's work;
+- allow for the collaboration and coordination of efforts between the IETF
+  and other organizations.
 
 It is important to note that participation in the IETF work is open to everyone,
 and all the working documents and RFCs are freely available to everyone without
@@ -181,7 +183,7 @@ in {{!BCP9}}.  The peer organization often has different organizational
 structures and procedures than the IETF, and these differences
 will require some flexibility on the part of both organizations to accommodate.
 There is an expectation that both organizations will use the relationship
-carefully, allowing sufficient time for the requests they make on
+appropriately, allowing sufficient time for the requests they make on
 the other organization to be processed.
 
 ## Informal Relationships {#informal}
@@ -221,7 +223,7 @@ working groups. The liaison manager speaks on behalf of the IETF on
 the subject matter of the liaison, but only after making sure that
 the IETF consensus is understood.
 
-### Main Function of the Liaison manager
+### Main Function of the Liaison Manager
 
 As described above, most work on mutually interesting topics will be
 carried out in the usual way within the IETF and the peer
@@ -229,7 +231,7 @@ organization.  Therefore, most communications will be informal in
 nature (for example, Working Group (WG) or mailing list discussions).
 
 An important function of the liaison manager is to ensure that
-communication is maintained, productive, and timely.  He or she may
+communication is maintained, productive, and timely.  They may
 use any applicable businesslike approach, from private to public
 communications, and bring in other parties as needed.  If a
 communication from a peer organization is addressed to an
@@ -238,10 +240,10 @@ Area Director (AD) or being sent to the wrong WG, the liaison manager
 will help redirect or otherwise augment the communication.
 
 Since the IAB is ultimately responsible for liaison relationships,
-anyone who has a problem with a relationship (whether an IETF
+anyone who has an issue with a relationship (whether an IETF
 participant or a person from the peer organization) should first
 consult the IAB's designated liaison manager, and if that does not
-result in a satisfactory outcome, the IAB itself.
+result in a satisfactory outcome, then consult IAB itself.
 
 IETF liaison managers should also communicate and coordinate with
 other liaison managers where concerned technical activities overlap.
@@ -257,11 +259,11 @@ process and historically worked well to expedite matters. In some cases,
 however, a more formal communication is appropriate, either as an adjunct
 to the informal channel or in its own place with or without liaison
 relationship. In the case of formal communications, the established
-procedures of many organizations use a form known as a "liaison statement".
+procedures of many organizations use a form known as a "liaison statement" (LS).
 Procedures for sending, managing, and responding to liaison statements are
-discussed in {{?RFC4053}}.
+discussed in {{?I-D.kuehlewind-iab-rfc4053bis}}.
 
-Note that communications between organizations have no difference to
+Note that communications between organizations have no impact to
 any other IETF contributions and should follow the same IETF process and
 polices and should be open to everyone for inputs and contributions, e.g.,
 input discussion in specific working group in the IETF.
@@ -275,7 +277,7 @@ correct communication between the organizations. This often includes:
 - Ensure replies are sent in time or it is appropriately communicated why a reply
   is delayed or not sent.
 - Ensure liaison statements from the IETF adhere to the formal requirements of the
-  peer organization (e.g. formatting) and are delivered to the appropriate groups.
+  peer organization (e.g. structure/formatting) and are delivered to the appropriate groups.
 - Provide additional communication on e.g. process or known consensus positions in
   the IETF. This may also require participation in relevant meetings of the peer
   organization and potentially report back to the appropriate IETF organization any
@@ -287,10 +289,10 @@ specifically instructed. However, if these communications aim to "represent the 
 they must have consensus, e.g. by being based on an RFC or some other formal statement
 by a group within the IETF.
 
-Optionally liaison manager may provide updates to the IAB on technical matters. Especially
-if a concern e.g. regarding technical overlap or incorrectness is detected this should be
+Optionally, liaison manager may provide updates to the IAB on technical matters. Especially
+if a concern e.g. regarding technical overlap or incorrectness, is detected, this should be
 communicated to the IAB. However, given most organization are quite large, it is not expected
-that the liaison manager can have the full overview about everything that is going on.
+that the liaison manager can have the full overview of everything that is going on.
 
 # Security Considerations
 
