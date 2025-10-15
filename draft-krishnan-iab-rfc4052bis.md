@@ -76,7 +76,7 @@ the scope of this document.
 
 The IETF has tasked the Internet Architecture Board to manage
 formal liaison relationships.  Consistent with its charter {{!BCP39}},
-the IAB acts as representative of the interests of the IETF
+the IAB acts as a representative of the interests of the IETF
 in technical liaison relationships with other organizations
 concerned with standards, and other technical and organizational
 issues relevant to the worldwide Internet.  Liaison relationships are
@@ -148,7 +148,6 @@ b) There are formal requirements or other process barriers that hinders informal
    does not give the input or participation from the peer organization any different standing or weight than any other individual
    contribution. However, there might be formal requirements from the peer organization to enable collaboration within the peer organization's
    processes. Such potential formal requirements include the need for a formal liaison relationship:
-
     - To get access to the peer organization's working documents or standards.
     - To provide input to ongoing work at the peer organization.
     - To participate in meetings of the peer organization.
@@ -182,7 +181,7 @@ working groups. The liaison manager speaks on behalf of the IETF on
 the subject matter of the liaison, but only after making sure that
 the IETF consensus is understood.
 
-### Main Function of the Liaison manager
+### Main Function of the Liaison Manager
 
 As described above, most work on mutually interesting topics will be
 carried out in the usual way within the IETF and the peer
@@ -190,7 +189,7 @@ organization.  Therefore, most communications will be informal in
 nature (for example, Working Group (WG) or mailing list discussions).
 
 An important function of the liaison manager is to ensure that
-communication is maintained, productive, and timely.  He or she may
+communication is maintained, productive, and timely.  They may
 use any applicable businesslike approach, from private to public
 communications, and bring in other parties as needed.  If a
 communication from a peer organization is addressed to an
@@ -218,9 +217,9 @@ process and historically worked well to expedite matters. In some cases,
 however, a more formal communication is appropriate, either as an adjunct
 to the informal channel or in its own place with or without liaison
 relationship. In the case of formal communications, the established
-procedures of many organizations use a form known as a "liaison statement".
+procedures of many organizations use a form known as a "liaison statement" (LS).
 Procedures for sending, managing, and responding to liaison statements are
-discussed in {{?RFC4053}}.
+discussed in {{?I-D.kuehlewind-iab-rfc4053bis}}.
 
 Note that communications between organizations have no impact to
 any other IETF contributions and should follow the same IETF process and
@@ -248,10 +247,10 @@ specifically instructed. However, if these communications aim to "represent the 
 they must have consensus, e.g. by being based on an RFC or some other formal statement
 by a group within the IETF.
 
-Optionally liaison manager may provide updates to the IAB on technical matters. Especially
-if a concern e.g. regarding technical overlap or incorrectness is detected this should be
+Optionally, liaison manager may provide updates to the IAB on technical matters. Especially
+if a concern e.g. regarding technical overlap or incorrectness, is detected, this should be
 communicated to the IAB. However, given most organization are quite large, it is not expected
-that the liaison manager can have the full overview about everything that is going on.
+that the liaison manager can have the full overview of everything that is going on.
 
 # Security Considerations
 
