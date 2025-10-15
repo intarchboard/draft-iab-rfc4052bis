@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 12 March 2026                                  8 September 2025
+Expires: 18 April 2026                                   15 October 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 12 March 2026.
+   This Internet-Draft will expire on 18 April 2026.
 
 Copyright Notice
 
@@ -300,8 +300,8 @@ Table of Contents
    formally correct communication between the organizations.  This often
    includes:
 
-   *  Ensure received LSs are recorded and delivered to the relevant
-      groups.
+   *  Ensure received liaison statements are recorded and delivered to
+      the relevant groups.
 
    *  Ensure replies are sent in time or it is appropriately
       communicated why a reply is delayed or not sent.
