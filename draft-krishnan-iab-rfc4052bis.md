@@ -121,53 +121,95 @@ This version of the document contains the following updates:
    that liaison statements have no "special standing" in the IETF process.
 5. Section on Summary of IETF Liaison Manager Responsibilities reworked.
 6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
-
+7. Description of formal and informal relationships.
+8. Better description of both the aspects of requirements for establishing a
+   formal relationship
+9. Clarified there are no specific establishment procedures for informal
+   relationships and described handling of liaison communications that don't have a
+   formal relationship.
+     
 # Aspects of Liaisons and Liaison Management
 
-## Formal Liaison Relationships
+The IETF communicates with other organizations (such as other SDOs)
+through two different types of relationships: Formal Liaison
+Relationships {{formal}} and Informal Relationships {{informal}}.
+The type of relationship needed depends on the resources that groups within each
+organization (for example ,"Working Groups" in the IETF) require in order to communicate
+and collaborate effectively.
 
-A formal liaison relationship is established when it is mutually agreeable and required for
-some specific purpose, as viewed by the other organization, the IAB, and the IETF
-participants conducting the work.
+## Formal Liaison Relationships {#formal}
 
-The purpose includes two aspects:
+A formal liaison relationship is established between the IETF and
+another organization when it is mutually agreeable and beneficial to do so.  From the
+IETF's perspective this is needed only when required for specific
+purposes.
+However, there might be formal requirements from the
+peer organization to enable collaboration within the peer
+organization's processes.
 
-a) There is an overlap in work between one or more groups in each organization that requires close collaboration.
+The IAB uses two different aspects when it considers whether or not to establish a formal relationship with a peer organization.
+The first aspect deals with the level of collaboration needed,
+and the second deals with any restrictive nature of communication that impedes open collaboration.
+
+a) There is an overlap in work between one or more groups in each organization that requires close
+   collaboration that would not be possible without a formal relationship.
    This might include situations where one group in one organization has a dependency on a document produced in the other
-   organization and requests in-depth support or would like to feedback new requirements. However note that the agreed need
-   for close collaboration is a pre-condition for establishing a formal liaison relationship but does automatically require the establishment
-   of a formal liaison relationship if there are no other formal or process barriers that are hindering the collaboration.
-   Generally informal collaboration is preferred. Even formal communication in the form of liaison statements, if needed,
-   can be used without establishing a formal liaison relationship.
+   organization and is requesting in-depth support or would like feedback on internal documents. However note that the agreeded need
+   for close collaboration is a pre-condition for establishing a formal liaison relationship but is not alone sufficient for the IETF
+   to require the establishment of a formal liaison relationship.
 
-b) There are formal requirements or other process barriers that hinders informal collaboration. This might also include the case
-   in which informal collaboration works well on group-level, but the volume and tightly-coupled nature of interactions
-   might make a more formal structure beneficial. However, this case could also be addressed with other kinds of IAB structures and
-   might therefore not automatically require a formal liaison relationship with a liaison manager. Further note, that there
-   are no processes in the IETF that require a formal liaison relationship. In other words, having a formal liaison relationship
-   does not give the input or participation from the peer organization any different standing or weight than any other individual
-   contribution. However, there might be formal requirements from the peer organization to enable collaboration within the peer organization's
-   processes. Such potential formal requirements include the need for a formal liaison relationship:
-    - To get access to the peer organization's working documents or standards.
-    - To provide input to ongoing work at the peer organization.
-    - To participate in meetings of the peer organization.
+b) The peer organization of the IETF may require a more formal communication structure in order to
+   allow the IETF to work directly within the peer organization's processes.
+   Some potential formal requirements from the peer organizations include:
 
-There is no set process or form for this; the IETF participants and
-the peer organization approach the IAB, and, after discussion come to
-an agreement to form the relationship.  In some cases, the intended
-scope and guidelines for the collaboration are documented
+    - Access restrictions for accessing the peer organization's working documents or standards.
+    - Ability to participate and contribute directly in the peer organization's groups and forums.
+    - Ability to participate in and contribute to the ongoing work of the peer organization.
+
+Without the combination of both the need and the requirements for a formal liaison relationship,
+the IETF will collaborate with the peer organization in an informal relationship ({{informal}}).
+
+There is no set process or form for establishing a formal liaison relationship;
+the IETF participants and the peer organization can initiate a conversation with
+the IAB, and after discussion may come to an agreement to form the relationship.
+In some cases, the intended scope and guidelines for the collaboration are documented
 specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
 
-In setting up the relationship, the IAB expects that there will be a
+In setting up a formal liaison relationship, the IAB expects that there will be a
 mutual exchange of views and discussion of the best approach for
 undertaking new standardization work items.  Any work items resulting
 for the IETF will be undertaken using the usual IETF procedures, defined
 in {{!BCP9}}.  The peer organization often has different organizational
-structure and procedures than the IETF, which will require some
-flexibility on the part of both organizations to accommodate.  There
-is an expectation that both organizations will use the relationship
+structures and procedures than the IETF, and these differences
+will require some flexibility on the part of both organizations to accommodate.
+There is an expectation that both organizations will use the relationship
 appropriately, allowing sufficient time for the requests they make on
 the other organization to be processed.
+
+## Informal Relationships {#informal}
+
+Generally informal collaboration between the IETF and peer
+organizations is preferred whenever direct working
+relationships between the members of both organizations is possible.
+Specifically, there are no processes in the IETF that require a formal
+liaison relationship as our work is conducted in open public meetings and on
+mailing lists where anyone can contribute.
+Inputs from all participants in the IETF, regardless of the type of relationship,
+are given equal weight and standing.  When a similar structure exists in the peer
+organization and all participants have access to open working documents and
+communication mechanisms, there may not be a need for a more formal
+structure.
+
+There is no specific procedure for establishing an informal relationship, as
+one exists by defacto when members of both organizations simply
+cross-collaborate and participate in the groups with overlapping
+interest.
+
+Note that formal communications in the form of liaison statements, if needed,
+can be used without establishing a formal liaison relationship.
+In this case, since a formal liaison manager
+does not exist, the IAB itself will be responsible for ensuring
+liaison statements are handled appropriately.
 
 ## Liaison Manager
 
