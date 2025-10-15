@@ -119,34 +119,26 @@ This version of the document contains the following updates:
    that liaison statements have no "special standing" in the IETF process.
 5. Section on Summary of IETF Liaison Manager Responsibilities reworked.
 6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
-
-(keeping this separate just for review purposes): Changes in Wes'
-rewrite of the relationship section:
-
-- Reworked the entire section to better define each type of
-  relationship separately for clarity.
-- Better described the double set of requirements for establishing a
-  formal relationship
-- Clarified what happens with liaison communications that don't have a
-  formal relationship (IE: it falls on the IAB's responsibility to
-  ensure they're handled if need be)
-- noted definitively that an informal relationship does not have
-  (need) an establishment procedure.
-- Added a definition of "group" within an organization, as that was missing
-
+7. Description of formal and informal relationships.
+8. Better description of both the aspects of requirements for establishing a
+   formal relationship
+9. Clarified there are no specific establishment procedures for informal
+   relationships and described handling of liaison communications that don't have a
+   formal relationship.
+     
 # Aspects of Liaisons and Liaison Management
 
 The IETF communicates with other organizations (such as other SDOs)
-through two different forms of relationships: Formal Liaison
+through two different types of relationships: Formal Liaison
 Relationships {{formal}} and Informal Relationships {{informal}}.
 The type of relationship needed depends on the resources that groups within each
-organization (for example ,"Working Groups" in the IETF) need in order to communicate
+organization (for example ,"Working Groups" in the IETF) require in order to communicate
 and collaborate effectively.
 
 ## Formal Liaison Relationships {#formal}
 
 A formal liaison relationship is established between the IETF and
-another organization when it is mutually agreeable to do so.  From the
+another organization when it is mutually agreeable and beneficial to do so.  From the
 IETF's perspective this is needed only when required for specific
 purposes.
 However, there might be formal requirements from the
@@ -176,7 +168,7 @@ Without the combination of both the need and the requirements for a formal liais
 the IETF will collaborate with the peer organization in an informal relationship ({{informal}}).
 
 There is no set process or form for establishing a formal liaison relationship;
-the IETF participants and the peer organization will need to open a dialog
+the IETF participants and the peer organization can initiate a conversation with
 the IAB, and after discussion may come to an agreement to form the relationship.
 In some cases, the intended scope and guidelines for the collaboration are documented
 specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
@@ -195,7 +187,7 @@ the other organization to be processed.
 ## Informal Relationships {#informal}
 
 Generally informal collaboration between the IETF and peer
-organizations is preferred whenever possible, when direct working
+organizations is preferred whenever direct working
 relationships between the members of both organizations is possible.
 Specifically, there are no processes in the IETF that require a formal
 liaison relationship as our work is conducted in open public meetings and on
@@ -203,16 +195,16 @@ mailing lists where anyone can contribute.
 Inputs from all participants in the IETF, regardless of the type of relationship,
 are given equal weight and standing.  When a similar structure exists in the peer
 organization and all participants have access to open working documents and
-communication mechanisms, then neither organization should need a more formal
+communication mechanisms, there may not be a need for a more formal
 structure.
 
-There is no procedure for establishing an informal relationship, as
+There is no specific procedure for establishing an informal relationship, as
 one exists by defacto when members of both organizations simply
 cross-collaborate and participate in the groups with overlapping
 interest.
 
-Note that even formal communication in form of liaison statements, if needed,
-can be used without establishing a more formal liaison relationship.
+Note that formal communications in the form of liaison statements, if needed,
+can be used without establishing a formal liaison relationship.
 In this case, since a formal liaison manager
 does not exist, the IAB itself will be responsible for ensuring
 liaison statements are handled appropriately.
