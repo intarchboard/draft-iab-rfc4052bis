@@ -131,7 +131,7 @@ This version of the document contains the following updates:
 # Establishment of Formal Liaison Relationships {#formal}
 
 A formal liaison relationship is established between the IETF and
-another organization when it is mutually agreeable and beneficial to do so. 
+another organization when it is mutually agreeable and beneficial to do so.
 
 Generally informal collaboration between the IETF and peer
 organizations is preferred whenever direct working
@@ -156,7 +156,7 @@ In this case, since a formal liaison manager
 does not exist, the IAB itself will be responsible for ensuring
 liaison statements are handled appropriately, as further explained in
 {{?I-D.kuehlewind-iab-rfc4053bis}}.
- 
+
 From the IETF's perspective a formal relationship is needed only when required for specific
 purposes, such as:
 
