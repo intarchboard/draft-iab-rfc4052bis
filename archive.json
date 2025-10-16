@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-09-28T01:06:28.557363+00:00",
+  "timestamp": "2025-10-16T01:01:19.313653+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -510,22 +510,14 @@
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/40",
       "state": "OPEN",
       "author": "dhruvdhody",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "It might be helpful to explicitly describe the intended process for this document within the I-D itself, perhaps in an appendix.\n\nSpecifically, we should explain that:\n\t\u2022\tRFC 4052/4053 are BCPs.\n\t\u2022\tThe current draft is marked as Informational until the IAB completes its process and formally approves it.\n\t\u2022\tAfter IAB approval, an AD will take over, and the document will enter the IETF process to update its intended status to BCP.\n\t\u2022\tAt the time of publication, this explanatory section can be removed.\n\nThis clarification would make the intended path clearer to readers and reduce possible confusion during review.",
       "createdAt": "2025-07-17T17:16:15Z",
-      "updatedAt": "2025-09-27T17:17:50Z",
+      "updatedAt": "2025-10-15T16:27:17Z",
       "closedAt": null,
-      "comments": [
-        {
-          "author": "poepjeshanspieter-cyber",
-          "authorAssociation": "NONE",
-          "body": "[PDF_Reader_RECOVERED_1753913275792_gmsnet2.png.pdf](https://github.com/user-attachments/files/22575628/PDF_Reader_RECOVERED_1753913275792_gmsnet2.png.pdf)",
-          "createdAt": "2025-09-27T17:17:50Z",
-          "updatedAt": "2025-09-27T17:17:50Z"
-        }
-      ]
+      "comments": []
     },
     {
       "number": 41,
@@ -534,12 +526,57 @@
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/41",
       "state": "OPEN",
       "author": "dhruvdhody",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "Given that IAB Liaison Coordinators play a key role in managing relationships and communication between the IAB and external organizations, I\u2019m wondering why this role isn\u2019t referenced here.\n\nIs there a reason we don't want it to be listed in an RFC? \n\nEspecially in this paragraph, adding liaison coordinators before the whole IAB makes sense! \n\n>    Since the IAB is ultimately responsible for liaison relationships,\n>    anyone who has a problem with a relationship (whether an IETF\n>    participant or a person from the peer organization) should first\n>    consult the IAB's designated liaison manager, and if that does not\n>    result in a satisfactory outcome, the IAB itself.",
       "createdAt": "2025-07-17T17:33:07Z",
-      "updatedAt": "2025-07-17T17:44:59Z",
+      "updatedAt": "2025-10-15T16:00:35Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "The liaison coordinator are just the internal role within the IAB but the responsibility lies with the IAB. That's the part that should go into a process RFC and not organisational details. ",
+          "createdAt": "2025-10-15T16:00:34Z",
+          "updatedAt": "2025-10-15T16:00:34Z"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "id": "I_kwDOMUjy5c7RtSzI",
+      "title": "Informal relationships",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/46",
+      "state": "OPEN",
+      "author": "sureshkrishnan",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [
+        "sureshkrishnan",
+        "wkumari",
+        "mirjak",
+        "billwuqin"
+      ],
+      "labels": [],
+      "body": "The document now has a sub section on informal relationships. We need to discuss as the IAB if this is appropriate for a document that focuses on formal relationships.\n\nPro:\nInformal provides an immediate contrast to formal relationships and allows people to consider which one they prefer\n\nCon:\nFormalizes the concept of \"Informal relationships\".",
+      "createdAt": "2025-10-15T14:25:32Z",
+      "updatedAt": "2025-10-15T14:25:38Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 47,
+      "id": "I_kwDOMUjy5c7RtXwU",
+      "title": "Add acknowledgments",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/47",
+      "state": "OPEN",
+      "author": "sureshkrishnan",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Wes\nLeslie\nWarren\nDhruv\n",
+      "createdAt": "2025-10-15T14:29:57Z",
+      "updatedAt": "2025-10-15T14:29:57Z",
       "closedAt": null,
       "comments": []
     }
@@ -1529,24 +1566,26 @@
       "id": "PR_kwDOMUjy5c6fbQQ0",
       "title": "minor-edits",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/42",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "dhruvdhody",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2025-07-17T17:59:15Z",
-      "updatedAt": "2025-09-19T08:11:01Z",
+      "updatedAt": "2025-10-15T12:55:23Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
-      "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
+      "baseRefOid": "962c7f7d3af4a9062a0881caceb8f8a00113c2e8",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "dhruvdhody-patch-minor-edits",
-      "headRefOid": "51c5488c754a8002106cf555f0b4952603d2fbec",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "headRefOid": "3d0f3a40f16de370be6ba49ab75e32ebb2247e46",
+      "closedAt": "2025-10-15T12:55:23Z",
+      "mergedAt": "2025-10-15T12:55:23Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "9dcaaafb4373b12ee4361282f83feb1d1534965e"
+      },
       "comments": [],
       "reviews": [
         {
@@ -1561,6 +1600,19 @@
           "createdAt": "2025-09-19T08:11:01Z",
           "updatedAt": "2025-09-19T08:11:01Z",
           "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7HF600",
+          "commit": {
+            "abbreviatedOid": "51c5488"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-15T12:49:29Z",
+          "updatedAt": "2025-10-15T12:49:29Z",
+          "comments": []
         }
       ]
     },
@@ -1569,28 +1621,30 @@
       "id": "PR_kwDOMUjy5c6gSsGU",
       "title": "Update draft-krishnan-iab-rfc4052bis.md",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/43",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "ldaigle",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "I appreciate this sentence was carried over from the original RFC.  However, re-reading the sentence a lifetime later, it struck me that it sounds like 1/ the IETF chartered the IAB (solely) and 2/ this is the IAB's only purpose.",
       "createdAt": "2025-07-23T15:23:55Z",
-      "updatedAt": "2025-09-19T08:13:59Z",
+      "updatedAt": "2025-10-15T12:49:03Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
       "headRepository": "ldaigle/draft-iab-rfc4052bis",
       "headRefName": "patch-1",
       "headRefOid": "0723aae45e1ee5bfb4a87e280f126b48a4ddb2e0",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2025-10-15T12:49:02Z",
+      "mergedAt": "2025-10-15T12:49:02Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "962c7f7d3af4a9062a0881caceb8f8a00113c2e8"
+      },
       "comments": [
         {
           "author": "hardaker",
-          "authorAssociation": "NONE",
+          "authorAssociation": "CONTRIBUTOR",
           "body": "that sentence was weird to me too, and your  fix is perfect :-)",
           "createdAt": "2025-07-26T06:52:07Z",
           "updatedAt": "2025-07-26T06:52:07Z"
@@ -1624,24 +1678,26 @@
       "id": "PR_kwDOMUjy5c6gvKz8",
       "title": "LS is never used elsewhere and undefined",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/44",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "hardaker",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "LS is used just once in the document, and otherwise undefined.  So this just expands it and doesn't bother with the abreviation.",
       "createdAt": "2025-07-26T06:50:14Z",
-      "updatedAt": "2025-09-19T08:15:12Z",
+      "updatedAt": "2025-10-15T12:48:39Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
       "headRepository": "hardaker/draft-iab-rfc4052bis",
       "headRefName": "ls-expansion",
       "headRefOid": "97672755eb2bb8fb16f4b91d9d8a56f00df524d2",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2025-10-15T12:48:39Z",
+      "mergedAt": "2025-10-15T12:48:39Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "f5716468cb9aa152431c83023f9fa6bf99603b49"
+      },
       "comments": [],
       "reviews": [
         {
@@ -1656,6 +1712,19 @@
           "createdAt": "2025-09-19T08:15:12Z",
           "updatedAt": "2025-09-19T08:15:12Z",
           "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7HF5U1",
+          "commit": {
+            "abbreviatedOid": "9767275"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-15T12:48:32Z",
+          "updatedAt": "2025-10-15T12:48:32Z",
+          "comments": []
         }
       ]
     },
@@ -1664,24 +1733,26 @@
       "id": "PR_kwDOMUjy5c6hC_RF",
       "title": "reorganization of the relationship section for clarity",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/45",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "hardaker",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "This is a fairly extensive reorganization from the top of 2 to the new 2.2.",
       "createdAt": "2025-07-28T19:50:36Z",
-      "updatedAt": "2025-09-25T14:59:13Z",
+      "updatedAt": "2025-10-15T13:49:10Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
-      "baseRefOid": "d33a3cee380257797d0c76624be7b48f4b5aca20",
+      "baseRefOid": "9dcaaafb4373b12ee4361282f83feb1d1534965e",
       "headRepository": "hardaker/draft-iab-rfc4052bis",
       "headRefName": "reorg-for-clarity",
-      "headRefOid": "2a17e197fc3b833318fbed3076bc86922d827081",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "headRefOid": "737a3c02b10f371f5bd9d9a3b1f188958a42c440",
+      "closedAt": "2025-10-15T13:49:09Z",
+      "mergedAt": "2025-10-15T13:49:09Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "23743f30987fd14725c27aef0d2aa350720807a6"
+      },
       "comments": [],
       "reviews": [
         {
@@ -1716,7 +1787,7 @@
             "abbreviatedOid": "2a17e19"
           },
           "author": "hardaker",
-          "authorAssociation": "NONE",
+          "authorAssociation": "CONTRIBUTOR",
           "state": "COMMENTED",
           "body": "",
           "createdAt": "2025-09-25T14:59:13Z",
@@ -1729,6 +1800,84 @@
               "updatedAt": "2025-09-25T14:59:13Z"
             }
           ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7HFs7f",
+          "commit": {
+            "abbreviatedOid": "2a17e19"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-15T12:39:12Z",
+          "updatedAt": "2025-10-15T12:39:12Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7HGKnK",
+          "commit": {
+            "abbreviatedOid": "2a17e19"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-15T13:00:02Z",
+          "updatedAt": "2025-10-15T13:00:02Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7HGOn-",
+          "commit": {
+            "abbreviatedOid": "2a17e19"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-15T13:02:57Z",
+          "updatedAt": "2025-10-15T13:02:57Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7HGPaX",
+          "commit": {
+            "abbreviatedOid": "2a17e19"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-15T13:03:43Z",
+          "updatedAt": "2025-10-15T13:03:43Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7HGQL0",
+          "commit": {
+            "abbreviatedOid": "2a17e19"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-15T13:04:33Z",
+          "updatedAt": "2025-10-15T13:04:33Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7HGlt3",
+          "commit": {
+            "abbreviatedOid": "505be46"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-15T13:23:02Z",
+          "updatedAt": "2025-10-15T13:23:02Z",
+          "comments": []
         }
       ]
     }
