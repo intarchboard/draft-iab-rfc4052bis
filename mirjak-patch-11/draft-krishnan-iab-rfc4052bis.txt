@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 19 April 2026                                   16 October 2025
+Expires: 20 April 2026                                   17 October 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 19 April 2026.
+   This Internet-Draft will expire on 20 April 2026.
 
 Copyright Notice
 
@@ -69,17 +69,15 @@ Table of Contents
 
    1.  Introduction
      1.1.  Changes compared to RFC4052
-   2.  Establishment of Formal Liaison Relationships
-   3.  Liaison Manager
-     3.1.  Speaking for the IETF
-     3.2.  Main Function of the Liaison Manager
-   4.  Liaison Communications
-   5.  Summary of IETF Liaison Manager Responsibilities
-   6.  Security Considerations
-   7.  IANA Considerations
-   8.  References
-     8.1.  Normative References
-     8.2.  Informative References
+   2.  Establishing Formal Liaison Relationships
+   3.  Liaison Communications
+   4.  Liaison Manager Responsibilities
+     4.1.  Speaking for the IETF
+   5.  Security Considerations
+   6.  IANA Considerations
+   7.  References
+     7.1.  Normative References
+     7.2.  Informative References
    Acknowledgments
    Authors' Addresses
 
@@ -104,9 +102,11 @@ Table of Contents
 
    This document is chiefly concerned with:
 
-   *  the establishment and maintenance of liaison relationships, and
+   *  the establishment and maintenance of liaison relationships
+      Section 2, and
 
-   *  the appointment and responsibilities of IETF liaison managers.
+   *  the appointment and responsibilities of IETF liaison managers
+      Section 4.
 
    The management of other organizations' liaison managers to the IETF,
    whether or not in the context of a liaison relationship, is outside
@@ -145,6 +145,12 @@ Table of Contents
    relationship is mostly driven by other organizations rather than by
    the IETF.
 
+   Since the IAB is ultimately responsible for liaison relationships,
+   anyone who has an issue with a relationship (whether an IETF
+   participant or a person from the peer organization) should first
+   consult the IAB's designated liaison manager, and if that does not
+   result in a satisfactory outcome, then consult IAB itself.
+
 1.1.  Changes compared to RFC4052
 
    This version of the document contains the following updates:
@@ -182,7 +188,7 @@ Table of Contents
        informal relationships and described handling of liaison
        communications that don't have a formal relationship.
 
-2.  Establishment of Formal Liaison Relationships
+2.  Establishing Formal Liaison Relationships
 
    A formal liaison relationship is established between the IETF and
    another organization when it is mutually agreeable and beneficial to
@@ -254,44 +260,7 @@ Table of Contents
    sufficient time for the requests they make on the other organization
    to be processed.
 
-3.  Liaison Manager
-
-3.1.  Speaking for the IETF
-
-   The mandate for IETF liaison managers is strictly limited to
-   conveying IETF consensus to the liaised organization.  The liaison
-   manager must not send liaison statements on their own initiative to a
-   liaised organization on behalf of IETF, or any of its areas and
-   working groups.  The liaison manager speaks on behalf of the IETF on
-   the subject matter of the liaison, but only after making sure that
-   the IETF consensus is understood.
-
-3.2.  Main Function of the Liaison Manager
-
-   As described above, most work on mutually interesting topics will be
-   carried out in the usual way within the IETF and the peer
-   organization.  Therefore, most communications will be informal in
-   nature (for example, Working Group (WG) or mailing list discussions).
-
-   An important function of the liaison manager is to ensure that
-   communication is maintained, productive, and timely.  They may use
-   any applicable businesslike approach, from private to public
-   communications, and bring in other parties as needed.  If a
-   communication from a peer organization is addressed to an
-   inappropriate party, such as being sent to the WG but not copying the
-   Area Director (AD) or being sent to the wrong WG, the liaison manager
-   will help redirect or otherwise augment the communication.
-
-   Since the IAB is ultimately responsible for liaison relationships,
-   anyone who has an issue with a relationship (whether an IETF
-   participant or a person from the peer organization) should first
-   consult the IAB's designated liaison manager, and if that does not
-   result in a satisfactory outcome, then consult IAB itself.
-
-   IETF liaison managers should also communicate and coordinate with
-   other liaison managers where concerned technical activities overlap.
-
-4.  Liaison Communications
+3.  Liaison Communications
 
    Communications between organizations use a variety of formal and
    informal channels irrespective of established liaison relationships.
@@ -312,11 +281,11 @@ Table of Contents
    polices and should be open to everyone for inputs and contributions,
    e.g., input discussion in specific working group in the IETF.
 
-5.  Summary of IETF Liaison Manager Responsibilities
+4.  Liaison Manager Responsibilities
 
-   The main responsibility of the liaison manager is to ensure good and
-   formally correct communication between the organizations.  This often
-   includes:
+   The main responsibility of the liaison manager is to ensure good,
+   formally correct, productive, and timely (formal and informal)
+   communication between the organizations.  This often includes:
 
    *  Ensure received liaison statements are recorded and delivered to
       the relevant groups.
@@ -326,7 +295,11 @@ Table of Contents
 
    *  Ensure liaison statements from the IETF adhere to the formal
       requirements of the peer organization (e.g. structure/formatting)
-      and are delivered to the appropriate groups.
+      and are delivered to the appropriate groups.  If a communication
+      from a peer organization is addressed to an inappropriate party,
+      such as being sent diretctly to the WG but not recorded otherwise
+      or being sent to the wrong WG, the liaison manager will help
+      redirect or otherwise augment the communication.
 
    *  Provide additional communication on e.g. process or known
       consensus positions in the IETF.  This may also require
@@ -340,7 +313,13 @@ Table of Contents
    manager may carry additional messages, when specifically instructed.
    However, if these communications aim to "represent the IETF", they
    must have consensus, e.g. by being based on an RFC or some other
-   formal statement by a group within the IETF.
+   formal statement by a group within the IETF.  For such additional
+   communication, liaison managers may use any applicable businesslike
+   approach, from private to public communications, and bring in other
+   parties as needed.
+
+   IETF liaison managers should also communicate and coordinate with
+   other liaison managers where concerned technical activities overlap.
 
    Optionally, liaison manager may provide updates to the IAB on
    technical matters.  Especially if a concern e.g. regarding technical
@@ -349,19 +328,29 @@ Table of Contents
    expected that the liaison manager can have the full overview of
    everything that is going on.
 
-6.  Security Considerations
+4.1.  Speaking for the IETF
+
+   The mandate for IETF liaison managers is strictly limited to
+   conveying IETF consensus to the liaised organization.  The liaison
+   manager must not send liaison statements on their own initiative to a
+   liaised organization on behalf of IETF, or any of its areas and
+   working groups.  The liaison manager speaks on behalf of the IETF on
+   the subject matter of the liaison, but only after making sure that
+   the IETF consensus is understood.
+
+5.  Security Considerations
 
    The security of the Internet is not threatened by these procedures.
    In contrast, collaboration between different SDOs may help to improve
    security in Internet protocols.
 
-7.  IANA Considerations
+6.  IANA Considerations
 
    This document has no IANA actions.
 
-8.  References
+7.  References
 
-8.1.  Normative References
+7.1.  Normative References
 
    [BCP39]    Best Current Practice 39,
               <https://www.rfc-editor.org/info/bcp39>.
@@ -417,7 +406,7 @@ Table of Contents
               BCP 9, RFC 9282, DOI 10.17487/RFC9282, June 2022,
               <https://www.rfc-editor.org/info/rfc9282>.
 
-8.2.  Informative References
+7.2.  Informative References
 
    [I-D.kuehlewind-iab-rfc4053bis]
               Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
