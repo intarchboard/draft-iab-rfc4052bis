@@ -69,17 +69,17 @@ Table of Contents
 
    1.  Introduction
      1.1.  Changes compared to RFC4052
-   2.  Aspects of Liaisons and Liaison Management
+   2.  Establishing Liaison Relationships
      2.1.  Formal Liaison Relationships
      2.2.  Informal Relationships
-     2.3.  Liaison Communications
-     2.4.  Liaison Manager Responsibilities
-       2.4.1.  Speaking for the IETF
-   3.  Security Considerations
-   4.  IANA Considerations
-   5.  References
-     5.1.  Normative References
-     5.2.  Informative References
+   3.  Liaison Communications
+   4.  Liaison Manager Responsibilities
+     4.1.  Speaking for the IETF
+   5.  Security Considerations
+   6.  IANA Considerations
+   7.  References
+     7.1.  Normative References
+     7.2.  Informative References
    Acknowledgments
    Authors' Addresses
 
@@ -108,7 +108,7 @@ Table of Contents
       Section 2, and
 
    *  the appointment and responsibilities of IETF liaison managers
-      Section 2.4.
+      Section 4.
 
    The management of other organizations' liaison managers to the IETF,
    whether or not in the context of a liaison relationship, is outside
@@ -190,7 +190,7 @@ Table of Contents
        informal relationships and described handling of liaison
        communications that don't have a formal relationship.
 
-2.  Aspects of Liaisons and Liaison Management
+2.  Establishing Liaison Relationships
 
    The IETF communicates with other organizations (such as other SDOs)
    through two different types of relationships: Formal Liaison
@@ -278,11 +278,11 @@ Table of Contents
 
    Note that formal communications in the form of liaison statements, if
    needed, can be used without establishing a formal liaison
-   relationship (see Section 2.3).  In this case, since a formal liaison
+   relationship (see Section 3).  In this case, since a formal liaison
    manager does not exist, the IAB itself will be responsible for
    ensuring liaison statements are handled appropriately.
 
-2.3.  Liaison Communications
+3.  Liaison Communications
 
    Communications between organizations use a variety of formal and
    informal channels irrespective of established liaison relationships.
@@ -303,7 +303,7 @@ Table of Contents
    polices and should be open to everyone for inputs and contributions,
    e.g., input discussion in specific working group in the IETF.
 
-2.4.  Liaison Manager Responsibilities
+4.  Liaison Manager Responsibilities
 
    The main responsibility of the liaison manager is to ensure good,
    formally correct, productive, and timely (formal and informal)
@@ -350,7 +350,7 @@ Table of Contents
    expected that the liaison manager can have the full overview of
    everything that is going on.
 
-2.4.1.  Speaking for the IETF
+4.1.  Speaking for the IETF
 
    The mandate for IETF liaison managers is strictly limited to
    conveying IETF consensus to the liaised organization.  The liaison
@@ -360,17 +360,17 @@ Table of Contents
    the subject matter of the liaison, but only after making sure that
    the IETF consensus is understood.
 
-3.  Security Considerations
+5.  Security Considerations
 
    The security of the Internet is not threatened by these procedures.
 
-4.  IANA Considerations
+6.  IANA Considerations
 
    This document has no IANA actions.
 
-5.  References
+7.  References
 
-5.1.  Normative References
+7.1.  Normative References
 
    [BCP39]    Best Current Practice 39,
               <https://www.rfc-editor.org/info/bcp39>.
@@ -426,7 +426,7 @@ Table of Contents
               BCP 9, RFC 9282, DOI 10.17487/RFC9282, June 2022,
               <https://www.rfc-editor.org/info/rfc9282>.
 
-5.2.  Informative References
+7.2.  Informative References
 
    [I-D.kuehlewind-iab-rfc4053bis]
               Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
