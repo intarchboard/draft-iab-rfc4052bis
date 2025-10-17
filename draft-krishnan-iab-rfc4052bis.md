@@ -134,7 +134,7 @@ This version of the document contains the following updates:
    relationships and described handling of liaison communications that don't have a
    formal relationship.
 
-# Establishment of Formal Liaison Relationships {#formal}
+# Establishing Formal Liaison Relationships {#relationship}
 
 A formal liaison relationship is established between the IETF and
 another organization when it is mutually agreeable and beneficial to do so.
