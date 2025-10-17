@@ -75,14 +75,14 @@ whether or not in the context of a liaison relationship, is outside
 the scope of this document.
 
 The IETF has tasked the Internet Architecture Board to manage
-formal liaison relationships.  As stated in its charter:
-"The IAB acts as a representative of the interests of the IETF
+formal liaison relationships.  Consistent with its charter {{!BCP39}},
+the IAB acts as a representative of the interests of the IETF
 in technical liaison relationships with other organizations
 concerned with standards, and other technical and organizational
 issues relevant to the worldwide Internet.  Liaison relationships are
 kept informal whenever possible, and must possess demonstrable value to the
 IETF's technical mandate.  Individual participants from the IETF community are
-appointed as liaison managers to other organizations by the IAB." {{!BCP39}},
+appointed as liaison managers to other organizations by the IAB.
 
 In general, a liaison relationship is most valuable when there are
 areas of technical development of mutual interest. For the most
@@ -268,8 +268,6 @@ the IETF consensus is understood.
 # Security Considerations
 
 The security of the Internet is not threatened by these procedures.
-In contrast, collaboration between different SDOs may help to
-improve security in Internet protocols.
 
 
 # IANA Considerations
