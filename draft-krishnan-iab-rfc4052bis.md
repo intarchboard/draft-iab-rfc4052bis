@@ -134,7 +134,7 @@ This version of the document contains the following updates:
    relationships and described handling of liaison communications that don't have a
    formal relationship.
 
-# Aspects of Liaisons and Liaison Management {#relationship}
+# Establishing Liaison Relationships {#relationship}
 
 The IETF communicates with other organizations (such as other SDOs)
 through two different types of relationships: Formal Liaison
@@ -217,7 +217,7 @@ In this case, since a formal liaison manager
 does not exist, the IAB itself will be responsible for ensuring
 liaison statements are handled appropriately.
 
-## Liaison Communications {#communication}
+# Liaison Communications {#communication}
 
 Communications between organizations use a variety of formal and informal
 channels irrespective of established liaison relationships. The stated
@@ -237,7 +237,7 @@ any other IETF contributions and should follow the same IETF process and
 polices and should be open to everyone for inputs and contributions, e.g.,
 input discussion in specific working group in the IETF.
 
-## Liaison Manager Responsibilities {#manager}
+# Liaison Manager Responsibilities {#manager}
 
 The main responsibility of the liaison manager is to ensure good, formally
 correct, productive, and timely (formal and informal) communication between the organizations.
@@ -273,7 +273,7 @@ if a concern e.g. regarding technical overlap or incorrectness, is detected, thi
 communicated to the IAB. However, given most organization are quite large, it is not expected
 that the liaison manager can have the full overview of everything that is going on.
 
-### Speaking for the IETF
+## Speaking for the IETF
 
 The mandate for IETF liaison managers is strictly limited to
 conveying IETF consensus to the liaised organization.  The liaison
