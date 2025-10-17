@@ -240,7 +240,7 @@ input discussion in specific working group in the IETF.
 ## Liaison Manager Responsibilities {#manager}
 
 The main responsibility of the liaison manager is to ensure good, formally
-correct, productive, and timely (formal and informal) communication between the organizations. 
+correct, productive, and timely (formal and informal) communication between the organizations.
 This often includes:
 
 - Ensure received liaison statements are recorded and delivered to the relevant groups.
