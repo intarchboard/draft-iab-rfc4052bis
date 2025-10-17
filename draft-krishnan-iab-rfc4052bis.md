@@ -286,6 +286,8 @@ the IETF consensus is understood.
 # Security Considerations
 
 The security of the Internet is not threatened by these procedures.
+In contrast, collaboration between different SDOs may help to
+improve security in Internet protocols.
 
 
 # IANA Considerations
