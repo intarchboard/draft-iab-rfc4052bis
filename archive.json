@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-10-16T01:01:19.313653+00:00",
+  "timestamp": "2025-10-19T01:08:40.402709+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -524,15 +524,15 @@
       "id": "I_kwDOMUjy5c7BJC7T",
       "title": "Why does the document not mention IAB Liaison Coordinators?",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/41",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "dhruvdhody",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "Given that IAB Liaison Coordinators play a key role in managing relationships and communication between the IAB and external organizations, I\u2019m wondering why this role isn\u2019t referenced here.\n\nIs there a reason we don't want it to be listed in an RFC? \n\nEspecially in this paragraph, adding liaison coordinators before the whole IAB makes sense! \n\n>    Since the IAB is ultimately responsible for liaison relationships,\n>    anyone who has a problem with a relationship (whether an IETF\n>    participant or a person from the peer organization) should first\n>    consult the IAB's designated liaison manager, and if that does not\n>    result in a satisfactory outcome, the IAB itself.",
       "createdAt": "2025-07-17T17:33:07Z",
-      "updatedAt": "2025-10-15T16:00:35Z",
-      "closedAt": null,
+      "updatedAt": "2025-10-17T12:39:38Z",
+      "closedAt": "2025-10-17T12:39:38Z",
       "comments": [
         {
           "author": "mirjak",
@@ -540,6 +540,27 @@
           "body": "The liaison coordinator are just the internal role within the IAB but the responsibility lies with the IAB. That's the part that should go into a process RFC and not organisational details. ",
           "createdAt": "2025-10-15T16:00:34Z",
           "updatedAt": "2025-10-15T16:00:34Z"
+        },
+        {
+          "author": "dhruvdhody",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Counterpoint \u2014 it is mentioned in two places in draft-iab-rfc4053bis, including the liaison-coordination@iab.org address :)\n\nI like how 4053bis phrases it as \u201c...or the IAB coordination contact\u201d \u2014 perhaps we could use the same wording here as I don't necessarily see this as internal org details but instructions to the community on who to contact, unless we want to encourage sending to full IAB over just to the coordinators! ",
+          "createdAt": "2025-10-16T12:36:39Z",
+          "updatedAt": "2025-10-16T12:36:39Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "we added this recently because we needed reply-to address. However, that still doesn't imply that there has to be a specific role. The IAB is responsible for liaison coordination and it's useful to have a specific contact address for that. So I'd say the text is more about the \"liaison coordination\" function of the IAB than naming it as a distinct role which is served by one ore more people on the IAB.\n\nAlso I'm not sure we really need this in 4052bis? Isn't it enough to have it in 4053bis? In the paragraph, you cited I would prefer to actually have the IAB in there as it is really the IAB role to care about this and the liaison coordinators are only a proxy that act on behave of the IAB in some cases. But I think complains should in many cases be forwarded and discussed by the whole IAB.",
+          "createdAt": "2025-10-16T14:57:56Z",
+          "updatedAt": "2025-10-16T14:57:56Z"
+        },
+        {
+          "author": "dhruvdhody",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "OK",
+          "createdAt": "2025-10-17T12:39:38Z",
+          "updatedAt": "2025-10-17T12:39:38Z"
         }
       ]
     },
@@ -560,9 +581,17 @@
       "labels": [],
       "body": "The document now has a sub section on informal relationships. We need to discuss as the IAB if this is appropriate for a document that focuses on formal relationships.\n\nPro:\nInformal provides an immediate contrast to formal relationships and allows people to consider which one they prefer\n\nCon:\nFormalizes the concept of \"Informal relationships\".",
       "createdAt": "2025-10-15T14:25:32Z",
-      "updatedAt": "2025-10-15T14:25:38Z",
+      "updatedAt": "2025-10-16T17:11:04Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "The document is scoped to explain the process of establishing a formal relationship. A discussion of information relationship or instruction of a \"formal\" concept for information relationship is not in scope for this document. It is needed and important to highlight when a formal relationship is not needed or in other words make the conditions more clear when establishing a formal relationship is value (compared to when it only created overhead without any additional benefits). But introducing a concept of an informal relationship goes beyond that.\n\nI prosed PR #48 to undo this structural change in the previous change but leave some of the text re-orgs.",
+          "createdAt": "2025-10-16T17:11:04Z",
+          "updatedAt": "2025-10-16T17:11:04Z"
+        }
+      ]
     },
     {
       "number": 47,
@@ -1877,6 +1906,286 @@
           "body": "",
           "createdAt": "2025-10-15T13:23:02Z",
           "updatedAt": "2025-10-15T13:23:02Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "id": "PR_kwDOMUjy5c6uIdtz",
+      "title": "Remove introduction of \"formal relationship\"",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/48",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-10-16T17:06:37Z",
+      "updatedAt": "2025-10-17T14:19:43Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "e137aed15d2b1d24cb90117bf92f47a6e350275c",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-11",
+      "headRefOid": "fbc613f799dd0951bc015c05b79a3d30698db614",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7HtbNJ",
+          "commit": {
+            "abbreviatedOid": "a497173"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-10-17T14:14:32Z",
+          "updatedAt": "2025-10-17T14:14:32Z",
+          "comments": [
+            {
+              "originalPosition": 23,
+              "body": "```suggestion\r\n# Establishing Formal Liaison Relationships {#relationship}\r\n```",
+              "createdAt": "2025-10-17T14:14:32Z",
+              "updatedAt": "2025-10-17T14:14:32Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "id": "PR_kwDOMUjy5c6uIzI-",
+      "title": "Remove redundancy in liaison manager section",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/49",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "I noticed that I copied the \"summary of liaison manager responsibilities\" section in the wrong place. This PR merged it with the existing section and removes redundant text. There is still some redundancy with the liaison communication section, but maybe we can clear that up in a separate PR.",
+      "createdAt": "2025-10-16T17:33:40Z",
+      "updatedAt": "2025-10-17T13:24:56Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "57fb313ef64f90b9354355affa1039d809ba36b2",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-12",
+      "headRefOid": "e24e016472ec65895e406e6fd573a07ac06aee7a",
+      "closedAt": "2025-10-17T13:24:56Z",
+      "mergedAt": "2025-10-17T13:24:56Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "c8e292b09a4a2d960703605e135e0bddea06543b"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7Hsh5r",
+          "commit": {
+            "abbreviatedOid": "267a2bf"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-10-17T13:17:22Z",
+          "updatedAt": "2025-10-17T13:17:23Z",
+          "comments": [
+            {
+              "originalPosition": 95,
+              "body": "```suggestion\r\ncorrect, productive, and timely (formal and informal) communication between the organizations.\r\n```",
+              "createdAt": "2025-10-17T13:17:22Z",
+              "updatedAt": "2025-10-17T13:17:23Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "id": "PR_kwDOMUjy5c6uUCXX",
+      "title": "Restructure to have three main sections",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/50",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "on establishing liaison relationships, liaison manager responsibilities, and liaison communication",
+      "createdAt": "2025-10-17T13:27:58Z",
+      "updatedAt": "2025-10-17T13:57:09Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "c8e292b09a4a2d960703605e135e0bddea06543b",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-13",
+      "headRefOid": "e3e38f058df53675b48f570306dc99a0ee5c4a14",
+      "closedAt": "2025-10-17T13:57:08Z",
+      "mergedAt": "2025-10-17T13:57:08Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "e137aed15d2b1d24cb90117bf92f47a6e350275c"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7HtGLg",
+          "commit": {
+            "abbreviatedOid": "e3e38f0"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-17T13:57:06Z",
+          "updatedAt": "2025-10-17T13:57:06Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "id": "PR_kwDOMUjy5c6uUZyi",
+      "title": "text on additional activities and groups",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/51",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "added to intro. Is this the right place?",
+      "createdAt": "2025-10-17T14:00:17Z",
+      "updatedAt": "2025-10-17T14:01:08Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "e137aed15d2b1d24cb90117bf92f47a6e350275c",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-14",
+      "headRefOid": "e6e3c88478552207d3950d9d1ef68d19c7522e39",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "This is alternative text proposed instead of PR #37",
+          "createdAt": "2025-10-17T14:01:08Z",
+          "updatedAt": "2025-10-17T14:01:08Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 52,
+      "id": "PR_kwDOMUjy5c6uUl-o",
+      "title": "add sentence in security considerations section",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/52",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "to make it sound less negative... but of course not an important change...",
+      "createdAt": "2025-10-17T14:16:08Z",
+      "updatedAt": "2025-10-17T14:16:09Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "e137aed15d2b1d24cb90117bf92f47a6e350275c",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-15",
+      "headRefOid": "2cb07d7b8dd0fe3e6a5062f9365c679aeefff7fa",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 53,
+      "id": "PR_kwDOMUjy5c6uU2oV",
+      "title": "Make the IAB charter text a real citation",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/53",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "Because it's copied one to one from RFC2850",
+      "createdAt": "2025-10-17T14:40:15Z",
+      "updatedAt": "2025-10-18T14:18:09Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "e137aed15d2b1d24cb90117bf92f47a6e350275c",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-16",
+      "headRefOid": "4d59038e14bb295da7ea616ea7625db035b6dede",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7H4_OX",
+          "commit": {
+            "abbreviatedOid": "4d59038"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-18T14:18:09Z",
+          "updatedAt": "2025-10-18T14:18:09Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "id": "PR_kwDOMUjy5c6uWVOW",
+      "title": "rename as adopted draft (file and in the md)",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/54",
+      "state": "MERGED",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-10-17T16:55:01Z",
+      "updatedAt": "2025-10-18T14:12:36Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "e137aed15d2b1d24cb90117bf92f47a6e350275c",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-17",
+      "headRefOid": "2609cb74008800942bbd2fe1e2898beaff20f759",
+      "closedAt": "2025-10-18T14:12:36Z",
+      "mergedAt": "2025-10-18T14:12:36Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "faacc7f077df33b0f81bad313c7bfc72fa047c1c"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7H4-x-",
+          "commit": {
+            "abbreviatedOid": "2609cb7"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-18T14:12:19Z",
+          "updatedAt": "2025-10-18T14:12:19Z",
           "comments": []
         }
       ]
