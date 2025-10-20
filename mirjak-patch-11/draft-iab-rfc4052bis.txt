@@ -28,12 +28,6 @@ About This Document
    Status information for this document may be found at
    https://datatracker.ietf.org/doc/draft-iab-rfc4052bis/.
 
-   Discussion of this document takes place on the Internet Architecture
-   Board Internet Engineering Task Force mailing list
-   (mailto:iab@iab.org), which is archived at
-   https://mailarchive.ietf.org/arch/browse/iab/.  Subscribe at
-   https://www.ietf.org/mailman/listinfo/iab/.
-
    Source for this draft and an issue tracker can be found at
    https://github.com/intarchboard/draft-iab-rfc4052bis.
 
@@ -75,9 +69,10 @@ Table of Contents
      4.1.  Speaking for the IETF
    5.  Security Considerations
    6.  IANA Considerations
-   7.  References
-     7.1.  Normative References
-     7.2.  Informative References
+   7.  Appendix A: Document Process
+   8.  References
+     8.1.  Normative References
+     8.2.  Informative References
    Acknowledgments
    Authors' Addresses
 
@@ -113,14 +108,15 @@ Table of Contents
    the scope of this document.
 
    The IETF has tasked the Internet Architecture Board to manage formal
-   liaison relationships.  Consistent with its charter [BCP39], the IAB
-   acts as a representative of the interests of the IETF in technical
-   liaison relationships with other organizations concerned with
-   standards, and other technical and organizational issues relevant to
-   the worldwide Internet.  Liaison relationships are kept informal
-   whenever possible, and must possess demonstrable value to the IETF's
-   technical mandate.  Individual participants from the IETF community
-   are appointed as liaison managers to other organizations by the IAB.
+   liaison relationships.  As stated in its charter [BCP39] 2.(f), "The
+   IAB acts as a representative of the interests of the IETF in
+   technical liaison relationships with other organizations concerned
+   with standards, and other technical and organizational issues
+   relevant to the worldwide Internet.  Liaison relationships are kept
+   informal whenever possible, and must possess demonstrable value to
+   the IETF's technical mandate.  Individual participants from the IETF
+   community are appointed as liaison managers to other organizations by
+   the IAB."
 
    In general, a liaison relationship is most valuable when there are
    areas of technical development of mutual interest.  For the most
@@ -145,11 +141,19 @@ Table of Contents
    relationship is mostly driven by other organizations rather than by
    the IETF.
 
+   If tighter coordination is needed, e.g. in cases where there are a
+   large number of document dependencies when specifications are
+   developed in parallel, the IAB might consider additional activities
+   such as meetings or calls with the relevant people (e.g. chairs, ADs,
+   and authors).  Such activities could be one-time events or organized
+   in a standing groups.  The liaison manager should be involved in the
+   organization and the running of these activities.
+
    Since the IAB is ultimately responsible for liaison relationships,
    anyone who has an issue with a relationship (whether an IETF
    participant or a person from the peer organization) should first
    consult the IAB's designated liaison manager, and if that does not
-   result in a satisfactory outcome, then consult IAB itself.
+   result in a satisfactory outcome, then consult the IAB itself.
 
 1.1.  Changes compared to RFC4052
 
@@ -227,10 +231,10 @@ Table of Contents
    situations where one group in one organization has a dependency on a
    document produced in the other organization and is requesting in-
    depth support or would like feedback on internal documents.  However
-   note that the agreeded need for close collaboration is a pre-
-   condition for establishing a formal liaison relationship but is not
-   alone sufficient for the IETF to require the establishment of a
-   formal liaison relationship.
+   note that the agreed need for close collaboration is a pre-condition
+   for establishing a formal liaison relationship but is not alone
+   sufficient for the IETF to require the establishment of a formal
+   liaison relationship.
 
    b) The peer organization of the IETF may require a more formal
    communication structure in order to allow the IETF to work directly
@@ -266,7 +270,7 @@ Table of Contents
    informal channels irrespective of established liaison relationships.
    The stated preference of the IETF, which is largely an informal
    organization, is to use informal channels (e.g., discussion on expert
-   level in specific Working group Meeting or mailing list), as these
+   level in a specific working group meeting or mailing list), as these
    have integrated better into IETF process and historically worked well
    to expedite matters.  In some cases, however, a more formal
    communication is appropriate, either as an adjunct to the informal
@@ -274,7 +278,7 @@ Table of Contents
    the case of formal communications, the established procedures of many
    organizations use a form known as a "liaison statement" (LS).
    Procedures for sending, managing, and responding to liaison
-   statements are discussed in [I-D.kuehlewind-iab-rfc4053bis].
+   statements are discussed in [I-D.iab-rfc4053bis].
 
    Note that communications between organizations have no impact to any
    other IETF contributions and should follow the same IETF process and
@@ -284,8 +288,8 @@ Table of Contents
 4.  Liaison Manager Responsibilities
 
    The main responsibility of the liaison manager is to ensure good,
-   formally correct, productive, and timely (formal and informal)
-   communication between the organizations.  This often includes:
+   productive, and timely (formal and informal) communication between
+   the organizations.  This often includes:
 
    *  Ensure received liaison statements are recorded and delivered to
       the relevant groups.
@@ -297,11 +301,11 @@ Table of Contents
       requirements of the peer organization (e.g. structure/formatting)
       and are delivered to the appropriate groups.  If a communication
       from a peer organization is addressed to an inappropriate party,
-      such as being sent diretctly to the WG but not recorded otherwise
+      such as being sent directly to the WG but not recorded otherwise
       or being sent to the wrong WG, the liaison manager will help
       redirect or otherwise augment the communication.
 
-   *  Provide additional communication on e.g. process or known
+   *  Provide additional communication regarding e.g. process or known
       consensus positions in the IETF.  This may also require
       participation in relevant meetings of the peer organization and
       potentially report back to the appropriate IETF organization any
@@ -310,7 +314,7 @@ Table of Contents
 
    Formal messages from the IETF to the peer organization are usually
    carried in liaison statements.  In certain situations, the liaison
-   manager may carry additional messages, when specifically instructed.
+   manager may carry additional messages for providing further context.
    However, if these communications aim to "represent the IETF", they
    must have consensus, e.g. by being based on an RFC or some other
    formal statement by a group within the IETF.  For such additional
@@ -321,12 +325,11 @@ Table of Contents
    IETF liaison managers should also communicate and coordinate with
    other liaison managers where concerned technical activities overlap.
 
-   Optionally, liaison manager may provide updates to the IAB on
-   technical matters.  Especially if a concern e.g. regarding technical
-   overlap or incorrectness, is detected, this should be communicated to
-   the IAB.  However, given most organization are quite large, it is not
-   expected that the liaison manager can have the full overview of
-   everything that is going on.
+   Liaison managers also provide updates to the IAB on technical
+   matters, especially if concerns regarding technical overlap or
+   incorrectness are detected.  However, given that most organizations
+   are quite large, it is not expected that the liaison manager needs to
+   have a complete overview of everything that is going on there.
 
 4.1.  Speaking for the IETF
 
@@ -340,15 +343,26 @@ Table of Contents
 
 5.  Security Considerations
 
-   The security of the Internet is not threatened by these procedures.
+   The security of the Internet is enhanced by robust coordination
+   between SDOs.
 
 6.  IANA Considerations
 
    This document has no IANA actions.
 
-7.  References
+7.  Appendix A: Document Process
 
-7.1.  Normative References
+   RFC 4052 was published as a BCP.  Since the IAB cannot publish BCPs,
+   this document will follow a two step process.  The current draft is
+   marked as Informational until the IAB completes its process and
+   formally approves it.  After IAB approval, a member of the IESG needs
+   to sponsor the document, and the document will enter the IETF process
+   to update its intended status to BCP.  This appendix should be
+   removed at the time of publication.
+
+8.  References
+
+8.1.  Normative References
 
    [BCP39]    Best Current Practice 39,
               <https://www.rfc-editor.org/info/bcp39>.
@@ -404,7 +418,14 @@ Table of Contents
               BCP 9, RFC 9282, DOI 10.17487/RFC9282, June 2022,
               <https://www.rfc-editor.org/info/rfc9282>.
 
-7.2.  Informative References
+8.2.  Informative References
+
+   [I-D.iab-rfc4053bis]
+              Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
+              Handling Liaison Statements to and from the IETF", Work in
+              Progress, Internet-Draft, draft-iab-rfc4053bis-00, 17
+              October 2025, <https://datatracker.ietf.org/doc/html/
+              draft-iab-rfc4053bis-00>.
 
    [I-D.kuehlewind-iab-rfc4053bis]
               Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
@@ -447,9 +468,10 @@ Acknowledgments
    of [RFC4053] contributed significantly to it as well.
 
    This version of the document is based on [RFC4052] and brings it in
-   line with currently followed procedures.  Further updates to all
-   parts of the text are expected in the process of gathering community
-   feedback for this document.
+   line with currently followed procedures.  The authors would like to
+   thank Leslie Daigle, Roman Danyliw, Dhruv Dhody, Joel Halpern, Wes
+   Hardaker, and Warren Kumari for their valuable comments and
+   suggestions to improve this document.
 
 Authors' Addresses
 
