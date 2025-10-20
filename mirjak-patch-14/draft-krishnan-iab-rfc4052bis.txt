@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 20 April 2026                                   17 October 2025
+Expires: 23 April 2026                                   20 October 2025
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 20 April 2026.
+   This Internet-Draft will expire on 23 April 2026.
 
 Copyright Notice
 
@@ -148,13 +148,13 @@ Table of Contents
    the IETF.
 
    If more tight coordination is needed, e.g. in cases where there are a
-   larger number of document dependencies, especially when
-   specifications are developed in parallel, the IAB might consider
-   additional activities such as meetings or calls with the relevant
-   people (e.g. chairs, ADs, and authors).  Such activities could be
-   one-time events or organised in a standing groups.  The liaison
-   manager should be involved in these activities and may even help to
-   lead the organisation of those activities.
+   large number of document dependencies, especially when specifications
+   are developed in parallel, the IAB might consider additional
+   activities such as meetings or calls with the relevant people (e.g.
+   chairs, ADs, and authors).  Such activities could be one-time events
+   or organised in a standing groups.  The liaison manager should be
+   involved in these activities and may even help to lead the
+   organisation of those activities.
 
    Since the IAB is ultimately responsible for liaison relationships,
    anyone who has an issue with a relationship (whether an IETF
