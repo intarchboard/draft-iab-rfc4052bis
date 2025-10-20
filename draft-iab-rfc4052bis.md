@@ -108,7 +108,7 @@ Since the IAB is ultimately responsible for liaison relationships,
 anyone who has an issue with a relationship (whether an IETF
 participant or a person from the peer organization) should first
 consult the IAB's designated liaison manager, and if that does not
-result in a satisfactory outcome, then consult IAB itself.
+result in a satisfactory outcome, then consult the IAB itself.
 
 ## Changes compared to RFC4052
 
@@ -147,11 +147,10 @@ and collaborate effectively.
 
 A formal liaison relationship is established between the IETF and
 another organization when it is mutually agreeable and beneficial to do so.  From the
-IETF's perspective this is needed only when required for specific
-purposes.
-However, there might be formal requirements from the
-peer organization to enable collaboration within the peer
-organization's processes.
+IETF's perspective, this is needed only when required for specific
+purposes as described below. However, there might be formal requirements from the
+peer organization for a formal liaison relationship to enable collaboration within 
+the peer organization's processes.
 
 The IAB uses two different aspects when it considers whether or not to establish a formal relationship with a peer organization.
 The first aspect deals with the level of collaboration needed,
@@ -222,8 +221,8 @@ liaison statements are handled appropriately.
 Communications between organizations use a variety of formal and informal
 channels irrespective of established liaison relationships. The stated
 preference of the IETF, which is largely an informal organization, is to
-use informal channels (e.g., discussion on expert level in specific Working
-group Meeting or mailing list), as these have integrated better into IETF
+use informal channels (e.g., discussion on expert level in a specific working
+group meeting or mailing list), as these have integrated better into IETF
 process and historically worked well to expedite matters. In some cases,
 however, a more formal communication is appropriate, either as an adjunct
 to the informal channel or in its own place with or without liaison
@@ -235,7 +234,7 @@ discussed in {{?I-D.kuehlewind-iab-rfc4053bis}}.
 Note that communications between organizations have no impact on
 any other IETF contributions, and should follow the same IETF process and
 policies and should be open to everyone for inputs and contributions, e.g.,
-input discussion in specific working group in the IETF.
+input discussion in a specific working group in the IETF.
 
 # Liaison Manager Responsibilities {#manager}
 
@@ -249,7 +248,7 @@ This often includes:
 - Ensure liaison statements from the IETF adhere to the formal requirements of the
   peer organization (e.g. structure/formatting) and are delivered to the appropriate groups.
   If a communication from a peer organization is addressed to an
-  inappropriate party, such as being sent diretctly to the WG but not recorded otherwise
+  inappropriate party, such as being sent directly to the WG but not recorded otherwise
   or being sent to the wrong WG, the liaison manager
   will help redirect or otherwise augment the communication.
 - Provide additional communication regarding e.g. process or known consensus positions in
@@ -269,9 +268,9 @@ IETF liaison managers should also communicate and coordinate with
 other liaison managers where concerned technical activities overlap.
 
 Liaison managers also provide updates to the IAB on technical matters, especially
-if a concerns regarding technical overlap or incorrectness are detected. However, 
+if concerns regarding technical overlap or incorrectness are detected. However, 
 given that most organizations are quite large, it is not expected that the liaison 
-manager needs to have the full overview of everything that is going on.
+manager needs to have a complete overview of everything that is going on there.
 
 ## Speaking for the IETF
 
@@ -302,6 +301,6 @@ management of {{?RFC4053}}, and the authors of {{?RFC4053}} contributed
 significantly to it as well.
 
 This version of the document is based on {{?RFC4052}} and brings it in line with currently followed
-procedures. The authors would like to thank Leslie Daigle, Roman Danyliw, Joel Halpern, Wes Hardaker, 
+procedures. The authors would like to thank Leslie Daigle, Roman Danyliw, Dhruv Dhody, Joel Halpern, Wes Hardaker,
 and Warren Kumari for their valuable comments and suggestions to improve this document.
 
