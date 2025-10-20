@@ -160,7 +160,7 @@ and the second deals with any restrictive nature of communication that impedes o
 a) There is an overlap in work between one or more groups in each organization that requires close
    collaboration that would not be possible without a formal relationship.
    This might include situations where one group in one organization has a dependency on a document produced in the other
-   organization and is requesting in-depth support or would like feedback on internal documents. However note that the agreeded need
+   organization and is requesting in-depth support or would like feedback on internal documents. However note that the agreed need
    for close collaboration is a pre-condition for establishing a formal liaison relationship but is not alone sufficient for the IETF
    to require the establishment of a formal liaison relationship.
 
@@ -232,15 +232,15 @@ procedures of many organizations use a form known as a "liaison statement" (LS).
 Procedures for sending, managing, and responding to liaison statements are
 discussed in {{?I-D.kuehlewind-iab-rfc4053bis}}.
 
-Note that communications between organizations have no impact to
-any other IETF contributions and should follow the same IETF process and
-polices and should be open to everyone for inputs and contributions, e.g.,
+Note that communications between organizations have no impact on
+any other IETF contributions, and should follow the same IETF process and
+policies and should be open to everyone for inputs and contributions, e.g.,
 input discussion in specific working group in the IETF.
 
 # Liaison Manager Responsibilities {#manager}
 
-The main responsibility of the liaison manager is to ensure good, formally
-correct, productive, and timely (formal and informal) communication between the organizations.
+The main responsibility of the liaison manager is to ensure good,
+productive, and timely (formal and informal) communication between the organizations.
 This often includes:
 
 - Ensure received liaison statements are recorded and delivered to the relevant groups.
@@ -252,14 +252,14 @@ This often includes:
   inappropriate party, such as being sent diretctly to the WG but not recorded otherwise
   or being sent to the wrong WG, the liaison manager
   will help redirect or otherwise augment the communication.
-- Provide additional communication on e.g. process or known consensus positions in
+- Provide additional communication regarding e.g. process or known consensus positions in
   the IETF. This may also require participation in relevant meetings of the peer
   organization and potentially report back to the appropriate IETF organization any
   material information that is intended to be shared by the peer organization.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison
-statements. In certain situations, the liaison manager may carry additional messages, when
-specifically instructed. However, if these communications aim to "represent the IETF",
+statements. In certain situations, the liaison manager may carry additional messages for
+providing further context. However, if these communications aim to "represent the IETF",
 they must have consensus, e.g. by being based on an RFC or some other formal statement
 by a group within the IETF. For such additional communication, liaison managers
 may use any applicable businesslike approach, from
@@ -268,10 +268,10 @@ private to public communications, and bring in other parties as needed.
 IETF liaison managers should also communicate and coordinate with
 other liaison managers where concerned technical activities overlap.
 
-Optionally, liaison manager may provide updates to the IAB on technical matters. Especially
-if a concern e.g. regarding technical overlap or incorrectness, is detected, this should be
-communicated to the IAB. However, given most organization are quite large, it is not expected
-that the liaison manager can have the full overview of everything that is going on.
+Liaison managers also provide updates to the IAB on technical matters, especially
+if a concerns regarding technical overlap or incorrectness are detected. However, 
+given that most organizations are quite large, it is not expected that the liaison 
+manager needs to have the full overview of everything that is going on.
 
 ## Speaking for the IETF
 
@@ -285,8 +285,7 @@ the IETF consensus is understood.
 
 # Security Considerations
 
-The security of the Internet is not threatened by these procedures.
-
+The security of the Internet is enhanced by robust coordination between SDOs.
 
 # IANA Considerations
 
