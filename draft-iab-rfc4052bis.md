@@ -10,8 +10,6 @@ date:
 v: 3
 venue:
   group: "Internet Architecture Board"
-  type: "Internet Engineering Task Force"
-  mail: "iab@iab.org"
   github: "intarchboard/draft-iab-rfc4052bis"
 
 author:
@@ -75,14 +73,14 @@ whether or not in the context of a liaison relationship, is outside
 the scope of this document.
 
 The IETF has tasked the Internet Architecture Board to manage
-formal liaison relationships.  Consistent with its charter {{!BCP39}},
-the IAB acts as a representative of the interests of the IETF
+formal liaison relationships.  As stated in its charter {{!BCP39}} 2.(f),
+"The IAB acts as a representative of the interests of the IETF
 in technical liaison relationships with other organizations
 concerned with standards, and other technical and organizational
 issues relevant to the worldwide Internet.  Liaison relationships are
 kept informal whenever possible, and must possess demonstrable value to the
 IETF's technical mandate.  Individual participants from the IETF community are
-appointed as liaison managers to other organizations by the IAB.
+appointed as liaison managers to other organizations by the IAB."
 
 In general, a liaison relationship is most valuable when there are
 areas of technical development of mutual interest. For the most
@@ -104,11 +102,19 @@ the need for a formal liaison relationship. Hence, in almost all cases the need
 for a formal relationship is mostly driven by other organizations rather than by
 the IETF.
 
+If tighter coordination is needed, e.g. in cases where there are
+a large number of document dependencies when
+specifications are developed in parallel, the IAB might consider
+additional activities such as meetings or calls with the relevant
+people (e.g. chairs, ADs, and authors). Such activities could be
+one-time events or organized in a standing groups. The liaison manager
+should be involved in the organization and the running of these activities.
+
 Since the IAB is ultimately responsible for liaison relationships,
 anyone who has an issue with a relationship (whether an IETF
 participant or a person from the peer organization) should first
 consult the IAB's designated liaison manager, and if that does not
-result in a satisfactory outcome, then consult IAB itself.
+result in a satisfactory outcome, then consult the IAB itself.
 
 ## Changes compared to RFC4052
 
@@ -169,7 +175,7 @@ purposes, such as:
 a) There is an overlap in work between one or more groups in each organization that requires close
    collaboration that would not be possible without a formal relationship.
    This might include situations where one group in one organization has a dependency on a document produced in the other
-   organization and is requesting in-depth support or would like feedback on internal documents. However note that the agreeded need
+   organization and is requesting in-depth support or would like feedback on internal documents. However note that the agreed need
    for close collaboration is a pre-condition for establishing a formal liaison relationship but is not alone sufficient for the IETF
    to require the establishment of a formal liaison relationship.
 
@@ -204,15 +210,15 @@ the other organization to be processed.
 Communications between organizations use a variety of formal and informal
 channels irrespective of established liaison relationships. The stated
 preference of the IETF, which is largely an informal organization, is to
-use informal channels (e.g., discussion on expert level in specific Working
-group Meeting or mailing list), as these have integrated better into IETF
+use informal channels (e.g., discussion on expert level in a specific working
+group meeting or mailing list), as these have integrated better into IETF
 process and historically worked well to expedite matters. In some cases,
 however, a more formal communication is appropriate, either as an adjunct
 to the informal channel or in its own place with or without liaison
 relationship. In the case of formal communications, the established
 procedures of many organizations use a form known as a "liaison statement" (LS).
 Procedures for sending, managing, and responding to liaison statements are
-discussed in {{?I-D.kuehlewind-iab-rfc4053bis}}.
+discussed in {{?I-D.iab-rfc4053bis}}.
 
 Note that communications between organizations have no impact to
 any other IETF contributions and should follow the same IETF process and
@@ -221,8 +227,8 @@ input discussion in specific working group in the IETF.
 
 # Liaison Manager Responsibilities {#manager}
 
-The main responsibility of the liaison manager is to ensure good, formally
-correct, productive, and timely (formal and informal) communication between the organizations.
+The main responsibility of the liaison manager is to ensure good,
+productive, and timely (formal and informal) communication between the organizations.
 This often includes:
 
 - Ensure received liaison statements are recorded and delivered to the relevant groups.
@@ -231,17 +237,17 @@ This often includes:
 - Ensure liaison statements from the IETF adhere to the formal requirements of the
   peer organization (e.g. structure/formatting) and are delivered to the appropriate groups.
   If a communication from a peer organization is addressed to an
-  inappropriate party, such as being sent diretctly to the WG but not recorded otherwise
+  inappropriate party, such as being sent directly to the WG but not recorded otherwise
   or being sent to the wrong WG, the liaison manager
   will help redirect or otherwise augment the communication.
-- Provide additional communication on e.g. process or known consensus positions in
+- Provide additional communication regarding e.g. process or known consensus positions in
   the IETF. This may also require participation in relevant meetings of the peer
   organization and potentially report back to the appropriate IETF organization any
   material information that is intended to be shared by the peer organization.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison
-statements. In certain situations, the liaison manager may carry additional messages, when
-specifically instructed. However, if these communications aim to "represent the IETF",
+statements. In certain situations, the liaison manager may carry additional messages for
+providing further context. However, if these communications aim to "represent the IETF",
 they must have consensus, e.g. by being based on an RFC or some other formal statement
 by a group within the IETF. For such additional communication, liaison managers
 may use any applicable businesslike approach, from
@@ -250,10 +256,10 @@ private to public communications, and bring in other parties as needed.
 IETF liaison managers should also communicate and coordinate with
 other liaison managers where concerned technical activities overlap.
 
-Optionally, liaison manager may provide updates to the IAB on technical matters. Especially
-if a concern e.g. regarding technical overlap or incorrectness, is detected, this should be
-communicated to the IAB. However, given most organization are quite large, it is not expected
-that the liaison manager can have the full overview of everything that is going on.
+Liaison managers also provide updates to the IAB on technical matters, especially
+if concerns regarding technical overlap or incorrectness are detected. However,
+given that most organizations are quite large, it is not expected that the liaison
+manager needs to have a complete overview of everything that is going on there.
 
 ## Speaking for the IETF
 
@@ -267,13 +273,15 @@ the IETF consensus is understood.
 
 # Security Considerations
 
-The security of the Internet is not threatened by these procedures.
-
+The security of the Internet is enhanced by robust coordination between SDOs.
 
 # IANA Considerations
 
 This document has no IANA actions.
 
+# Appendix A: Document Process
+
+RFC 4052 was published as a BCP. Since the IAB cannot publish BCPs, this document will follow a two step process. The current draft is marked as Informational until the IAB completes its process and formally approves it. After IAB approval, a member of the IESG needs to sponsor the document, and the document will enter the IETF process to update its intended status to BCP. This appendix should be removed at the time of publication.
 
 --- back
 
@@ -285,6 +293,6 @@ management of {{?RFC4053}}, and the authors of {{?RFC4053}} contributed
 significantly to it as well.
 
 This version of the document is based on {{?RFC4052}} and brings it in line with currently followed
-procedures. Further updates to all parts of the text are expected in the process of gathering
-community feedback for this document.
+procedures. The authors would like to thank Leslie Daigle, Roman Danyliw, Dhruv Dhody, Joel Halpern, Wes Hardaker,
+and Warren Kumari for their valuable comments and suggestions to improve this document.
 
