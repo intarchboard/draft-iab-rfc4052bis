@@ -104,6 +104,14 @@ the need for a formal liaison relationship. Hence, in almost all cases the need
 for a formal relationship is mostly driven by other organizations rather than by
 the IETF.
 
+If tighter coordination is needed, e.g. in cases where there are
+a large number of document dependencies when
+specifications are developed in parallel, the IAB might consider
+additional activities such as meetings or calls with the relevant
+people (e.g. chairs, ADs, and authors). Such activities could be
+one-time events or organized in a standing groups. The liaison manager
+should be involved in the organization and the running of these activities.
+
 Since the IAB is ultimately responsible for liaison relationships,
 anyone who has an issue with a relationship (whether an IETF
 participant or a person from the peer organization) should first
