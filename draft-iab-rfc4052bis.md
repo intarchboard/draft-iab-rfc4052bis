@@ -157,7 +157,7 @@ A formal liaison relationship is established between the IETF and
 another organization when it is mutually agreeable and beneficial to do so.  From the
 IETF's perspective, this is needed only when required for specific
 purposes as described below. However, there might be formal requirements from the
-peer organization for a formal liaison relationship to enable collaboration within 
+peer organization for a formal liaison relationship to enable collaboration within
 the peer organization's processes.
 
 The IAB uses two different aspects when it considers whether or not to establish a formal relationship with a peer organization.
@@ -276,8 +276,8 @@ IETF liaison managers should also communicate and coordinate with
 other liaison managers where concerned technical activities overlap.
 
 Liaison managers also provide updates to the IAB on technical matters, especially
-if concerns regarding technical overlap or incorrectness are detected. However, 
-given that most organizations are quite large, it is not expected that the liaison 
+if concerns regarding technical overlap or incorrectness are detected. However,
+given that most organizations are quite large, it is not expected that the liaison
 manager needs to have a complete overview of everything that is going on there.
 
 ## Speaking for the IETF
