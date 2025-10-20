@@ -63,9 +63,7 @@ Table of Contents
 
    1.  Introduction
      1.1.  Changes compared to RFC4052
-   2.  Establishing Liaison Relationships
-     2.1.  Formal Liaison Relationships
-     2.2.  Informal Relationships
+   2.  Establishing Formal Liaison Relationships
    3.  Liaison Communications
    4.  Liaison Manager Responsibilities
      4.1.  Speaking for the IETF
@@ -194,30 +192,38 @@ Table of Contents
        informal relationships and described handling of liaison
        communications that don't have a formal relationship.
 
-2.  Establishing Liaison Relationships
-
-   The IETF communicates with other organizations (such as other SDOs)
-   through two different types of relationships: Formal Liaison
-   Relationships Section 2.1 and Informal Relationships Section 2.2.
-   The type of relationship needed depends on the resources that groups
-   within each organization (for example ,"Working Groups" in the IETF)
-   require in order to communicate and collaborate effectively.
-
-2.1.  Formal Liaison Relationships
+2.  Establishing Formal Liaison Relationships
 
    A formal liaison relationship is established between the IETF and
    another organization when it is mutually agreeable and beneficial to
-   do so.  From the IETF's perspective, this is needed only when
-   required for specific purposes as described below.  However, there
-   might be formal requirements from the peer organization for a formal
-   liaison relationship to enable collaboration within the peer
-   organization's processes.
+   do so.
 
-   The IAB uses two different aspects when it considers whether or not
-   to establish a formal relationship with a peer organization.  The
-   first aspect deals with the level of collaboration needed, and the
-   second deals with any restrictive nature of communication that
-   impedes open collaboration.
+   Generally informal collaboration between the IETF and peer
+   organizations is preferred whenever direct working relationships
+   between the members of both organizations is possible.  Specifically,
+   there are no processes in the IETF that require a formal liaison
+   relationship as our work is conducted in open public meetings and on
+   mailing lists where anyone can contribute.  Inputs from all
+   participants in the IETF, regardless of the type of relationship, are
+   given equal weight and standing.  When a similar structure exists in
+   the peer organization and all participants have access to open
+   working documents and communication mechanisms, there may not be a
+   need for a more formal structure.
+
+   There is no specific procedure to enable informal collaboration.
+   Such an informal relationship simply exists by defacto when members
+   of both organizations cross-collaborate and participate in the groups
+   with overlapping interest.
+
+   Note that formal communications in the form of liaison statements, if
+   needed, can be used without establishing a formal liaison
+   relationship.  In this case, since a formal liaison manager does not
+   exist, the IAB itself will be responsible for ensuring liaison
+   statements are handled appropriately, as further explained in
+   [I-D.kuehlewind-iab-rfc4053bis].
+
+   From the IETF's perspective a formal relationship is needed only when
+   required for specific purposes, such as:
 
    a) There is an overlap in work between one or more groups in each
    organization that requires close collaboration that would not be
@@ -239,10 +245,6 @@ Table of Contents
 - Ability to participate and contribute directly in the peer organization's groups and forums.
 - Ability to participate in and contribute to the ongoing work of the peer organization.
 
-   Without the combination of both the need and the requirements for a
-   formal liaison relationship, the IETF will collaborate with the peer
-   organization in an informal relationship (Section 2.2).
-
    There is no set process or form for establishing a formal liaison
    relationship; the IETF participants and the peer organization can
    initiate a conversation with the IAB, and after discussion may come
@@ -261,31 +263,6 @@ Table of Contents
    organizations will use the relationship appropriately, allowing
    sufficient time for the requests they make on the other organization
    to be processed.
-
-2.2.  Informal Relationships
-
-   Generally informal collaboration between the IETF and peer
-   organizations is preferred whenever direct working relationships
-   between the members of both organizations is possible.  Specifically,
-   there are no processes in the IETF that require a formal liaison
-   relationship as our work is conducted in open public meetings and on
-   mailing lists where anyone can contribute.  Inputs from all
-   participants in the IETF, regardless of the type of relationship, are
-   given equal weight and standing.  When a similar structure exists in
-   the peer organization and all participants have access to open
-   working documents and communication mechanisms, there may not be a
-   need for a more formal structure.
-
-   There is no specific procedure for establishing an informal
-   relationship, as one exists by defacto when members of both
-   organizations simply cross-collaborate and participate in the groups
-   with overlapping interest.
-
-   Note that formal communications in the form of liaison statements, if
-   needed, can be used without establishing a formal liaison
-   relationship (see Section 3).  In this case, since a formal liaison
-   manager does not exist, the IAB itself will be responsible for
-   ensuring liaison statements are handled appropriately.
 
 3.  Liaison Communications
 
@@ -449,6 +426,13 @@ Table of Contents
               Progress, Internet-Draft, draft-iab-rfc4053bis-00, 17
               October 2025, <https://datatracker.ietf.org/doc/html/
               draft-iab-rfc4053bis-00>.
+
+   [I-D.kuehlewind-iab-rfc4053bis]
+              Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
+              Handling Liaison Statements to and from the IETF", Work in
+              Progress, Internet-Draft, draft-kuehlewind-iab-rfc4053bis-
+              01, 13 June 2025, <https://datatracker.ietf.org/doc/html/
+              draft-kuehlewind-iab-rfc4053bis-01>.
 
    [RFC3113]  Rosenbrock, K., Sanmugam, R., Bradner, S., and J. Klensin,
               "3GPP-IETF Standardization Collaboration", RFC 3113,
