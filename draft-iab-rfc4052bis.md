@@ -237,7 +237,7 @@ to the informal channel or in its own place with or without liaison
 relationship. In the case of formal communications, the established
 procedures of many organizations use a form known as a "liaison statement" (LS).
 Procedures for sending, managing, and responding to liaison statements are
-discussed in {{?I-D.kuehlewind-iab-rfc4053bis}}.
+discussed in {{?I-D.iab-rfc4053bis}}.
 
 Note that communications between organizations have no impact on
 any other IETF contributions, and should follow the same IETF process and
