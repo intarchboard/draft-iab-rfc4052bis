@@ -110,8 +110,7 @@ specifications are developed in parallel, the IAB might consider
 additional activities such as meetings or calls with the relevant
 people (e.g. chairs, ADs, and authors). Such activities could be
 one-time events or organised in a standing groups. The liaison manager
-should be involved in these activities and may even help to lead the
-organisation of those activities.
+should be involved in the organization and the running of these activities.
 
 Since the IAB is ultimately responsible for liaison relationships,
 anyone who has an issue with a relationship (whether an IETF
