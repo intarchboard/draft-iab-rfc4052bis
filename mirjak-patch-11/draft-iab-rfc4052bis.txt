@@ -280,10 +280,10 @@ Table of Contents
    Procedures for sending, managing, and responding to liaison
    statements are discussed in [I-D.iab-rfc4053bis].
 
-   Note that communications between organizations have no impact to any
-   other IETF contributions and should follow the same IETF process and
-   polices and should be open to everyone for inputs and contributions,
-   e.g., input discussion in specific working group in the IETF.
+   Note that communications between organizations have no impact on any
+   other IETF contributions, and should follow the same IETF process and
+   policies and should be open to everyone for inputs and contributions,
+   e.g., input discussion in a specific working group in the IETF.
 
 4.  Liaison Manager Responsibilities
 
