@@ -303,6 +303,6 @@ management of {{?RFC4053}}, and the authors of {{?RFC4053}} contributed
 significantly to it as well.
 
 This version of the document is based on {{?RFC4052}} and brings it in line with currently followed
-procedures. Further updates to all parts of the text are expected in the process of gathering
-community feedback for this document.
+procedures. The authors would like to thank Leslie Daigle, Roman Danyliw, Joel Halpern, Wes Hardaker, 
+and Warren Kumari for their valuable comments and suggestions to improve this document.
 
