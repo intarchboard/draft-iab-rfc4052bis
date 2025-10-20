@@ -105,7 +105,7 @@ for a formal relationship is mostly driven by other organizations rather than by
 the IETF.
 
 If more tight coordination is needed, e.g. in cases where there are
-a larger number of document dependencies, especially when
+a large number of document dependencies, especially when
 specifications are developed in parallel, the IAB might consider
 additional activities such as meetings or calls with the relevant
 people (e.g. chairs, ADs, and authors). Such activities could be
