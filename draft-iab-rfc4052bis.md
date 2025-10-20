@@ -300,6 +300,9 @@ This document has no IANA actions.
 
 
 --- back
+# Appendix A: Document Process
+
+RFC 4052 was published as a BCP. Since the IAB cannot publish BCPs, this document will follow a two step process. The current draft is marked as Informational until the IAB completes its process and formally approves it. After IAB approval, a member of the IESG needs to sponsor the document, and the document will enter the IETF process to update its intended status to BCP. This appendix should be removed at the time of publication.
 
 # Acknowledgments
 {:numbered="false"}
