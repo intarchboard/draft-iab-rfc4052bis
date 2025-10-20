@@ -28,12 +28,6 @@ About This Document
    Status information for this document may be found at
    https://datatracker.ietf.org/doc/draft-iab-rfc4052bis/.
 
-   Discussion of this document takes place on the Internet Architecture
-   Board Internet Engineering Task Force mailing list
-   (mailto:iab@iab.org), which is archived at
-   https://mailarchive.ietf.org/arch/browse/iab/.  Subscribe at
-   https://www.ietf.org/mailman/listinfo/iab/.
-
    Source for this draft and an issue tracker can be found at
    https://github.com/intarchboard/draft-iab-rfc4052bis.
 
