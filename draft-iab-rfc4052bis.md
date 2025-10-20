@@ -10,8 +10,6 @@ date:
 v: 3
 venue:
   group: "Internet Architecture Board"
-  type: "Internet Engineering Task Force"
-  mail: "iab@iab.org"
   github: "intarchboard/draft-iab-rfc4052bis"
 
 author:
