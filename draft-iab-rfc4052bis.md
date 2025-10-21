@@ -135,7 +135,7 @@ This version of the document contains the following updates:
 6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
 8. Update of description of aspects for establishing a formal relationship and clarifications
    about informal collaborations
-10. Merged liaison manager reponsibilties sections 
+10. Merged liaison manager responsibilities sections
 10. Removal of one level in the dcoument structure
 
 # Establishing Formal Liaison Relationships {#relationship}
