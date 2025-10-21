@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-10-19T01:08:40.402709+00:00",
+  "timestamp": "2025-10-21T01:02:55.553428+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -340,7 +340,7 @@
       "id": "I_kwDOMUjy5c6pxZQs",
       "title": "Do we need to describe liaison relationships for IRTF",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/13",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "sureshkrishnan",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [
@@ -351,8 +351,8 @@
       ],
       "body": "There are liaisons that are received that might be relevant for research groups. Currently this is informally processed through the IRTF chair who is part of the IAB. Do we need to formalize this somehow in this document.",
       "createdAt": "2025-02-12T13:51:06Z",
-      "updatedAt": "2025-05-27T15:46:14Z",
-      "closedAt": null,
+      "updatedAt": "2025-10-20T14:46:23Z",
+      "closedAt": "2025-10-20T14:46:22Z",
       "comments": [
         {
           "author": "billwuqin",
@@ -360,6 +360,13 @@
           "body": "I feel describing liaison relationship for IRTF is over engineering since the focus of RFC4052bis is IETF liaison relationship management. Since we have already had several exceptional cases to receive liaison statement from ITU-T, here is proposed text\nto section 2.3:\n\"\nIn case of liaison statements sent to IAB from other SDO for research topic consultation, IAB can choose to forward them to IRTF\nresearch group. IRTF chair as a member of IAB can work with IAB, specific IRTF research group chair to decide whether the response liaison statement is needed.  Procedures for responding to liaison statements is similar to one discussed in [I.D-iab-rfc4053bis]. Note that IRTF as closely related organization of IETF, should not send liaison statement proactively.\n\"",
           "createdAt": "2025-05-04T02:56:14Z",
           "updatedAt": "2025-05-04T02:56:14Z"
+        },
+        {
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Agree with Mirja and Qin that this is more relevant to RFC4053bis and nothing further is needed here.",
+          "createdAt": "2025-10-20T14:46:22Z",
+          "updatedAt": "2025-10-20T14:46:22Z"
         }
       ]
     },
@@ -412,15 +419,15 @@
       "id": "I_kwDOMUjy5c6y-YnD",
       "title": "Should we mention IAB support groups in this doc?",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/31",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [],
       "labels": [],
       "body": "An the IAB webpage on liaison coordination we also mentions IAB support groups:\n\n\"For a few liaison relationships with organizations where there are a larger number of document dependencies, especially when specifications are developed in parallel, the IAB in addition maintains Coordination Support Groups: currently there are groups for [IEEE](https://datatracker.ietf.org/iabasg/ietfieee/about/), [3GPP](https://datatracker.ietf.org/iabasg/ietf3gpp/about/), and [W3C](https://datatracker.ietf.org/group/ietfw3c/about/).\"\n\nThese groups and the liaison manager role are from my point of view actually independent, meaning that I think we could have a group even without having a formal liaison relationship with a liaison manager and even if we have a liaison manager that doesn't automatically mean that that person also needs to lead the group. Of course usually that setup makes sense but I don't think we have any such formal requirements. Maybe it's worth to write this down somewhere? However, maybe this is not the right doc or maybe we shouldn't write this in an RFC at all because IAB support groups are not a concept that is defined by any RFC?",
       "createdAt": "2025-04-17T14:38:25Z",
-      "updatedAt": "2025-05-04T07:08:39Z",
-      "closedAt": null,
+      "updatedAt": "2025-10-20T15:42:33Z",
+      "closedAt": "2025-10-20T15:42:33Z",
       "comments": [
         {
           "author": "billwuqin",
@@ -428,6 +435,13 @@
           "body": "Section 2.1 said:\n\"\nThe peer organization often has different organizational structure and procedures than the IETF, which will require some flexibility on the part of both organizations to accommodate.\n\"\nwhat else do we need?",
           "createdAt": "2025-05-04T07:08:37Z",
           "updatedAt": "2025-05-04T07:08:37Z"
+        },
+        {
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Fixed by #51 ",
+          "createdAt": "2025-10-20T15:42:33Z",
+          "updatedAt": "2025-10-20T15:42:33Z"
         }
       ]
     },
@@ -476,15 +490,15 @@
       "id": "I_kwDOMUjy5c6-XhLe",
       "title": "Link to subscribe to IAB list in the \"About This Document\" section",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/38",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "cindymorgan",
       "authorAssociation": "NONE",
       "assignees": [],
       "labels": [],
       "body": "The \"About This Document\" section contains:\n\n>    Discussion of this document takes place on the Internet Architecture\n>    Board Internet Engineering Task Force mailing list\n>    (mailto:iab@iab.org), which is archived at\n>    https://mailarchive.ietf.org/arch/browse/iab/.  Subscribe at\n>    https://www.ietf.org/mailman/listinfo/iab/.\n\nBut the IAB list has a closed membership and no archive. Should this point to architecture-discuss instead?",
       "createdAt": "2025-07-01T21:13:37Z",
-      "updatedAt": "2025-07-01T21:15:00Z",
-      "closedAt": null,
+      "updatedAt": "2025-10-20T15:41:10Z",
+      "closedAt": "2025-10-20T15:41:10Z",
       "comments": []
     },
     {
@@ -508,15 +522,15 @@
       "id": "I_kwDOMUjy5c7BI4fC",
       "title": "Clarify intended process and document status in appendix",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/40",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "dhruvdhody",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "It might be helpful to explicitly describe the intended process for this document within the I-D itself, perhaps in an appendix.\n\nSpecifically, we should explain that:\n\t\u2022\tRFC 4052/4053 are BCPs.\n\t\u2022\tThe current draft is marked as Informational until the IAB completes its process and formally approves it.\n\t\u2022\tAfter IAB approval, an AD will take over, and the document will enter the IETF process to update its intended status to BCP.\n\t\u2022\tAt the time of publication, this explanatory section can be removed.\n\nThis clarification would make the intended path clearer to readers and reduce possible confusion during review.",
       "createdAt": "2025-07-17T17:16:15Z",
-      "updatedAt": "2025-10-15T16:27:17Z",
-      "closedAt": null,
+      "updatedAt": "2025-10-20T14:44:38Z",
+      "closedAt": "2025-10-20T14:44:38Z",
       "comments": []
     },
     {
@@ -581,7 +595,7 @@
       "labels": [],
       "body": "The document now has a sub section on informal relationships. We need to discuss as the IAB if this is appropriate for a document that focuses on formal relationships.\n\nPro:\nInformal provides an immediate contrast to formal relationships and allows people to consider which one they prefer\n\nCon:\nFormalizes the concept of \"Informal relationships\".",
       "createdAt": "2025-10-15T14:25:32Z",
-      "updatedAt": "2025-10-16T17:11:04Z",
+      "updatedAt": "2025-10-20T19:07:54Z",
       "closedAt": null,
       "comments": [
         {
@@ -590,6 +604,13 @@
           "body": "The document is scoped to explain the process of establishing a formal relationship. A discussion of information relationship or instruction of a \"formal\" concept for information relationship is not in scope for this document. It is needed and important to highlight when a formal relationship is not needed or in other words make the conditions more clear when establishing a formal relationship is value (compared to when it only created overhead without any additional benefits). But introducing a concept of an informal relationship goes beyond that.\n\nI prosed PR #48 to undo this structural change in the previous change but leave some of the text re-orgs.",
           "createdAt": "2025-10-16T17:11:04Z",
           "updatedAt": "2025-10-16T17:11:04Z"
+        },
+        {
+          "author": "hardaker",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "The point behind my proposed addition, that included a definition for \"informal relationship\" was to help the reader better understand the entire situation.  Arguably the biggest struggle we had (when I was involved) amounted to a misunderstanding of the relationship choices that were available, and RFC4052 really didn't spell it out well and blurred the lines between formal and informal.  Specifically:\n\n1. the document frequently used the phrase \"informal relationship\" but failed to actually define it.  Dropping an explicit reference to it means likely dropping the whole point of my rewrite: to add clarity and separation to the notions we (the IAB) really want to convey.\n2. the document flipped back and forth when talking about formal and informal relationships and formal relationships.  It would frequently talk about characteristics of an informal relationship in the middle of discussing more formal structures (see 2.2 and 2.4 of the original RFC for reference examples).\n3. In the end, without explicitly stating what an informal relationship consisted of (cross-collaboration, still able to have LSes sent, etc) we had to verbally explain it all the time rather than being able to simply state \"go see the differences between sections 2.x and 2.y.\n\nIn the end, if discussing informal relationships is beyond the scope of the document, then shouldn't all the text describing any aspect of an informal relationship be simply dropped?  Or more concretely, the word \"informal\" shouldn't even be in the document because you're only describing formal relationships (which will certainly make the document shorter!).  But, is this really helping the reader? \n\nIs the goal of the bis document to simply clarify what a formal relationship is, or is it to better explain to external organizations how to best interact with the IETF?  To me, it should really be clearly defining the interaction mechanisms available.",
+          "createdAt": "2025-10-20T19:07:54Z",
+          "updatedAt": "2025-10-20T19:07:54Z"
         }
       ]
     },
@@ -598,15 +619,15 @@
       "id": "I_kwDOMUjy5c7RtXwU",
       "title": "Add acknowledgments",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/47",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "sureshkrishnan",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "Wes\nLeslie\nWarren\nDhruv\n",
       "createdAt": "2025-10-15T14:29:57Z",
-      "updatedAt": "2025-10-15T14:29:57Z",
-      "closedAt": null,
+      "updatedAt": "2025-10-20T14:01:11Z",
+      "closedAt": "2025-10-20T14:01:11Z",
       "comments": []
     }
   ],
@@ -1528,25 +1549,33 @@
       "id": "PR_kwDOMUjy5c6U18uy",
       "title": "Clarify when we need IAB support groups",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/37",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "billwuqin",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2025-05-04T07:05:58Z",
-      "updatedAt": "2025-05-26T15:15:23Z",
+      "updatedAt": "2025-10-20T00:51:27Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "26cdd96ff838e4188a1330685c8a92f9f2527d94",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "billwuqin-patch-9",
       "headRefOid": "ed445a850b9fc0a13f84735ef92212a79b87926a",
-      "closedAt": null,
+      "closedAt": "2025-10-20T00:51:27Z",
       "mergedAt": null,
       "mergedBy": null,
       "mergeCommit": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "I believe this PR can be closed since #51 also addresses similar issue.",
+          "createdAt": "2025-10-20T00:51:16Z",
+          "updatedAt": "2025-10-20T00:51:16Z"
+        }
+      ],
       "reviews": [
         {
           "id": "PRR_kwDOMUjy5c6q_Yng",
@@ -1562,9 +1591,9 @@
           "comments": [
             {
               "originalPosition": 6,
-              "body": "\"Coordination Support Groups\" are not officially defined anywhere in an RFC and therefore don't have to exist in future, there is would be good to formulate this more generally: \r\n```suggestion\r\nIf more tight coordination is needed, e.g. in cases where there are\r\na larger number of document dependencies, especially when\r\nspecifications are developed in parallel, the IAB might consider\r\nadditional activities such as meetings or call with the relevant\r\npeople (e.g. chairs, ADs, and authors). Such activities could be\r\none-time events or organised in a standing groups. The liaison manager\r\nshould be involved in these activities and may even help to lead the\r\norganisation of those activities.\r\n```",
+              "body": "\"Coordination Support Groups\" are not officially defined anywhere in an RFC and therefore don't have to exist in future, there is would be good to formulate this more generally: \r\n```suggestion\r\nIf more tight coordination is needed, e.g. in cases where there are\r\na larger number of document dependencies, especially when\r\nspecifications are developed in parallel, the IAB might consider\r\nadditional activities such as meetings or calls with the relevant\r\npeople (e.g. chairs, ADs, and authors). Such activities could be\r\none-time events or organised in a standing groups. The liaison manager\r\nshould be involved in these activities and may even help to lead the\r\norganisation of those activities.\r\n```",
               "createdAt": "2025-05-26T15:13:29Z",
-              "updatedAt": "2025-05-26T15:13:29Z"
+              "updatedAt": "2025-10-17T13:58:37Z"
             }
           ]
         },
@@ -1915,25 +1944,35 @@
       "id": "PR_kwDOMUjy5c6uIdtz",
       "title": "Remove introduction of \"formal relationship\"",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/48",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2025-10-16T17:06:37Z",
-      "updatedAt": "2025-10-17T14:19:43Z",
+      "updatedAt": "2025-10-20T17:02:00Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
-      "baseRefOid": "e137aed15d2b1d24cb90117bf92f47a6e350275c",
+      "baseRefOid": "5f27dee404871986a12d255638f1ebe3b415eaec",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "mirjak-patch-11",
-      "headRefOid": "fbc613f799dd0951bc015c05b79a3d30698db614",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
-      "comments": [],
+      "headRefOid": "9f40b9838b2a6c7666a9465e84c770de3bf5b25d",
+      "closedAt": "2025-10-20T16:59:24Z",
+      "mergedAt": "2025-10-20T16:59:24Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "70d79b7029fc3e517fde289089e6d117480614f6"
+      },
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "closes #46 ",
+          "createdAt": "2025-10-20T17:02:00Z",
+          "updatedAt": "2025-10-20T17:02:00Z"
+        }
+      ],
       "reviews": [
         {
           "id": "PRR_kwDOMUjy5c7HtbNJ",
@@ -1952,6 +1991,39 @@
               "body": "```suggestion\r\n# Establishing Formal Liaison Relationships {#relationship}\r\n```",
               "createdAt": "2025-10-17T14:14:32Z",
               "updatedAt": "2025-10-17T14:14:32Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7H9cjw",
+          "commit": {
+            "abbreviatedOid": "fbc613f"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "The proposed consolidation make sense to me. ",
+          "createdAt": "2025-10-20T00:48:20Z",
+          "updatedAt": "2025-10-20T00:48:20Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7IG4Ug",
+          "commit": {
+            "abbreviatedOid": "55055ea"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-10-20T16:58:47Z",
+          "updatedAt": "2025-10-20T16:58:47Z",
+          "comments": [
+            {
+              "originalPosition": 107,
+              "body": "```suggestion\r\nNote that communications between organizations have no impact on\r\nany other IETF contributions, and should follow the same IETF process and\r\npolicies and should be open to everyone for inputs and contributions, e.g.,\r\ninput discussion in a specific working group in the IETF.\r\n```",
+              "createdAt": "2025-10-20T16:58:47Z",
+              "updatedAt": "2025-10-20T16:58:48Z"
             }
           ]
         }
@@ -2053,21 +2125,21 @@
       "id": "PR_kwDOMUjy5c6uUZyi",
       "title": "text on additional activities and groups",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/51",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [],
       "labels": [],
       "body": "added to intro. Is this the right place?",
       "createdAt": "2025-10-17T14:00:17Z",
-      "updatedAt": "2025-10-17T14:01:08Z",
+      "updatedAt": "2025-10-20T14:38:38Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "e137aed15d2b1d24cb90117bf92f47a6e350275c",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "mirjak-patch-14",
-      "headRefOid": "e6e3c88478552207d3950d9d1ef68d19c7522e39",
-      "closedAt": null,
+      "headRefOid": "afe43beba651b7bbf5b9b48cb60626b1fbfbc733",
+      "closedAt": "2025-10-20T14:38:37Z",
       "mergedAt": null,
       "mergedBy": null,
       "mergeCommit": null,
@@ -2078,60 +2150,177 @@
           "body": "This is alternative text proposed instead of PR #37",
           "createdAt": "2025-10-17T14:01:08Z",
           "updatedAt": "2025-10-17T14:01:08Z"
+        },
+        {
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Applied PR with minor changes to the draft.",
+          "createdAt": "2025-10-20T14:38:37Z",
+          "updatedAt": "2025-10-20T14:38:37Z"
         }
       ],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7H9beA",
+          "commit": {
+            "abbreviatedOid": "e6e3c88"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "I have the same feeling whether this paragraph should be included in the introduction since it provide details. \r\nOverall, the proposed text looks good to me.",
+          "createdAt": "2025-10-20T00:41:55Z",
+          "updatedAt": "2025-10-20T00:41:55Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7H9cwh",
+          "commit": {
+            "abbreviatedOid": "e6e3c88"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "One more comment, how do understand \"standing groups\"? ",
+          "createdAt": "2025-10-20T00:49:34Z",
+          "updatedAt": "2025-10-20T00:49:34Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7IExH0",
+          "commit": {
+            "abbreviatedOid": "e6e3c88"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-10-20T14:26:10Z",
+          "updatedAt": "2025-10-20T14:26:11Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "```suggestion\r\na large number of document dependencies, especially when\r\n```",
+              "createdAt": "2025-10-20T14:26:10Z",
+              "updatedAt": "2025-10-20T14:26:11Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7IE1ax",
+          "commit": {
+            "abbreviatedOid": "e6e3c88"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-10-20T14:30:49Z",
+          "updatedAt": "2025-10-20T14:30:49Z",
+          "comments": [
+            {
+              "originalPosition": 11,
+              "body": "```suggestion\r\nshould be involved in the organization and the running of these activities.\r\n```",
+              "createdAt": "2025-10-20T14:30:49Z",
+              "updatedAt": "2025-10-20T14:30:49Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7IE2I-",
+          "commit": {
+            "abbreviatedOid": "e6e3c88"
+          },
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-20T14:31:33Z",
+          "updatedAt": "2025-10-20T14:31:33Z",
+          "comments": []
+        }
+      ]
     },
     {
       "number": 52,
       "id": "PR_kwDOMUjy5c6uUl-o",
       "title": "add sentence in security considerations section",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/52",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [],
       "labels": [],
       "body": "to make it sound less negative... but of course not an important change...",
       "createdAt": "2025-10-17T14:16:08Z",
-      "updatedAt": "2025-10-17T14:16:09Z",
+      "updatedAt": "2025-10-20T14:14:37Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "e137aed15d2b1d24cb90117bf92f47a6e350275c",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "mirjak-patch-15",
       "headRefOid": "2cb07d7b8dd0fe3e6a5062f9365c679aeefff7fa",
-      "closedAt": null,
+      "closedAt": "2025-10-20T14:14:36Z",
       "mergedAt": null,
       "mergedBy": null,
       "mergeCommit": null,
-      "comments": [],
-      "reviews": []
+      "comments": [
+        {
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Roman suggested \"The security of the Internet is enhanced by robust coordination between SDOs.\" and I think it covers this point well.",
+          "createdAt": "2025-10-20T14:14:36Z",
+          "updatedAt": "2025-10-20T14:14:36Z"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7H9adA",
+          "commit": {
+            "abbreviatedOid": "2cb07d7"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "Looks good to me.",
+          "createdAt": "2025-10-20T00:36:58Z",
+          "updatedAt": "2025-10-20T00:36:58Z",
+          "comments": []
+        }
+      ]
     },
     {
       "number": 53,
       "id": "PR_kwDOMUjy5c6uU2oV",
       "title": "Make the IAB charter text a real citation",
       "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/53",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "mirjak",
       "authorAssociation": "MEMBER",
       "assignees": [],
       "labels": [],
       "body": "Because it's copied one to one from RFC2850",
       "createdAt": "2025-10-17T14:40:15Z",
-      "updatedAt": "2025-10-18T14:18:09Z",
+      "updatedAt": "2025-10-20T14:20:22Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "e137aed15d2b1d24cb90117bf92f47a6e350275c",
       "headRepository": "intarchboard/draft-iab-rfc4052bis",
       "headRefName": "mirjak-patch-16",
       "headRefOid": "4d59038e14bb295da7ea616ea7625db035b6dede",
-      "closedAt": null,
+      "closedAt": "2025-10-20T14:20:22Z",
       "mergedAt": null,
       "mergedBy": null,
       "mergeCommit": null,
-      "comments": [],
+      "comments": [
+        {
+          "author": "sureshkrishnan",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Even though this looks like a clean diff, github seems to be unable to merge this in. I have made the same change to the file to change this into an actual citation.\r\n",
+          "createdAt": "2025-10-20T14:20:22Z",
+          "updatedAt": "2025-10-20T14:20:22Z"
+        }
+      ],
       "reviews": [
         {
           "id": "PRR_kwDOMUjy5c7H4_OX",
@@ -2144,6 +2333,19 @@
           "body": "",
           "createdAt": "2025-10-18T14:18:09Z",
           "updatedAt": "2025-10-18T14:18:09Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7H9b6l",
+          "commit": {
+            "abbreviatedOid": "4d59038"
+          },
+          "author": "billwuqin",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "APPROVED",
+          "body": "We got a long quoted text, but make citation clear make sense to me.",
+          "createdAt": "2025-10-20T00:44:36Z",
+          "updatedAt": "2025-10-20T00:44:36Z",
           "comments": []
         }
       ]
@@ -2189,6 +2391,88 @@
           "comments": []
         }
       ]
+    },
+    {
+      "number": 55,
+      "id": "PR_kwDOMUjy5c6upabx",
+      "title": "Add document process appendix for RFC 4052",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/55",
+      "state": "MERGED",
+      "author": "sureshkrishnan",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Fixes #40 ",
+      "createdAt": "2025-10-20T14:44:17Z",
+      "updatedAt": "2025-10-20T14:44:37Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "271f5425b740ea1b501cf0ffd5320e568a7509c2",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "sureshkrishnan-patch-4",
+      "headRefOid": "36230b81d2cce841fccd0bf49ae86a3367848974",
+      "closedAt": "2025-10-20T14:44:37Z",
+      "mergedAt": "2025-10-20T14:44:37Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "dacfd1f034c7895309e6accd982c1656c1b57bc2"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 56,
+      "id": "PR_kwDOMUjy5c6upjJU",
+      "title": "Update discussion venue to architecture-discuss",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/56",
+      "state": "CLOSED",
+      "author": "sureshkrishnan",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-10-20T14:53:53Z",
+      "updatedAt": "2025-10-20T15:37:39Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "dacfd1f034c7895309e6accd982c1656c1b57bc2",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "sureshkrishnan-patch-5",
+      "headRefOid": "5b8051e8f298852805ac402f50236742a2c5107a",
+      "closedAt": "2025-10-20T15:37:39Z",
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 57,
+      "id": "PR_kwDOMUjy5c6uqH_I",
+      "title": "Removing misleading mailing list info for discussion",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/57",
+      "state": "MERGED",
+      "author": "sureshkrishnan",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Fixes #38 ",
+      "createdAt": "2025-10-20T15:40:53Z",
+      "updatedAt": "2025-10-20T15:41:09Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "27e32fba18ad3b10d045af5148d8ef506030ef62",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "sureshkrishnan-patch-6",
+      "headRefOid": "5534b0e89d3820ef4dab344555d38a08f101aea7",
+      "closedAt": "2025-10-20T15:41:09Z",
+      "mergedAt": "2025-10-20T15:41:09Z",
+      "mergedBy": "sureshkrishnan",
+      "mergeCommit": {
+        "oid": "5f27dee404871986a12d255638f1ebe3b415eaec"
+      },
+      "comments": [],
+      "reviews": []
     }
   ]
 }
