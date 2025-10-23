@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-10-21T01:02:55.553428+00:00",
+  "timestamp": "2025-10-23T01:02:21.965910+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -595,7 +595,7 @@
       "labels": [],
       "body": "The document now has a sub section on informal relationships. We need to discuss as the IAB if this is appropriate for a document that focuses on formal relationships.\n\nPro:\nInformal provides an immediate contrast to formal relationships and allows people to consider which one they prefer\n\nCon:\nFormalizes the concept of \"Informal relationships\".",
       "createdAt": "2025-10-15T14:25:32Z",
-      "updatedAt": "2025-10-20T19:07:54Z",
+      "updatedAt": "2025-10-21T07:14:21Z",
       "closedAt": null,
       "comments": [
         {
@@ -611,6 +611,13 @@
           "body": "The point behind my proposed addition, that included a definition for \"informal relationship\" was to help the reader better understand the entire situation.  Arguably the biggest struggle we had (when I was involved) amounted to a misunderstanding of the relationship choices that were available, and RFC4052 really didn't spell it out well and blurred the lines between formal and informal.  Specifically:\n\n1. the document frequently used the phrase \"informal relationship\" but failed to actually define it.  Dropping an explicit reference to it means likely dropping the whole point of my rewrite: to add clarity and separation to the notions we (the IAB) really want to convey.\n2. the document flipped back and forth when talking about formal and informal relationships and formal relationships.  It would frequently talk about characteristics of an informal relationship in the middle of discussing more formal structures (see 2.2 and 2.4 of the original RFC for reference examples).\n3. In the end, without explicitly stating what an informal relationship consisted of (cross-collaboration, still able to have LSes sent, etc) we had to verbally explain it all the time rather than being able to simply state \"go see the differences between sections 2.x and 2.y.\n\nIn the end, if discussing informal relationships is beyond the scope of the document, then shouldn't all the text describing any aspect of an informal relationship be simply dropped?  Or more concretely, the word \"informal\" shouldn't even be in the document because you're only describing formal relationships (which will certainly make the document shorter!).  But, is this really helping the reader? \n\nIs the goal of the bis document to simply clarify what a formal relationship is, or is it to better explain to external organizations how to best interact with the IETF?  To me, it should really be clearly defining the interaction mechanisms available.",
           "createdAt": "2025-10-20T19:07:54Z",
           "updatedAt": "2025-10-20T19:07:54Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "To reply concretely to your point above:\n\n1) Actually the document never used the term \"informal relationship\". It used to only talk about \"informal channels\". I fully understand your point about clarify, however, introducing a new concept of \"informal relationships\" and standing it on the same footing as a \"informal relationship\" (which is what the scope of the document is) seems to me to actually not capture it correctly because this informal relationship is not an explicit thing. In PR #48 I changes the term in your edited text to \"formal collaboration\" instead (however, missed one case...)\n\n2) This is a very good point (and my fault of writing something down out of my head without thinking very carefully about the structure) and I think your edits improve the clarity here. If you look at PR #48, it kept the text edits you did to separate things out but just not moves it into an own section (with an own title/term). Did you look at #48?\n\n3) Again I don't think this is a question of picking relationship type A or B and therefore for me it's also does not make sense to explain it terms of \"differences\". They are not the same things on the same level. You have the choice to either establish a formal relationship with us if there is a need and this document explains the formal/process requirements around it. Or you simply do nothing special and just work with the people you like to work with. While I understand that using the term \"informal relationship\" might be easier to understand for some people who are used to different liaison systems in different orgs, I don't think it actually reflects well how we work in the IETF. Especially in an RFC we should focus on the things that needs a formal specification and not constraint other things unnecessarily.\n\nAlso one more point, I think the purpose of this document is to specify the requirements/procedures for establishing formal relationships for us as a community. While of course people from other organisations might find and read this document, the intended use and audience is for the IETF community. And in my experience using RFC to communicate with other communities is not the best approach anyway. If we want to address the problem further, I think we need to further improve our documentation and communication in other places (like the webpage).\n\nActually one more point. RFC4052 doesn't even use the term \"formal relationship\". It only talks about \"liaison relationships\". We added the word formal everywhere in 4052bis to underline the point that you don't need to automatically take the formal steps that the documents describes to establish a \"liaison relationship\" in order to work with us. Maybe that was more confusing than helpful? Or what do you think?\n\n",
+          "createdAt": "2025-10-21T07:14:21Z",
+          "updatedAt": "2025-10-21T07:14:21Z"
         }
       ]
     },
@@ -2404,7 +2411,7 @@
       "labels": [],
       "body": "Fixes #40 ",
       "createdAt": "2025-10-20T14:44:17Z",
-      "updatedAt": "2025-10-20T14:44:37Z",
+      "updatedAt": "2025-10-21T03:53:41Z",
       "baseRepository": "intarchboard/draft-iab-rfc4052bis",
       "baseRefName": "main",
       "baseRefOid": "271f5425b740ea1b501cf0ffd5320e568a7509c2",
@@ -2418,7 +2425,21 @@
         "oid": "dacfd1f034c7895309e6accd982c1656c1b57bc2"
       },
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7IMWG5",
+          "commit": {
+            "abbreviatedOid": "36230b8"
+          },
+          "author": "sva1971",
+          "authorAssociation": "NONE",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-21T03:53:41Z",
+          "updatedAt": "2025-10-21T03:53:41Z",
+          "comments": []
+        }
+      ]
     },
     {
       "number": 56,
@@ -2473,6 +2494,100 @@
       },
       "comments": [],
       "reviews": []
+    },
+    {
+      "number": 58,
+      "id": "PR_kwDOMUjy5c6uxydK",
+      "title": "Forgot to update the changes section in the last PR",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/58",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-10-21T07:24:55Z",
+      "updatedAt": "2025-10-21T08:44:31Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "70d79b7029fc3e517fde289089e6d117480614f6",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-18",
+      "headRefOid": "3ff88b6c9f1cb8ce70474ff23fb7b77e7c071172",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7IPWDW",
+          "commit": {
+            "abbreviatedOid": "83afdfe"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-10-21T08:44:10Z",
+          "updatedAt": "2025-10-21T08:44:11Z",
+          "comments": [
+            {
+              "originalPosition": 12,
+              "body": "```suggestion\r\n10. Merged liaison manager responsibilities sections\r\n```",
+              "createdAt": "2025-10-21T08:44:10Z",
+              "updatedAt": "2025-10-21T08:44:23Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "id": "PR_kwDOMUjy5c6uyxU0",
+      "title": "formatting bullet list",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/59",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-10-21T08:47:46Z",
+      "updatedAt": "2025-10-21T08:51:29Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "70d79b7029fc3e517fde289089e6d117480614f6",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-19",
+      "headRefOid": "df5e51260a97b38824d5128632810f4b824a8fa7",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7IPeja",
+          "commit": {
+            "abbreviatedOid": "013b0b2"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-10-21T08:51:20Z",
+          "updatedAt": "2025-10-21T08:51:21Z",
+          "comments": [
+            {
+              "originalPosition": 8,
+              "body": "```suggestion\r\n\r\n```",
+              "createdAt": "2025-10-21T08:51:21Z",
+              "updatedAt": "2025-10-21T08:51:21Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
