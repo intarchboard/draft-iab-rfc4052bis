@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-10-23T01:02:21.965910+00:00",
+  "timestamp": "2025-10-26T01:06:55.329703+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -595,7 +595,7 @@
       "labels": [],
       "body": "The document now has a sub section on informal relationships. We need to discuss as the IAB if this is appropriate for a document that focuses on formal relationships.\n\nPro:\nInformal provides an immediate contrast to formal relationships and allows people to consider which one they prefer\n\nCon:\nFormalizes the concept of \"Informal relationships\".",
       "createdAt": "2025-10-15T14:25:32Z",
-      "updatedAt": "2025-10-21T07:14:21Z",
+      "updatedAt": "2025-10-24T18:06:32Z",
       "closedAt": null,
       "comments": [
         {
@@ -618,6 +618,20 @@
           "body": "To reply concretely to your point above:\n\n1) Actually the document never used the term \"informal relationship\". It used to only talk about \"informal channels\". I fully understand your point about clarify, however, introducing a new concept of \"informal relationships\" and standing it on the same footing as a \"informal relationship\" (which is what the scope of the document is) seems to me to actually not capture it correctly because this informal relationship is not an explicit thing. In PR #48 I changes the term in your edited text to \"formal collaboration\" instead (however, missed one case...)\n\n2) This is a very good point (and my fault of writing something down out of my head without thinking very carefully about the structure) and I think your edits improve the clarity here. If you look at PR #48, it kept the text edits you did to separate things out but just not moves it into an own section (with an own title/term). Did you look at #48?\n\n3) Again I don't think this is a question of picking relationship type A or B and therefore for me it's also does not make sense to explain it terms of \"differences\". They are not the same things on the same level. You have the choice to either establish a formal relationship with us if there is a need and this document explains the formal/process requirements around it. Or you simply do nothing special and just work with the people you like to work with. While I understand that using the term \"informal relationship\" might be easier to understand for some people who are used to different liaison systems in different orgs, I don't think it actually reflects well how we work in the IETF. Especially in an RFC we should focus on the things that needs a formal specification and not constraint other things unnecessarily.\n\nAlso one more point, I think the purpose of this document is to specify the requirements/procedures for establishing formal relationships for us as a community. While of course people from other organisations might find and read this document, the intended use and audience is for the IETF community. And in my experience using RFC to communicate with other communities is not the best approach anyway. If we want to address the problem further, I think we need to further improve our documentation and communication in other places (like the webpage).\n\nActually one more point. RFC4052 doesn't even use the term \"formal relationship\". It only talks about \"liaison relationships\". We added the word formal everywhere in 4052bis to underline the point that you don't need to automatically take the formal steps that the documents describes to establish a \"liaison relationship\" in order to work with us. Maybe that was more confusing than helpful? Or what do you think?\n\n",
           "createdAt": "2025-10-21T07:14:21Z",
           "updatedAt": "2025-10-21T07:14:21Z"
+        },
+        {
+          "author": "hardaker",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "Yes, I did see the newer PR you had created (and you later merged) but I disagree that it's an improvement.  In the end, I'm no longer on the IAB and it's the IAB's responsibility to decide how they want to represent the relationships they have with the rest of the SDO ecosystem.\n\nTo me, the document should adequately describe all the ways that the IETF works with external organizations and the text still indicates that there is both a \"formal\" and an \"informal\" form of working relationship (the word \"informal\" occurs 9 times, discounting those in the change-list).  I would make the document be educational in the best ways for all entities to engage with the IETF.  I disagree that  \"the intended use and audience is for the IETF community\" internal use, since I know we've pointed people at that have come to the IETF to learn how to better engage with us (and the discussions that have occurred in the hallways and in the LC lunch hours).  I don't think any RFC should really only be for internal use -- we write them for the world at large to read and understand, including the ones that describe our internal processes.\n\nIn the end, you absolutely can try to craft the document so \"the purpose of this document is to specify the requirements/procedures for establishing formal relationships for us as a community\" and only describe the formal relationship, but to me that does a disservice to the reader that needs a more complete education about our methods for working with and engage with other SDOs.  Whether \"formal\" and \"informal\" are good terms or not certainly is a valid question, but to me the bigger question is how fully the document is going to describe the situation.   If it is only to \"specify the requirements/procedures for establishing formal relationship\" then there is probably a lot of text you can remove.  But, again, I don't see that as helpful.",
+          "createdAt": "2025-10-24T10:36:20Z",
+          "updatedAt": "2025-10-24T10:36:20Z"
+        },
+        {
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "body": "Just one clarification on my PR. Suresh merged your (Wes') PR which was intended to be editorial, but introducing the concept of an informal relationship as your PR did, is to me more than just editorial. My PR intended to keep your editorial improvements but un-do the conceptional and scope change. This issue is there to continue the discussion and when we come to any agreement, we can work on a new PR.  But changing this of part of an editorial pass, didn't seem appropriate that's why we merged my PR.\n\nIf you think it would be useful to have PR alongside this discussion, feel free to create a new PR with (just) this change.",
+          "createdAt": "2025-10-24T18:06:32Z",
+          "updatedAt": "2025-10-24T18:06:32Z"
         }
       ]
     },
