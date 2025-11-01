@@ -255,13 +255,13 @@ providing further context. For such additional communication, liaison managers
 may use any applicable businesslike approach, from
 private to public communications, and bring in other parties as needed.
 However, the mandate for IETF liaison managers is strictly limited to
-conveying IETF consensus to the liaised organization. 
+conveying IETF consensus to the liaised organization.
 The liaison manager speaks on behalf of the IETF on
 the subject matter of the liaison, but only after making sure that
 the IETF consensus is understood. Specifically,
 if these communications aim to "represent the IETF",
 they must have consensus, e.g. by being based on an RFC or some other formal statement
-by a group within the IETF. 
+by a group within the IETF.
 
 IETF liaison managers should also communicate and coordinate with
 other liaison managers where concerned technical activities overlap.
