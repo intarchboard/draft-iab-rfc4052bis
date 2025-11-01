@@ -246,12 +246,22 @@ This often includes:
   material information that is intended to be shared by the peer organization.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison
-statements. In certain situations, the liaison manager may carry additional messages for
-providing further context. However, if these communications aim to "represent the IETF",
-they must have consensus, e.g. by being based on an RFC or some other formal statement
-by a group within the IETF. For such additional communication, liaison managers
+statements. The liaison manager must not send liaison statements on their own initiative to a
+liaised organization on behalf of IETF, or any of its areas and
+working groups.
+
+In certain situations, the liaison manager may carry additional messages for
+providing further context. For such additional communication, liaison managers
 may use any applicable businesslike approach, from
 private to public communications, and bring in other parties as needed.
+However, the mandate for IETF liaison managers is strictly limited to
+conveying IETF consensus to the liaised organization. 
+The liaison manager speaks on behalf of the IETF on
+the subject matter of the liaison, but only after making sure that
+the IETF consensus is understood. Specifically,
+if these communications aim to "represent the IETF",
+they must have consensus, e.g. by being based on an RFC or some other formal statement
+by a group within the IETF. 
 
 IETF liaison managers should also communicate and coordinate with
 other liaison managers where concerned technical activities overlap.
@@ -260,16 +270,6 @@ Liaison managers also provide updates to the IAB on technical matters, especiall
 if concerns regarding technical overlap or incorrectness are detected. However,
 given that most organizations are quite large, it is not expected that the liaison
 manager needs to have a complete overview of everything that is going on there.
-
-## Speaking for the IETF
-
-The mandate for IETF liaison managers is strictly limited to
-conveying IETF consensus to the liaised organization.  The liaison
-manager must not send liaison statements on their own initiative to a
-liaised organization on behalf of IETF, or any of its areas and
-working groups. The liaison manager speaks on behalf of the IETF on
-the subject matter of the liaison, but only after making sure that
-the IETF consensus is understood.
 
 # Security Considerations
 
