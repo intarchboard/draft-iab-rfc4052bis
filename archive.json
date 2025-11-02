@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-10-26T01:06:55.329703+00:00",
+  "timestamp": "2025-11-02T01:07:55.376129+00:00",
   "repo": "intarchboard/draft-iab-rfc4052bis",
   "labels": [
     {
@@ -649,6 +649,54 @@
       "createdAt": "2025-10-15T14:29:57Z",
       "updatedAt": "2025-10-20T14:01:11Z",
       "closedAt": "2025-10-20T14:01:11Z",
+      "comments": []
+    },
+    {
+      "number": 61,
+      "id": "I_kwDOMUjy5c7VRXJH",
+      "title": "Do we need/want subsections?",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/61",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "Currently we only have one subsection (\"Speaking for the IETF\"). PR #60 removes this subsection (and also subsequently also merges text together that belongs together). However, we could also decide to have/keep subsection, e.g. if the makes it easier to find the right paragraph, but then we should also re-consider if the other section should maybe also have subsection. \n\nI proposed PR #60 because it was the most straightforward change but also because I think the section and the whole document is short enough that we don't necessarily need subsections.",
+      "createdAt": "2025-11-01T15:06:03Z",
+      "updatedAt": "2025-11-01T15:06:03Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 62,
+      "id": "I_kwDOMUjy5c7VRaI0",
+      "title": "Scope of the document",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/62",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "4052 describes the process to manage and handle liaison relationships. This kind of relationship, that the doc is scope to, is focused on those relationships where the IAB appoints a liaison manager. In the bis document we add the term \"formal\" in most places to make it more clear that this process that is described has this more formal step where the IAB decides to appoint a manager. (however, if adding the term formal creates more confusion that clarity, we could also reconsider it; but I still feel it helps.)\n\nI personally think the scope of the bis document should stay focused on this (formal) part of the process. Any more informal collaboration should also be well described somewhere to make it easier for people to understand the IETF approach, but an RFC should be focused on what needs to specified about any formal procedures and not go beyond that when it is not needed. For me that is a lesson learnt from many process RFCs to really focus in the formal parts that need tight specifications and not more.\n\nIf we would want to say about our general approach to liaison management or collaboration more generally, maybe that could be another informal RFC or, I think, having clear documentation on the website is even better because I would assume that's where people will look first. But I don't think we need to tie these consideration in the IETF-wide consensus document. In liaison management there is a need for some flexibility as every organization works differently and therefore I strongly argue to limit the BCP to guidelines for the IAB when to appoint a manager and (internal) instructions to liaison managers.",
+      "createdAt": "2025-11-01T15:19:19Z",
+      "updatedAt": "2025-11-01T15:19:19Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 65,
+      "id": "I_kwDOMUjy5c7VRgLR",
+      "title": "Should we also merge section on \"liaison communication\" into other sections?",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/issues/65",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "This section talks about the use of informal and formal communications and that any such communication as no special standing. The first things is covered in section 2 and 4 already, and second is noted in the intro already. Maybe we don't need a separate section for this?",
+      "createdAt": "2025-11-01T15:48:06Z",
+      "updatedAt": "2025-11-01T15:48:06Z",
+      "closedAt": null,
       "comments": []
     }
   ],
@@ -2602,6 +2650,125 @@
           ]
         }
       ]
+    },
+    {
+      "number": 60,
+      "id": "PR_kwDOMUjy5c6w_hLw",
+      "title": "Merge \"Speaking for the IETF\" in to paragraph further up",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/60",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "These two paragraph were both talking about speaking for the IETF or representing the IETF. As we don't have any other subsection anymore anywhere, I removed the subsection heading and merged the text into the existing paragraph a bit further up.",
+      "createdAt": "2025-11-01T15:03:19Z",
+      "updatedAt": "2025-11-01T15:38:51Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "70d79b7029fc3e517fde289089e6d117480614f6",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-20",
+      "headRefOid": "f8c57ca9037d62dfdb90610115821d31d94c2169",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOMUjy5c7LG3st",
+          "commit": {
+            "abbreviatedOid": "756bb1a"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-11-01T15:38:25Z",
+          "updatedAt": "2025-11-01T15:38:26Z",
+          "comments": [
+            {
+              "originalPosition": 17,
+              "body": "```suggestion\r\nconveying IETF consensus to the liaised organization.\r\n```",
+              "createdAt": "2025-11-01T15:38:25Z",
+              "updatedAt": "2025-11-01T15:38:26Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOMUjy5c7LG3tZ",
+          "commit": {
+            "abbreviatedOid": "756bb1a"
+          },
+          "author": "mirjak",
+          "authorAssociation": "MEMBER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2025-11-01T15:38:33Z",
+          "updatedAt": "2025-11-01T15:38:34Z",
+          "comments": [
+            {
+              "originalPosition": 23,
+              "body": "```suggestion\r\nby a group within the IETF.\r\n```",
+              "createdAt": "2025-11-01T15:38:34Z",
+              "updatedAt": "2025-11-01T15:38:34Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "id": "PR_kwDOMUjy5c6w_k-4",
+      "title": "missed update of \"changes\" section",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/63",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-11-01T15:22:44Z",
+      "updatedAt": "2025-11-01T15:22:44Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "70d79b7029fc3e517fde289089e6d117480614f6",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-21",
+      "headRefOid": "69a5d63000b63e1a59bb7111a01945a626b9d277",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 64,
+      "id": "PR_kwDOMUjy5c6w_l70",
+      "title": "unify wording on formal liaison relationship",
+      "url": "https://github.com/intarchboard/draft-iab-rfc4052bis/pull/64",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "MEMBER",
+      "assignees": [],
+      "labels": [],
+      "body": "No matter of the add a \"formal\" to the term liaison relationship, let's try to be very consistent in our wording used in the doc. This PR add \"formal\" and \"liaison\" everywhere. It also used the term \"working relationship\" otherwise.",
+      "createdAt": "2025-11-01T15:27:38Z",
+      "updatedAt": "2025-11-01T15:27:38Z",
+      "baseRepository": "intarchboard/draft-iab-rfc4052bis",
+      "baseRefName": "main",
+      "baseRefOid": "70d79b7029fc3e517fde289089e6d117480614f6",
+      "headRepository": "intarchboard/draft-iab-rfc4052bis",
+      "headRefName": "mirjak-patch-22",
+      "headRefOid": "f96707e725e6cb267199e1aafb254afe13bf686c",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
     }
   ]
 }
