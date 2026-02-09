@@ -184,9 +184,9 @@ a) There is an overlap in work between one or more groups in each organization t
 b) The peer organization of the IETF may require a more formal communication structure in order to
    allow the IETF to work directly within the peer organization's processes.
    Some potential formal requirements from the peer organizations include:
-- Access restrictions for accessing the peer organization's working documents or standards.
-- Ability to participate and contribute directly in the peer organization's groups and forums.
-- Ability to participate in and contribute to the ongoing work of the peer organization.
+   - Access restrictions for accessing the peer organization's working documents or standards.
+   - Ability to participate and contribute directly in the peer organization's groups and forums.
+   - Ability to participate in and contribute to the ongoing work of the peer organization.
 
 In setting up a formal liaison relationship, the IAB expects that there will be a
 mutual exchange of views and discussion of the best approach for
