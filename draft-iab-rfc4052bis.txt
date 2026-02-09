@@ -231,25 +231,31 @@ Table of Contents
    From the IETF's perspective a formal liaison relationship is needed
    only when required for specific purposes, such as:
 
-   a) There is an overlap in work between one or more groups in each
-   organization that requires close collaboration that would not be
-   possible without a formal liaison relationship.  This might include
-   situations where one group in one organization has a dependency on a
-   document produced in the other organization and is requesting in-
-   depth support or would like feedback on internal documents.  However
-   note that the agreed need for close collaboration is a pre-condition
-   for establishing a formal liaison relationship but is not alone
-   sufficient for the IETF to require the establishment of a formal
-   liaison relationship.
+   1.  There is an overlap in work between one or more groups in each
+       organization that requires close collaboration that would not be
+       possible without a formal liaison relationship.  This might
+       include situations where one group in one organization has a
+       dependency on a document produced in the other organization and
+       is requesting in-depth support or would like feedback on internal
+       documents.  However note that the agreed need for close
+       collaboration is a pre-condition for establishing a formal
+       liaison relationship but is not alone sufficient for the IETF to
+       require the establishment of a formal liaison relationship.
 
-   b) The peer organization of the IETF may require a more formal
-   communication structure in order to allow the IETF to work directly
-   within the peer organization's processes.  Some potential formal
-   requirements from the peer organizations include: - Access
-   restrictions for accessing the peer organization's working documents
-   or standards.  - Ability to participate and contribute directly in
-   the peer organization's groups and forums.  - Ability to participate
-   in and contribute to the ongoing work of the peer organization.
+   2.  The peer organization of the IETF may require a more formal
+       communication structure in order to allow the IETF to work
+       directly within the peer organization's processes.  Some
+       potential formal requirements from the peer organizations
+       include:
+
+       *  Access restrictions for accessing the peer organization's
+          working documents or standards.
+
+       *  Ability to participate and contribute directly in the peer
+          organization's groups and forums.
+
+       *  Ability to participate in and contribute to the ongoing work
+          of the peer organization.
 
    In setting up a formal liaison relationship, the IAB expects that
    there will be a mutual exchange of views and discussion of the best
