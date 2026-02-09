@@ -64,15 +64,15 @@ Table of Contents
    1.  Introduction
      1.1.  Changes compared to RFC4052
    2.  Establishing Formal Liaison Relationships
-   3.  Liaison Communications
-   4.  Liaison Manager Responsibilities
-     4.1.  Speaking for the IETF
-   5.  Security Considerations
-   6.  IANA Considerations
-   7.  Appendix A: Document Process
-   8.  References
-     8.1.  Normative References
-     8.2.  Informative References
+     2.1.  Liaison Communications
+   3.  Liaison Manager Responsibilities
+     3.1.  Speaking for the IETF
+   4.  Security Considerations
+   5.  IANA Considerations
+   6.  Appendix A: Document Process
+   7.  References
+     7.1.  Normative References
+     7.2.  Informative References
    Acknowledgments
    Authors' Addresses
 
@@ -101,7 +101,7 @@ Table of Contents
       Section 2, and
 
    *  the appointment and responsibilities of IETF liaison managers
-      Section 4.
+      Section 3.
 
    The management of other organizations' liaison managers to the IETF,
    whether or not in the context of a formal liaison relationship, is
@@ -220,12 +220,13 @@ Table of Contents
    both organizations cross-collaborate and participate in the groups
    with overlapping interest.
 
-   Note that formal communications in the form of liaison statements, if
-   needed, can be used without establishing a formal liaison
-   relationship.  In this case, since a formal liaison manager does not
-   exist, the IAB itself will be responsible for ensuring liaison
-   statements are handled appropriately, as further explained in
-   [I-D.kuehlewind-iab-rfc4053bis].
+   There is no set process or form for establishing a formal liaison
+   relationship; the IETF participants and the peer organization can
+   initiate a conversation with the IAB, and after discussion may come
+   to an agreement to form the formal liaison relationship.  In some
+   cases, the intended scope and guidelines for the collaboration are
+   documented specifically (e.g., see [RFC3113], [RFC3131], and
+   [RFC3356]).
 
    From the IETF's perspective a formal liaison relationship is needed
    only when required for specific purposes, such as:
@@ -250,14 +251,6 @@ Table of Contents
    peer organization's groups and forums. - Ability to participate in
    and contribute to the ongoing work of the peer organization.
 
-   There is no set process or form for establishing a formal liaison
-   relationship; the IETF participants and the peer organization can
-   initiate a conversation with the IAB, and after discussion may come
-   to an agreement to form the formal liaison relationship.  In some
-   cases, the intended scope and guidelines for the collaboration are
-   documented specifically (e.g., see [RFC3113], [RFC3131], and
-   [RFC3356]).
-
    In setting up a formal liaison relationship, the IAB expects that
    there will be a mutual exchange of views and discussion of the best
    approach for undertaking new standardization work items.  Any work
@@ -270,7 +263,7 @@ Table of Contents
    allowing sufficient time for the requests they make on the other
    organization to be processed.
 
-3.  Liaison Communications
+2.1.  Liaison Communications
 
    Communications between organizations use a variety of formal and
    informal channels irrespective of established relationships.  The
@@ -286,12 +279,19 @@ Table of Contents
    statement" (LS).  Procedures for sending, managing, and responding to
    liaison statements are discussed in [I-D.iab-rfc4053bis].
 
+   Formal communications in the form of liaison statements, if needed,
+   can be used without establishing a formal liaison relationship.  In
+   this case, since a formal liaison manager does not exist, the IAB
+   itself will be responsible for ensuring liaison statements are
+   handled appropriately, as also further explained in
+   [I-D.iab-rfc4053bis].
+
    Note that communications between organizations have no impact on any
    other IETF contributions, and should follow the same IETF process and
    policies and should be open to everyone for inputs and contributions,
    e.g., input discussion in a specific working group in the IETF.
 
-4.  Liaison Manager Responsibilities
+3.  Liaison Manager Responsibilities
 
    The main responsibility of the liaison manager is to ensure good,
    productive, and timely (formal and informal) communication between
@@ -337,7 +337,7 @@ Table of Contents
    are quite large, it is not expected that the liaison manager needs to
    have a complete overview of everything that is going on there.
 
-4.1.  Speaking for the IETF
+3.1.  Speaking for the IETF
 
    The mandate for IETF liaison managers is strictly limited to
    conveying IETF consensus to the liaised organization.  The liaison
@@ -347,16 +347,16 @@ Table of Contents
    the subject matter of the liaison, but only after making sure that
    the IETF consensus is understood.
 
-5.  Security Considerations
+4.  Security Considerations
 
    The security of the Internet is enhanced by robust coordination
    between SDOs.
 
-6.  IANA Considerations
+5.  IANA Considerations
 
    This document has no IANA actions.
 
-7.  Appendix A: Document Process
+6.  Appendix A: Document Process
 
    RFC 4052 was published as a BCP.  Since the IAB cannot publish BCPs,
    this document will follow a two step process.  The current draft is
@@ -366,9 +366,9 @@ Table of Contents
    to update its intended status to BCP.  This appendix should be
    removed at the time of publication.
 
-8.  References
+7.  References
 
-8.1.  Normative References
+7.1.  Normative References
 
    [BCP39]    Best Current Practice 39,
               <https://www.rfc-editor.org/info/bcp39>.
@@ -424,7 +424,7 @@ Table of Contents
               BCP 9, RFC 9282, DOI 10.17487/RFC9282, June 2022,
               <https://www.rfc-editor.org/info/rfc9282>.
 
-8.2.  Informative References
+7.2.  Informative References
 
    [I-D.iab-rfc4053bis]
               Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
@@ -432,13 +432,6 @@ Table of Contents
               Progress, Internet-Draft, draft-iab-rfc4053bis-00, 17
               October 2025, <https://datatracker.ietf.org/doc/html/
               draft-iab-rfc4053bis-00>.
-
-   [I-D.kuehlewind-iab-rfc4053bis]
-              Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
-              Handling Liaison Statements to and from the IETF", Work in
-              Progress, Internet-Draft, draft-kuehlewind-iab-rfc4053bis-
-              01, 13 June 2025, <https://datatracker.ietf.org/doc/html/
-              draft-kuehlewind-iab-rfc4053bis-01>.
 
    [RFC3113]  Rosenbrock, K., Sanmugam, R., Bradner, S., and J. Klensin,
               "3GPP-IETF Standardization Collaboration", RFC 3113,
