@@ -167,7 +167,7 @@ interest.
 
 There is no set process or form for establishing a formal liaison relationship;
 the IETF participants and the peer organization can initiate a conversation with
-the IAB, and after discussion may come to an agreement to form the relationship.
+the IAB, and after discussion may come to an agreement to form the formal liaison relationship.
 In some cases, the intended scope and guidelines for the collaboration are documented
 specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
 
@@ -187,12 +187,6 @@ b) The peer organization of the IETF may require a more formal communication str
 - Access restrictions for accessing the peer organization's working documents or standards.
 - Ability to participate and contribute directly in the peer organization's groups and forums.
 - Ability to participate in and contribute to the ongoing work of the peer organization.
-
-There is no set process or form for establishing a formal liaison relationship;
-the IETF participants and the peer organization can initiate a conversation with
-the IAB, and after discussion may come to an agreement to form the formal liaison relationship.
-In some cases, the intended scope and guidelines for the collaboration are documented
-specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
 
 In setting up a formal liaison relationship, the IAB expects that there will be a
 mutual exchange of views and discussion of the best approach for
