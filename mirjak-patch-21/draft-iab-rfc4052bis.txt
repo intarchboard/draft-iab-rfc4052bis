@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 5 May 2026                                      1 November 2025
+Expires: 13 August 2026                                  9 February 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -46,11 +46,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 5 May 2026.
+   This Internet-Draft will expire on 13 August 2026.
 
 Copyright Notice
 
-   Copyright (c) 2025 IETF Trust and the persons identified as the
+   Copyright (c) 2026 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -159,36 +159,43 @@ Table of Contents
 
    This version of the document contains the following updates:
 
-   1.  Notes in the Introduction and Section 2.1 on "Liaison
-       Relationships" that the IETF process itself does not require a
-       formal liaison relationship, e.g. for document access or meeting
-       participation, and therefore the need for a formal liaison
-       relationship is often driven by processes of the peer
-       organization.
+   1.   Notes in the Introduction and Section 2.1 on "Liaison
+        Relationships" that the IETF process itself does not require a
+        formal liaison relationship, e.g. for document access or meeting
+        participation, and therefore the need for a formal liaison
+        relationship is often driven by processes of the peer
+        organization.
 
-   2.  Statement that the "IAB acts as representative of the interests
-       of [..] the Internet Society" has been removed.
+   2.   Statement that the "IAB acts as representative of the interests
+        of [..] the Internet Society" has been removed.
 
-   3.  Role of the Liaison Representative (Section 2.3) has been removed
-       since this role is not used in practice.
+   3.   Role of the Liaison Representative (Section 2.3) has been
+        removed since this role is not used in practice.
 
-   4.  Clarification in section on "Liaison Communication" (now 2.3; was
-       2.4) that informal channels are preferred, with and without a
-       formal liaison relationship, and further that liaison statements
-       have no "special standing" in the IETF process.
+   4.   Clarification in section on "Liaison Communication" (now 2.3;
+        was 2.4) that informal channels are preferred, with and without
+        a formal liaison relationship, and further that liaison
+        statements have no "special standing" in the IETF process.
 
-   5.  Section on Summary of IETF Liaison Manager Responsibilities
-       reworked.
+   5.   Section on Summary of IETF Liaison Manager Responsibilities
+        reworked.
 
-   6.  Section 4 on "Approval and Transmission of Liaison Statements"
-       has been moved to 4053bis.
+   6.   Section 4 on "Approval and Transmission of Liaison Statements"
+        has been moved to 4053bis.
 
-   7.  Better description of both the aspects and requirements for
-       establishing a formal relationship
+   7.   Better description of both the aspects and requirements for
+        establishing a formal relationship
 
-   8.  Clarified there are no specific establishment procedures for
-       informal collaboration and formal liaison communications in form
-       of liaison statement don't require a formal liaison relationship
+   8.   Clarified there are no specific establishment procedures for
+        informal collaboration and formal liaison communications in form
+        of liaison statement don't require a formal liaison relationship
+
+   9.   Update of description of aspects for establishing a formal
+        relationship and clarifications about informal collaborations
+
+   10.  Merged liaison manager responsibilities sections
+
+   11.  Removal of one level in the dcoument structure
 
 2.  Establishing Formal Liaison Relationships
 
@@ -237,11 +244,11 @@ Table of Contents
    b) The peer organization of the IETF may require a more formal
    communication structure in order to allow the IETF to work directly
    within the peer organization's processes.  Some potential formal
-   requirements from the peer organizations include:
-
-- Access restrictions for accessing the peer organization's working documents or standards.
-- Ability to participate and contribute directly in the peer organization's groups and forums.
-- Ability to participate in and contribute to the ongoing work of the peer organization.
+   requirements from the peer organizations include: - Access
+   restrictions for accessing the peer organization's working documents
+   or standards. - Ability to participate and contribute directly in the
+   peer organization's groups and forums. - Ability to participate in
+   and contribute to the ongoing work of the peer organization.
 
    There is no set process or form for establishing a formal liaison
    relationship; the IETF participants and the peer organization can
