@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 23 April 2026                                   20 October 2025
+Expires: 13 August 2026                                  9 February 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -46,11 +46,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 23 April 2026.
+   This Internet-Draft will expire on 13 August 2026.
 
 Copyright Notice
 
-   Copyright (c) 2025 IETF Trust and the persons identified as the
+   Copyright (c) 2026 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -183,14 +183,12 @@ Table of Contents
    6.  Section 4 on "Approval and Transmission of Liaison Statements"
        has been moved to 4053bis.
 
-   7.  Description of formal and informal relationships.
+   7.  Update of description of aspects for establishing a formal
+       relationship and clarifications about informal collaborations
 
-   8.  Better description of both the aspects of requirements for
-       establishing a formal relationship
+   8.  Merged liaison manager responsibilities sections
 
-   9.  Clarified there are no specific establishment procedures for
-       informal relationships and described handling of liaison
-       communications that don't have a formal relationship.
+   9.  Removal of one level in the dcoument structure
 
 2.  Establishing Formal Liaison Relationships
 

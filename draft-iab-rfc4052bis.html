@@ -23,14 +23,14 @@ liaison relationships.
     Python 3.12.12
     ConfigArgParse 1.7
     google-i18n-address 3.1.1
-    intervaltree 3.1.0
+    intervaltree 3.2.1
     Jinja2 3.1.6
-    lxml 5.3.1
-    platformdirs 4.5.0
+    lxml 6.0.2
+    platformdirs 4.5.1
     pycountry 24.6.1
-    PyYAML 6.0.2
+    PyYAML 6.0.3
     requests 2.32.5
-    wcwidth 0.2.14
+    wcwidth 0.3.0
 -->
 <link href="draft-iab-rfc4052bis.xml" rel="alternate" type="application/rfc+xml">
 <link href="#copyright" rel="license">
@@ -571,6 +571,7 @@ aside, blockquote {
 }
 blockquote {
   margin: 1em 0;
+  border-left: 2px var(--pilcrow-strong) solid;
 }
 cite {
   display: block;
@@ -641,7 +642,7 @@ a.pilcrow {
   }
 }
 @media not print {
-  :hover > a.pilcrow {
+  :hover > a.pilcrow, a.pilcrow:focus {
     opacity: 1;
   }
   a.pilcrow[href]:hover {
@@ -1049,11 +1050,11 @@ svg :is([fill="white"], [fill^="#fff"]) {
 <thead><tr>
 <td class="left">Internet-Draft</td>
 <td class="center">IAB Liaison Management</td>
-<td class="right">October 2025</td>
+<td class="right">February 2026</td>
 </tr></thead>
 <tfoot><tr>
 <td class="left">Krishnan, et al.</td>
-<td class="center">Expires 23 April 2026</td>
+<td class="center">Expires 13 August 2026</td>
 <td class="right">[Page]</td>
 </tr></tfoot>
 </table>
@@ -1069,12 +1070,12 @@ svg :is([fill="white"], [fill^="#fff"]) {
 <a href="https://www.rfc-editor.org/rfc/rfc4052" class="eref">4052</a> (if approved)</dd>
 <dt class="label-published">Published:</dt>
 <dd class="published">
-<time datetime="2025-10-20" class="published">20 October 2025</time>
+<time datetime="2026-02-09" class="published">9 February 2026</time>
     </dd>
 <dt class="label-intended-status">Intended Status:</dt>
 <dd class="intended-status">Informational</dd>
 <dt class="label-expires">Expires:</dt>
-<dd class="expires"><time datetime="2026-04-23">23 April 2026</time></dd>
+<dd class="expires"><time datetime="2026-08-13">13 August 2026</time></dd>
 <dt class="label-authors">Authors:</dt>
 <dd class="authors">
 <div class="author">
@@ -1132,7 +1133,7 @@ liaison relationships.<a href="#section-abstract-1" class="pilcrow">¶</a></p>
         time. It is inappropriate to use Internet-Drafts as reference
         material or to cite them other than as "work in progress."<a href="#section-boilerplate.1-3" class="pilcrow">¶</a></p>
 <p id="section-boilerplate.1-4">
-        This Internet-Draft will expire on 23 April 2026.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
+        This Internet-Draft will expire on 13 August 2026.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
 </section>
 </div>
 <div id="copyright">
@@ -1141,7 +1142,7 @@ liaison relationships.<a href="#section-abstract-1" class="pilcrow">¶</a></p>
 <a href="#name-copyright-notice" class="section-name selfRef">Copyright Notice</a>
         </h2>
 <p id="section-boilerplate.2-1">
-            Copyright (c) 2025 IETF Trust and the persons identified as the
+            Copyright (c) 2026 IETF Trust and the persons identified as the
             document authors. All rights reserved.<a href="#section-boilerplate.2-1" class="pilcrow">¶</a></p>
 <p id="section-boilerplate.2-2">
             This document is subject to BCP 78 and the IETF Trust's Legal
@@ -1321,16 +1322,14 @@ that liaison statements have no "special standing" in the IETF process.<a href="
             <p id="section-1.1-2.6.1">Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.<a href="#section-1.1-2.6.1" class="pilcrow">¶</a></p>
 </li>
           <li id="section-1.1-2.7">
-            <p id="section-1.1-2.7.1">Description of formal and informal relationships.<a href="#section-1.1-2.7.1" class="pilcrow">¶</a></p>
+            <p id="section-1.1-2.7.1">Update of description of aspects for establishing a formal relationship and clarifications
+about informal collaborations<a href="#section-1.1-2.7.1" class="pilcrow">¶</a></p>
 </li>
           <li id="section-1.1-2.8">
-            <p id="section-1.1-2.8.1">Better description of both the aspects of requirements for establishing a
-formal relationship<a href="#section-1.1-2.8.1" class="pilcrow">¶</a></p>
+            <p id="section-1.1-2.8.1">Merged liaison manager responsibilities sections<a href="#section-1.1-2.8.1" class="pilcrow">¶</a></p>
 </li>
           <li id="section-1.1-2.9">
-            <p id="section-1.1-2.9.1">Clarified there are no specific establishment procedures for informal
-relationships and described handling of liaison communications that don't have a
-formal relationship.<a href="#section-1.1-2.9.1" class="pilcrow">¶</a></p>
+            <p id="section-1.1-2.9.1">Removal of one level in the dcoument structure<a href="#section-1.1-2.9.1" class="pilcrow">¶</a></p>
 </li>
         </ol>
 </section>
