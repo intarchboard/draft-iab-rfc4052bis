@@ -133,12 +133,10 @@ This version of the document contains the following updates:
    that liaison statements have no "special standing" in the IETF process.
 5. Section on Summary of IETF Liaison Manager Responsibilities reworked.
 6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
-7. Description of formal and informal relationships.
-8. Better description of both the aspects of requirements for establishing a
-   formal relationship
-9. Clarified there are no specific establishment procedures for informal
-   relationships and described handling of liaison communications that don't have a
-   formal relationship.
+8. Update of description of aspects for establishing a formal relationship and clarifications
+   about informal collaborations
+10. Merged liaison manager responsibilities sections
+10. Removal of one level in the dcoument structure
 
 # Establishing Formal Liaison Relationships {#relationship}
 
