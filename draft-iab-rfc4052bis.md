@@ -142,6 +142,10 @@ This version of the document contains the following updates:
    about informal collaborations
 10. Merged liaison manager responsibilities sections
 10. Removal of one level in the dcoument structure
+11. Move "Liaison Communication" into a subsection of "Establishing a Liaison Relationship" and merge some redandant text
+12. Align wording to consistently use “formal liaison relationship”
+13. Smalll clarification that the appointment of a LM establishes the formal relationship
+
 
 
 # Establishing Formal Liaison Relationships {#relationship}
