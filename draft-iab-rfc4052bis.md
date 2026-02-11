@@ -173,7 +173,7 @@ Such an working relationship simply exists by defacto when members of both organ
 cross-collaborate and participate in the groups with overlapping
 interest.
 
-## Puroposes and Expectations for Formal Liaison Relationships
+## Purposes and Expectations for Formal Liaison Relationships
 
 From the IETF's perspective a formal liaison relationship is needed only when required for specific
 purposes, such as:
@@ -230,7 +230,7 @@ any other IETF contributions, and should follow the same IETF process and
 policies and should be open to everyone for inputs and contributions, e.g.,
 input discussion in a specific working group in the IETF.
 
-# Liaison Manager Responsibilities and Exceptations {#manager}
+# Liaison Manager Responsibilities and Expectations {#manager}
 
 The main responsibility of the liaison manager is to ensure good,
 productive, and timely (formal and informal) communication between the organizations.
