@@ -199,6 +199,14 @@ Table of Contents
 
    11.  Removal of one level in the dcoument structure
 
+   12.  Move "Liaison Communication" into a subsection of "Establishing
+        a Liaison Relationship" and merge some redundant text
+
+   13.  Align wording to consistently use “formal liaison relationship”
+
+   14.  Small clarification that the appointment of a liaison manager
+        establishes the formal relationship
+
 2.  Establishing Formal Liaison Relationships
 
    There is no set process or form for establishing a formal liaison
