@@ -146,7 +146,15 @@ This version of the document contains the following updates:
 
 # Establishing Formal Liaison Relationships {#relationship}
 
-Once the IAB and the other organization mutually agree that a formal liaison relationship is beneficial, the IAB appoints a liaison manager to establish it.
+There is no set process or form for establishing a formal liaison relationship;
+the IETF participants and the peer organization can initiate a conversation with
+the IAB, and after discussion may come to an agreement to form the formal liaison relationship.
+Once the IAB and the other organization mutually agree that a formal liaison
+relationship is beneficial, the IAB appoints a liaison manager to establish it.
+In some cases, the intended scope and guidelines for the collaboration are documented
+specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
+
+## IETF's Preference for Informal Collaboration
 
 Generally informal collaboration between the IETF and peer
 organizations is preferred whenever direct working
@@ -165,11 +173,7 @@ Such an working relationship simply exists by defacto when members of both organ
 cross-collaborate and participate in the groups with overlapping
 interest.
 
-There is no set process or form for establishing a formal liaison relationship;
-the IETF participants and the peer organization can initiate a conversation with
-the IAB, and after discussion may come to an agreement to form the formal liaison relationship.
-In some cases, the intended scope and guidelines for the collaboration are documented
-specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
+## Purposes and Expectations for Formal Liaison Relationships
 
 From the IETF's perspective a formal liaison relationship is needed only when required for specific
 purposes, such as:
@@ -226,7 +230,7 @@ any other IETF contributions, and should follow the same IETF process and
 policies and should be open to everyone for inputs and contributions, e.g.,
 input discussion in a specific working group in the IETF.
 
-# Liaison Manager Responsibilities {#manager}
+# Liaison Manager Responsibilities and Expectations {#manager}
 
 The main responsibility of the liaison manager is to ensure good,
 productive, and timely (formal and informal) communication between the organizations.
