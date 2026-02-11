@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 13 August 2026                                  9 February 2026
+Expires: 15 August 2026                                 11 February 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 13 August 2026.
+   This Internet-Draft will expire on 15 August 2026.
 
 Copyright Notice
 
@@ -64,8 +64,10 @@ Table of Contents
    1.  Introduction
      1.1.  Changes compared to RFC4052
    2.  Establishing Formal Liaison Relationships
-     2.1.  Liaison Communications
-   3.  Liaison Manager Responsibilities
+     2.1.  IETF's Preference for Informal Collaboration
+     2.2.  Purposes and Expectations for Formal Liaison Relationships
+     2.3.  Liaison Communications
+   3.  Liaison Manager Responsibilities and Expectations
      3.1.  Speaking for the IETF
    4.  Security Considerations
    5.  IANA Considerations
@@ -199,9 +201,17 @@ Table of Contents
 
 2.  Establishing Formal Liaison Relationships
 
-   Once the IAB and the other organization mutually agree that a formal
-   liaison relationship is beneficial, the IAB appoints a liaison
-   manager to establish it.
+   There is no set process or form for establishing a formal liaison
+   relationship; the IETF participants and the peer organization can
+   initiate a conversation with the IAB, and after discussion may come
+   to an agreement to form the formal liaison relationship.  Once the
+   IAB and the other organization mutually agree that a formal liaison
+   relationship is beneficial, the IAB appoints a liaison manager to
+   establish it.  In some cases, the intended scope and guidelines for
+   the collaboration are documented specifically (e.g., see [RFC3113],
+   [RFC3131], and [RFC3356]).
+
+2.1.  IETF's Preference for Informal Collaboration
 
    Generally informal collaboration between the IETF and peer
    organizations is preferred whenever direct working relationships
@@ -220,13 +230,7 @@ Table of Contents
    both organizations cross-collaborate and participate in the groups
    with overlapping interest.
 
-   There is no set process or form for establishing a formal liaison
-   relationship; the IETF participants and the peer organization can
-   initiate a conversation with the IAB, and after discussion may come
-   to an agreement to form the formal liaison relationship.  In some
-   cases, the intended scope and guidelines for the collaboration are
-   documented specifically (e.g., see [RFC3113], [RFC3131], and
-   [RFC3356]).
+2.2.  Purposes and Expectations for Formal Liaison Relationships
 
    From the IETF's perspective a formal liaison relationship is needed
    only when required for specific purposes, such as:
@@ -269,7 +273,7 @@ Table of Contents
    allowing sufficient time for the requests they make on the other
    organization to be processed.
 
-2.1.  Liaison Communications
+2.3.  Liaison Communications
 
    Communications between organizations use a variety of formal and
    informal channels irrespective of established relationships.  The
@@ -297,7 +301,7 @@ Table of Contents
    policies and should be open to everyone for inputs and contributions,
    e.g., input discussion in a specific working group in the IETF.
 
-3.  Liaison Manager Responsibilities
+3.  Liaison Manager Responsibilities and Expectations
 
    The main responsibility of the liaison manager is to ensure good,
    productive, and timely (formal and informal) communication between
