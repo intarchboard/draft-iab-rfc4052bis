@@ -220,7 +220,7 @@ process and historically worked well to expedite matters. In some cases,
 however, a more formal communication is appropriate, either as an adjunct
 to the informal channel or in its own place with or without a formal liaison
 relationship. In the case of formal communications, the established
-procedures of many organizations produce a "liaison statement" (LS). 
+procedures of many organizations produce a "liaison statement" (LS).
 Procedures for sending, managing, and responding to liaison statements are
 discussed in {{?I-D.iab-rfc4053bis}}.
 
