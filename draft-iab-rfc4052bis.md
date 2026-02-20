@@ -173,7 +173,7 @@ communication mechanisms, there may not be a need for a more formal
 structure.
 
 There is no specific procedure to enable informal collaboration.
-Such an working relationship simply exists by defacto when members of both organizations
+Such a working relationship simply exists by defacto when members of both organizations
 cross-collaborate and participate in the groups with overlapping
 interest.
 
