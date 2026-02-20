@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 15 August 2026                                 11 February 2026
+Expires: 24 August 2026                                 20 February 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 15 August 2026.
+   This Internet-Draft will expire on 24 August 2026.
 
 Copyright Notice
 
@@ -234,7 +234,7 @@ Table of Contents
    need for a more formal structure.
 
    There is no specific procedure to enable informal collaboration.
-   Such an working relationship simply exists by defacto when members of
+   Such a working relationship simply exists by defacto when members of
    both organizations cross-collaborate and participate in the groups
    with overlapping interest.
 
@@ -447,9 +447,9 @@ Table of Contents
    [I-D.iab-rfc4053bis]
               Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
               Handling Liaison Statements to and from the IETF", Work in
-              Progress, Internet-Draft, draft-iab-rfc4053bis-00, 17
-              October 2025, <https://datatracker.ietf.org/doc/html/
-              draft-iab-rfc4053bis-00>.
+              Progress, Internet-Draft, draft-iab-rfc4053bis-01, 11
+              February 2026, <https://datatracker.ietf.org/doc/html/
+              draft-iab-rfc4053bis-01>.
 
    [RFC3113]  Rosenbrock, K., Sanmugam, R., Bradner, S., and J. Klensin,
               "3GPP-IETF Standardization Collaboration", RFC 3113,
