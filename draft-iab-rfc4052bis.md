@@ -99,8 +99,8 @@ relationship can provide the framework for ongoing communications to
 It is important to note that participation in the IETF work is open to everyone,
 and all the working documents and RFCs are freely available to everyone without
 the need for a formal liaison relationship. Hence, in almost all cases the need
-for a formal relationship is mostly driven by other organizations rather than by
-the IETF.
+for a formal relationship is mostly driven by process restrictions or other requirements
+for collaboration within other organizations.
 
 If tighter coordination is needed, e.g. in cases where there are
 a large number of document dependencies when
@@ -150,9 +150,9 @@ This version of the document contains the following updates:
 
 # Establishing Formal Liaison Relationships {#relationship}
 
-There is no set process or form for establishing a formal liaison relationship;
+There is no set process or form for establishing a formal liaison relationship with the IETF;
 the IETF participants and the peer organization can initiate a conversation with
-the IAB, and after discussion may come to an agreement to form the formal liaison relationship.
+the IAB, and after discussion may come to an agreement to form a formal liaison relationship.
 Once the IAB and the other organization mutually agree that a formal liaison
 relationship is beneficial, the IAB appoints a liaison manager to establish it.
 In some cases, the intended scope and guidelines for the collaboration are documented
@@ -166,7 +166,7 @@ relationships between the members of both organizations is possible.
 Specifically, there are no processes in the IETF that require a formal
 liaison relationship as our work is conducted in open public meetings and on
 mailing lists where anyone can contribute.
-Inputs from all participants in the IETF, regardless of the type of relationship,
+Inputs to the IETF, regardless of the type of relationship,
 are given equal weight and standing.  When a similar structure exists in the peer
 organization and all participants have access to open working documents and
 communication mechanisms, there may not be a need for a more formal
@@ -193,8 +193,7 @@ purposes, such as:
    allow the IETF to work directly within the peer organization's processes.
    Some potential formal requirements from the peer organizations include:
    - Access restrictions for accessing the peer organization's working documents or standards.
-   - Ability to participate and contribute directly in the peer organization's groups and forums.
-   - Ability to participate in and contribute to the ongoing work of the peer organization.
+   - Ability to participate and contribute directly to the ongoing work in the peer organization's groups and forums.
 
 In setting up a formal liaison relationship, the IAB expects that there will be a
 mutual exchange of views and discussion of the best approach for
@@ -249,9 +248,9 @@ This often includes:
   inappropriate party, such as being sent directly to the WG but not recorded otherwise
   or being sent to the wrong WG, the liaison manager
   will help redirect or otherwise augment the communication.
-- Provide additional communication regarding e.g. process or known consensus positions in
+- Provide additional communication regarding e.g. process matters or known consensus positions in
   the IETF. This may also require participation in relevant meetings of the peer
-  organization and potentially report back to the appropriate IETF organization any
+  organization and potentially reporting back to the appropriate IETF organization any
   material information that is intended to be shared by the peer organization.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison
@@ -280,7 +279,7 @@ the subject matter of the liaison, but only after making sure that
 the IETF consensus is understood. Specifically,
 if these communications aim to "represent the IETF",
 they must have consensus, e.g. by being based on an RFC or some other formal statement
-by a group within the IETF.
+by a group within the IETF, e.g. the outcome of a working group consensus call.
 
 # Security Considerations
 
