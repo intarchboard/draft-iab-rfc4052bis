@@ -301,11 +301,12 @@ Table of Contents
    Procedures for sending, managing, and responding to liaison
    statements are discussed in [I-D.iab-rfc4053bis].
 
-   Liaison statements can be sent without establishing a formal liaison
-   relationship, if formal communication is desired.  In this case,
-   since a formal liaison manager does not exist, the IAB itself will be
-   responsible for ensuring liaison statements are handled
-   appropriately, as also further explained in [I-D.iab-rfc4053bis].
+   Liaison statements can be sent and received without establishing a
+   formal liaison relationship, if formal communication is desired.  In
+   this case, since a formal liaison manager does not exist, the IAB
+   itself will be responsible for ensuring liaison statements are
+   handled appropriately, as also further explained in
+   [I-D.iab-rfc4053bis].
 
    Note that communications between organizations have no impact on any
    other IETF contributions, and should follow the same IETF process and
