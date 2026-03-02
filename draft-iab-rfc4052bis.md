@@ -87,7 +87,7 @@ areas of technical development of mutual interest. For the most
 part, SDOs would rather leverage existing work done by other
 organizations than recreate it themselves (and would like the same
 done with respect to their own work). Collaboration and coordination
-of efforts between the IETF and other organizations, e.g., can help
+of efforts between the IETF and other organizations can help
 to prevent inadvertent duplication of effort, without obstructing
 either organization from pursuing its own mandate. While technical overlap
 and the respective desire for collaboration can be handled without
