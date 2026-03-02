@@ -223,7 +223,7 @@ procedures of many organizations produce a "liaison statement" (LS).
 Procedures for sending, managing, and responding to liaison statements are
 discussed in {{?I-D.iab-rfc4053bis}}.
 
-Liaison statements can be sent without establishing a formal liaison relationship,
+Liaison statements can be sent and received without establishing a formal liaison relationship,
 if formal communication is desired.
 In this case, since a formal liaison manager
 does not exist, the IAB itself will be responsible for ensuring
