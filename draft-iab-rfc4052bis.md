@@ -35,7 +35,7 @@ informative:
 --- abstract
 
 This document describes the procedures used by the Internet Architecture Board (IAB) to establish
-and maintain formal liaison relationships between the IETF and other
+formal liaison relationships between the IETF and other
 Standards Development Organizations (SDOs), consortia and industry
 fora. This document also outlines the expectations of the IAB in establishing
 formal liaison relationships and desrcibed the responsibilities
