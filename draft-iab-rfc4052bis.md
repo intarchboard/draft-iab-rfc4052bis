@@ -123,6 +123,8 @@ result in a satisfactory outcome, then consult the IAB itself.
 
 ## Changes compared to RFC4052
 
+The text in this section is intended to be removed and replaced with a shorter, high-level summary before publication.
+
 This version of the document contains the following updates:
 
 1. Notes were added in the Introduction and Section 2.1 on "Liaison Relationships" that the
@@ -150,7 +152,8 @@ This version of the document contains the following updates:
 11. Section on "Liaison Communication" was moved into a subsection of "Establishing a Liaison Relationship" and some redundant text was merged
 12. Wording was aligned to consistently use “formal liaison relationship”
 13. Small clarification was added that the appointment of a liaison manager establishes the formal relationship
-
+14. The intro text was revised including a new initial paragraph to further clarify the scope that aligns with text in 4053bis
+15. RFC4691 was added to the obsolete tag
 
 
 # Establishing Formal Liaison Relationships {#relationship}
