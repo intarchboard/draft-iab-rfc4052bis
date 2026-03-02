@@ -34,25 +34,30 @@ informative:
 
 --- abstract
 
-This document discusses the procedures used by the IAB to establish
+This document describes the procedures used by the Internet Architecture Board (IAB) to establish
 and maintain formal liaison relationships between the IETF and other
 Standards Development Organizations (SDOs), consortia and industry
-fora. This document also discusses the appointment and responsibilities
-of IETF liaison managers, and the expectations of the IAB in establishing
-formal liaison relationships.
+fora. This document also outlines the expectations of the IAB in establishing
+formal liaison relationships and desrcibed the responsibilities
+of IAB-appointed IETF liaison managers.
 
 
 --- middle
 
 # Introduction
 
+This document describes the procedures to establish
+and maintain formal liaison relationships between the IETF and other
+Standards Development Organizations (SDOs), consortia and industry
+fora. This process is managed by the Internet Architecture Board (IAB) and designed such that the
+IETF can effectively collaborate with other organizations in the
+international standards community. The IAB also serves as contact
+point for any matters regarding liaison management beyond the scope of this document.
+
 The IETF, as an organization, has the need to engage in direct
-communication or joint work with various other formal
-organizations.  For example, the IETF is one of several Standards
-Development Organizations, or SDOs, and SDOs including the IETF
-find it increasingly necessary to communicate and coordinate their
-activities involving Internet-related technologies. This is useful
-in order to avoid overlap in work efforts, and to manage interactions
+communication to coordinate joint activities with various other SDOs or similar formal
+organizations involving Internet-related technologies. This is useful
+in order to, e.g., avoid overlap in work efforts, and to manage interactions
 between their groups.  In cases where the mutual effort to
 communicate and coordinate activities is formalized, these
 relationships are generically referred to as "formal liaison relationships".
@@ -65,15 +70,15 @@ manager to the IETF.
 
 This document is chiefly concerned with:
 
-- the establishment and maintenance of formal liaison relationships {{relationship}}, and
+- the expectations in and establishment of formal liaison relationships {{relationship}}, and
 - the appointment and responsibilities of IETF liaison managers {{manager}}.
 
 The management of other organizations' liaison managers to the IETF,
 whether or not in the context of a formal liaison relationship, is outside
 the scope of this document.
 
-The IETF has tasked the Internet Architecture Board to manage
-formal liaison relationships.  As stated in its charter {{!BCP39}} 2.(f),
+The IETF has tasked the IAB to manage
+formal liaison relationships, as stated in its charter {{!BCP39}} 2.(f),
 "The IAB acts as a representative of the interests of the IETF
 in technical liaison relationships with other organizations
 concerned with standards, and other technical and organizational
