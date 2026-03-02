@@ -5,7 +5,7 @@ category: info
 
 docname: draft-iab-rfc4052bis-latest
 submissiontype: IAB
-obsoletes: 4052
+obsoletes: 4052, 4691
 date:
 v: 3
 venue:
