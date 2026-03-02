@@ -4,7 +4,7 @@
 
 Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
-Obsoletes: 4052 (if approved)                                      Q. Wu
+Obsoletes: 4052, 4691 (if approved)                                Q. Wu
 Intended status: Informational                                       IAB
 Expires: 3 September 2026                                   2 March 2026
 
