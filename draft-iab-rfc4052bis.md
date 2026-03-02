@@ -5,7 +5,7 @@ category: info
 
 docname: draft-iab-rfc4052bis-latest
 submissiontype: IAB
-obsoletes: 4052
+obsoletes: 4052, 4691
 date:
 v: 3
 venue:
@@ -34,25 +34,30 @@ informative:
 
 --- abstract
 
-This document discusses the procedures used by the IAB to establish
+This document describes the procedures used by the Internet Architecture Board (IAB) to establish
 and maintain formal liaison relationships between the IETF and other
 Standards Development Organizations (SDOs), consortia and industry
-fora. This document also discusses the appointment and responsibilities
-of IETF liaison managers, and the expectations of the IAB in establishing
-formal liaison relationships.
+fora. This document also outlines the expectations of the IAB in establishing
+formal liaison relationships and describes the responsibilities
+of IAB-appointed IETF liaison managers.
 
 
 --- middle
 
 # Introduction
 
+This document describes the procedures to establish
+and maintain formal liaison relationships between the IETF and other
+Standards Development Organizations (SDOs), consortia and industry
+fora. This process is managed by the Internet Architecture Board (IAB) and designed such that the
+IETF can effectively collaborate with other organizations in the
+international standards community. The IAB also serves as contact
+point for any matters regarding liaison management beyond the scope of this document.
+
 The IETF, as an organization, has the need to engage in direct
-communication or joint work with various other formal
-organizations.  For example, the IETF is one of several Standards
-Development Organizations, or SDOs, and SDOs including the IETF
-find it increasingly necessary to communicate and coordinate their
-activities involving Internet-related technologies. This is useful
-in order to avoid overlap in work efforts, and to manage interactions
+communication to coordinate joint activities with various other SDOs or similar formal
+organizations involving Internet-related technologies. This is useful
+in order to, e.g., avoid overlap in work efforts, and to manage interactions
 between their groups.  In cases where the mutual effort to
 communicate and coordinate activities is formalized, these
 relationships are generically referred to as "formal liaison relationships".
@@ -65,15 +70,15 @@ manager to the IETF.
 
 This document is chiefly concerned with:
 
-- the establishment and maintenance of formal liaison relationships {{relationship}}, and
+- the expectations in and establishment of formal liaison relationships {{relationship}}, and
 - the appointment and responsibilities of IETF liaison managers {{manager}}.
 
 The management of other organizations' liaison managers to the IETF,
 whether or not in the context of a formal liaison relationship, is outside
 the scope of this document.
 
-The IETF has tasked the Internet Architecture Board to manage
-formal liaison relationships.  As stated in its charter {{!BCP39}} 2.(f),
+The IETF has tasked the IAB to manage
+formal liaison relationships, as stated in its charter {{!BCP39}} 2.(f),
 "The IAB acts as a representative of the interests of the IETF
 in technical liaison relationships with other organizations
 concerned with standards, and other technical and organizational
@@ -82,33 +87,33 @@ kept informal whenever possible, and must possess demonstrable value to the
 IETF's technical mandate.  Individual participants from the IETF community are
 appointed as liaison managers to other organizations by the IAB."
 
-In general, a formal liaison relationship is most valuable when there are
+In general, collaboration between SDOs is needed when there are
 areas of technical development of mutual interest. For the most
 part, SDOs would rather leverage existing work done by other
 organizations than recreate it themselves (and would like the same
-done with respect to their own work).  Establishing a formal liaison
-relationship can provide the framework for ongoing communications to
-
-- prevent inadvertent duplication of effort, without obstructing
-  either organization from pursuing its own mandate;
-- provide authoritative information of one organization's
-  dependencies on the other's work;
-- allow for the collaboration and coordination of efforts between the IETF
-  and other organizations.
+done with respect to their own work). Collaboration and coordination
+of efforts between the IETF and other organizations can help
+to prevent inadvertent duplication of effort, without obstructing
+either organization from pursuing its own mandate. While technical overlap
+and the respective desire for collaboration can be handled without
+establishing a formal liaison relationship, the formalization of the
+relationship can provide a framework to communicate authoritative information
+of one organization's dependencies on the other's work, if desired or required.
 
 It is important to note that participation in the IETF work is open to everyone,
 and all the working documents and RFCs are freely available to everyone without
 the need for a formal liaison relationship. Hence, in almost all cases the need
-for a formal relationship is mostly driven by other organizations rather than by
-the IETF.
+for a formal relationship is mostly driven by process restrictions or other requirements
+for collaboration within other organizations.
 
-If tighter coordination is needed, e.g. in cases where there are
-a large number of document dependencies when
-specifications are developed in parallel, the IAB might consider
+If tighter coordination is needed, the IAB might consider
 additional activities such as meetings or calls with the relevant
 people (e.g. chairs, ADs, and authors). Such activities could be
 one-time events or organized in a standing groups. The liaison manager
 should be involved in the organization and the running of these activities.
+Such activities can e.g. make sense in cases where there are
+a large number of document dependencies; this often happens when
+specifications are developed in parallel.
 
 Since the IAB is ultimately responsible for liaison management,
 anyone who has an issue with a relationship (whether an IETF
@@ -122,7 +127,7 @@ The text in this section is intended to be removed and replaced with a shorter, 
 
 This version of the document contains the following updates:
 
-1. Notes in the Introduction and Section 2.1 on "Liaison Relationships" that the
+1. Notes were added in the Introduction and Section 2.1 on "Liaison Relationships" that the
    IETF process itself does not require a formal liaison relationship, e.g. for
    document access or meeting participation, and therefore the need for a formal
    liaison relationship is often driven by processes of the peer organization.
@@ -130,37 +135,37 @@ This version of the document contains the following updates:
    Internet Society" has been removed.
 3. Role of the Liaison Representative (Section 2.3) has been removed since this role
    is not used in practice.
-4. Clarification in section on "Liaison Communication" (now 2.3; was 2.4) that informal
+4. Clarification was added in section on "Liaison Communication" (now 2.3; was 2.4) that informal
    channels are preferred, with and without a formal liaison relationship, and further
    that liaison statements have no "special standing" in the IETF process.
-5. Section on Summary of IETF Liaison Manager Responsibilities reworked.
+5. Section on Summary of IETF Liaison Manager Responsibilities was reworked.
 6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
-8. Better description of both the aspects and requirements for establishing a
-   formal relationship
-9. Clarified there are no specific establishment procedures for informal
+8. The description of both the aspects and requirements for establishing a
+   formal relationship ws improved.
+9. Text was addded to clarify there are no specific establishment procedures for informal
    collaboration and formal liaison communications in form of liaison statement
    don't require a formal liaison relationship
-8. Update of description of aspects for establishing a formal relationship and clarifications
+8. Update was made of the description of aspects for establishing a formal relationship and clarifications
    about informal collaborations
-10. Merged liaison manager responsibilities sections
-10. Removal of one level in the dcoument structure
-11. Move "Liaison Communication" into a subsection of "Establishing a Liaison Relationship" and merge some redundant text
-12. Align wording to consistently use “formal liaison relationship”
-13. Small clarification that the appointment of a liaison manager establishes the formal relationship
+10. Liaison manager responsibilities sections was merged
+10. One level in the dcoument structure was removed
+11. Section on "Liaison Communication" was moved into a subsection of "Establishing a Liaison Relationship" and some redundant text was merged
+12. Wording was aligned to consistently use “formal liaison relationship”
+13. Small clarification was added that the appointment of a liaison manager establishes the formal relationship
 14. The intro text was revised including a new initial paragraph to further clarify the scope that aligns with text in 4053bis
 15. RFC4691 was added to the obsolete tag
 
 
-
 # Establishing Formal Liaison Relationships {#relationship}
 
-There is no set process or form for establishing a formal liaison relationship;
+There is no set process or form for establishing a formal liaison relationship with the IETF;
 the IETF participants and the peer organization can initiate a conversation with
-the IAB, and after discussion may come to an agreement to form the formal liaison relationship.
+the IAB, and after discussion may come to an agreement to form a formal liaison relationship.
 Once the IAB and the other organization mutually agree that a formal liaison
 relationship is beneficial, the IAB appoints a liaison manager to establish it.
 In some cases, the intended scope and guidelines for the collaboration are documented
-specifically (e.g., see {{?RFC3113}}, {{?RFC3131}}, and {{?RFC3356}}).
+specifically (e.g., see {{?RFC3113}}, {{?RFC3563}} , {{?RFC3718}}, {{?RFC4965}},
+{{?RFC4965}}, {{?RFC6756}}, and {{?RFC7241}}).
 
 ## IETF's Preference for Informal Collaboration
 
@@ -170,7 +175,7 @@ relationships between the members of both organizations is possible.
 Specifically, there are no processes in the IETF that require a formal
 liaison relationship as our work is conducted in open public meetings and on
 mailing lists where anyone can contribute.
-Inputs from all participants in the IETF, regardless of the type of relationship,
+Inputs to the IETF, regardless of the type of relationship,
 are given equal weight and standing.  When a similar structure exists in the peer
 organization and all participants have access to open working documents and
 communication mechanisms, there may not be a need for a more formal
@@ -197,8 +202,7 @@ purposes, such as:
    allow the IETF to work directly within the peer organization's processes.
    Some potential formal requirements from the peer organizations include:
    - Access restrictions for accessing the peer organization's working documents or standards.
-   - Ability to participate and contribute directly in the peer organization's groups and forums.
-   - Ability to participate in and contribute to the ongoing work of the peer organization.
+   - Ability to participate and contribute directly to the ongoing work in the peer organization's groups and forums.
 
 In setting up a formal liaison relationship, the IAB expects that there will be a
 mutual exchange of views and discussion of the best approach for
@@ -222,12 +226,12 @@ process and historically worked well to expedite matters. In some cases,
 however, a more formal communication is appropriate, either as an adjunct
 to the informal channel or in its own place with or without a formal liaison
 relationship. In the case of formal communications, the established
-procedures of many organizations use a form known as a "liaison statement" (LS).
+procedures of many organizations produce a "liaison statement" (LS).
 Procedures for sending, managing, and responding to liaison statements are
 discussed in {{?I-D.iab-rfc4053bis}}.
 
-Formal communications in the form of liaison statements, if needed,
-can be used without establishing a formal liaison relationship.
+Liaison statements can be sent and received without establishing a formal liaison relationship,
+if formal communication is desired.
 In this case, since a formal liaison manager
 does not exist, the IAB itself will be responsible for ensuring
 liaison statements are handled appropriately, as also further explained in
@@ -253,9 +257,9 @@ This often includes:
   inappropriate party, such as being sent directly to the WG but not recorded otherwise
   or being sent to the wrong WG, the liaison manager
   will help redirect or otherwise augment the communication.
-- Provide additional communication regarding e.g. process or known consensus positions in
+- Provide additional communication regarding e.g. process matters or known consensus positions in
   the IETF. This may also require participation in relevant meetings of the peer
-  organization and potentially report back to the appropriate IETF organization any
+  organization and potentially reporting back to the appropriate IETF organization any
   material information that is intended to be shared by the peer organization.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison
@@ -284,7 +288,7 @@ the subject matter of the liaison, but only after making sure that
 the IETF consensus is understood. Specifically,
 if these communications aim to "represent the IETF",
 they must have consensus, e.g. by being based on an RFC or some other formal statement
-by a group within the IETF.
+by a group within the IETF, e.g. the outcome of a working group consensus call.
 
 # Security Considerations
 
