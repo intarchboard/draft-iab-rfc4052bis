@@ -143,13 +143,14 @@ Table of Contents
    relationship is mostly driven by process restrictions or other
    requirements for collaboration within other organizations.
 
-   If tighter coordination is needed, e.g. in cases where there are a
-   large number of document dependencies when specifications are
-   developed in parallel, the IAB might consider additional activities
-   such as meetings or calls with the relevant people (e.g. chairs, ADs,
-   and authors).  Such activities could be one-time events or organized
-   in a standing groups.  The liaison manager should be involved in the
-   organization and the running of these activities.
+   If tighter coordination is needed, the IAB might consider additional
+   activities such as meetings or calls with the relevant people (e.g.
+   chairs, ADs, and authors).  Such activities could be one-time events
+   or organized in a standing groups.  The liaison manager should be
+   involved in the organization and the running of these activities.
+   Such activities can e.g. make sense in cases where there are a large
+   number of document dependencies; this often happens when
+   specifications are developed in parallel.
 
    Since the IAB is ultimately responsible for liaison management,
    anyone who has an issue with a relationship (whether an IETF
@@ -161,7 +162,7 @@ Table of Contents
 
    This version of the document contains the following updates:
 
-   1.   Notes in the Introduction and Section 2.1 on "Liaison
+   1.   Notes were added in the Introduction and Section 2.1 on "Liaison
         Relationships" that the IETF process itself does not require a
         formal liaison relationship, e.g. for document access or meeting
         participation, and therefore the need for a formal liaison
@@ -174,38 +175,43 @@ Table of Contents
    3.   Role of the Liaison Representative (Section 2.3) has been
         removed since this role is not used in practice.
 
-   4.   Clarification in section on "Liaison Communication" (now 2.3;
-        was 2.4) that informal channels are preferred, with and without
-        a formal liaison relationship, and further that liaison
-        statements have no "special standing" in the IETF process.
+   4.   Clarification was added in section on "Liaison Communication"
+        (now 2.3; was 2.4) that informal channels are preferred, with
+        and without a formal liaison relationship, and further that
+        liaison statements have no "special standing" in the IETF
+        process.
 
-   5.   Section on Summary of IETF Liaison Manager Responsibilities
+   5.   Section on Summary of IETF Liaison Manager Responsibilities was
         reworked.
 
    6.   Section 4 on "Approval and Transmission of Liaison Statements"
         has been moved to 4053bis.
 
-   7.   Better description of both the aspects and requirements for
-        establishing a formal relationship
+   7.   The description of both the aspects and requirements for
+        establishing a formal relationship ws improved.
 
-   8.   Clarified there are no specific establishment procedures for
-        informal collaboration and formal liaison communications in form
-        of liaison statement don't require a formal liaison relationship
+   8.   Text was addded to clarify there are no specific establishment
+        procedures for informal collaboration and formal liaison
+        communications in form of liaison statement don't require a
+        formal liaison relationship
 
-   9.   Update of description of aspects for establishing a formal
-        relationship and clarifications about informal collaborations
+   9.   Update was made of the description of aspects for establishing a
+        formal relationship and clarifications about informal
+        collaborations
 
-   10.  Merged liaison manager responsibilities sections
+   10.  Liaison manager responsibilities sections was merged
 
-   11.  Removal of one level in the dcoument structure
+   11.  One level in the dcoument structure was removed
 
-   12.  Move "Liaison Communication" into a subsection of "Establishing
-        a Liaison Relationship" and merge some redundant text
+   12.  Section on "Liaison Communication" was moved into a subsection
+        of "Establishing a Liaison Relationship" and some redundant text
+        was merged
 
-   13.  Align wording to consistently use “formal liaison relationship”
+   13.  Wording was aligned to consistently use “formal liaison
+        relationship”
 
-   14.  Small clarification that the appointment of a liaison manager
-        establishes the formal relationship
+   14.  Small clarification was added that the appointment of a liaison
+        manager establishes the formal relationship
 
 2.  Establishing Formal Liaison Relationships
 
@@ -217,7 +223,8 @@ Table of Contents
    that a formal liaison relationship is beneficial, the IAB appoints a
    liaison manager to establish it.  In some cases, the intended scope
    and guidelines for the collaboration are documented specifically
-   (e.g., see [RFC3113], [RFC3131], and [RFC3356]).
+   (e.g., see [RFC3113], [RFC3563] , [RFC3718], [RFC4965], [RFC4965],
+   [RFC6756], and [RFC7241]).
 
 2.1.  IETF's Preference for Informal Collaboration
 
@@ -290,16 +297,15 @@ Table of Contents
    communication is appropriate, either as an adjunct to the informal
    channel or in its own place with or without a formal liaison
    relationship.  In the case of formal communications, the established
-   procedures of many organizations use a form known as a "liaison
-   statement" (LS).  Procedures for sending, managing, and responding to
-   liaison statements are discussed in [I-D.iab-rfc4053bis].
+   procedures of many organizations produce a "liaison statement" (LS).
+   Procedures for sending, managing, and responding to liaison
+   statements are discussed in [I-D.iab-rfc4053bis].
 
-   Formal communications in the form of liaison statements, if needed,
-   can be used without establishing a formal liaison relationship.  In
-   this case, since a formal liaison manager does not exist, the IAB
-   itself will be responsible for ensuring liaison statements are
-   handled appropriately, as also further explained in
-   [I-D.iab-rfc4053bis].
+   Liaison statements can be sent without establishing a formal liaison
+   relationship, if formal communication is desired.  In this case,
+   since a formal liaison manager does not exist, the IAB itself will be
+   responsible for ensuring liaison statements are handled
+   appropriately, as also further explained in [I-D.iab-rfc4053bis].
 
    Note that communications between organizations have no impact on any
    other IETF contributions, and should follow the same IETF process and
@@ -454,17 +460,16 @@ Table of Contents
               DOI 10.17487/RFC3113, June 2001,
               <https://www.rfc-editor.org/rfc/rfc3113>.
 
-   [RFC3131]  Bradner, S., Calhoun, P., Cuschieri, H., Dennett, S.,
-              Flynn, G., Lipford, M., and M. McPheters, "3GPP2-IETF
-              Standardization Collaboration", RFC 3131,
-              DOI 10.17487/RFC3131, June 2001,
-              <https://www.rfc-editor.org/rfc/rfc3131>.
+   [RFC3563]  Zinin, A., "Cooperative Agreement Between the ISOC/IETF
+              and ISO/IEC Joint Technical Committee 1/Sub Committee 6
+              (JTC1/SC6) on IS-IS Routing Protocol Development",
+              RFC 3563, DOI 10.17487/RFC3563, July 2003,
+              <https://www.rfc-editor.org/rfc/rfc3563>.
 
-   [RFC3356]  Fishman, G. and S. Bradner, "Internet Engineering Task
-              Force and International Telecommunication Union -
-              Telecommunications Standardization Sector Collaboration
-              Guidelines", RFC 3356, DOI 10.17487/RFC3356, August 2002,
-              <https://www.rfc-editor.org/rfc/rfc3356>.
+   [RFC3718]  McGowan, R., "A Summary of Unicode Consortium Procedures,
+              Policies, Stability, and Public Access", RFC 3718,
+              DOI 10.17487/RFC3718, February 2004,
+              <https://www.rfc-editor.org/rfc/rfc3718>.
 
    [RFC4052]  Daigle, L., Ed. and IAB, "IAB Processes for Management of
               IETF Liaison Relationships", BCP 102, RFC 4052,
@@ -475,6 +480,23 @@ Table of Contents
               Handling Liaison Statements to and from the IETF",
               BCP 103, RFC 4053, DOI 10.17487/RFC4053, April 2005,
               <https://www.rfc-editor.org/rfc/rfc4053>.
+
+   [RFC4965]  Mule, J. and W. Townsley, "CableLabs - IETF
+              Standardization Collaboration", RFC 4965,
+              DOI 10.17487/RFC4965, September 2007,
+              <https://www.rfc-editor.org/rfc/rfc4965>.
+
+   [RFC6756]  Trowbridge, S., Ed., Lear, E., Ed., Fishman, G., Ed., and
+              S. Bradner, Ed., "Internet Engineering Task Force and
+              International Telecommunication Union - Telecommunication
+              Standardization Sector Collaboration Guidelines",
+              RFC 6756, DOI 10.17487/RFC6756, September 2012,
+              <https://www.rfc-editor.org/rfc/rfc6756>.
+
+   [RFC7241]  Dawkins, S., Thaler, P., Romascanu, D., and B. Aboba, Ed.,
+              "The IEEE 802/IETF Relationship", RFC 7241,
+              DOI 10.17487/RFC7241, July 2014,
+              <https://www.rfc-editor.org/rfc/rfc7241>.
 
 Acknowledgments
 
