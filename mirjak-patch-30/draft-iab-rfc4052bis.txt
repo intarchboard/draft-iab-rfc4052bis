@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052 (if approved)                                      Q. Wu
 Intended status: Informational                                       IAB
-Expires: 28 August 2026                                 24 February 2026
+Expires: 3 September 2026                                   2 March 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -46,7 +46,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 28 August 2026.
+   This Internet-Draft will expire on 3 September 2026.
 
 Copyright Notice
 
@@ -125,14 +125,14 @@ Table of Contents
    would rather leverage existing work done by other organizations than
    recreate it themselves (and would like the same done with respect to
    their own work).  Collaboration and coordination of efforts between
-   the IETF and other organizations, e.g., can help to prevent
-   inadvertent duplication of effort, without obstructing either
-   organization from pursuing its own mandate.  While technical overlap
-   and the respective desire for collaboration can be handled without
-   establishing a formal liaison relationship, the formalization of the
-   relationship can provide a framework to communicate authoritative
-   information of one organization's dependencies on the other's work,
-   if desired or required.
+   the IETF and other organizations can help to prevent inadvertent
+   duplication of effort, without obstructing either organization from
+   pursuing its own mandate.  While technical overlap and the respective
+   desire for collaboration can be handled without establishing a formal
+   liaison relationship, the formalization of the relationship can
+   provide a framework to communicate authoritative information of one
+   organization's dependencies on the other's work, if desired or
+   required.
 
    It is important to note that participation in the IETF work is open
    to everyone, and all the working documents and RFCs are freely
