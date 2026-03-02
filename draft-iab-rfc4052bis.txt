@@ -165,6 +165,9 @@ Table of Contents
 
 1.1.  Changes compared to RFC4052
 
+   The text in this section is intended to be removed and replaced with
+   a shorter, high-level summary before publication.
+
    This version of the document contains the following updates:
 
    1.   Notes were added in the Introduction and Section 2.1 on "Liaison
@@ -217,6 +220,11 @@ Table of Contents
 
    14.  Small clarification was added that the appointment of a liaison
         manager establishes the formal relationship
+
+   15.  The intro text was revised including a new initial paragraph to
+        further clarify the scope that aligns with text in 4053bis
+
+   16.  RFC4691 was added to the obsolete tag
 
 2.  Establishing Formal Liaison Relationships
 
