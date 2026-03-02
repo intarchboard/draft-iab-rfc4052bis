@@ -313,5 +313,5 @@ significantly to it as well.
 
 This version of the document is based on {{?RFC4052}} and brings it in line with currently followed
 procedures. The authors would like to thank Leslie Daigle, Roman Danyliw, Dhruv Dhody, Joel Halpern, Wes Hardaker,
-and Warren Kumari for their valuable comments and suggestions to improve this document.
+Russ Housley and Warren Kumari for their valuable comments and suggestions to improve this document.
 
