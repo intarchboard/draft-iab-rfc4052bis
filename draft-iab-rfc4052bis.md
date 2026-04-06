@@ -155,18 +155,6 @@ This version of the document contains the following updates:
 14. The intro text was revised including a new initial paragraph to further clarify the scope that aligns with text in 4053bis
 15. RFC4691 was added to the obsolete tag
 
-
-# Establishing Formal Liaison Relationships {#relationship}
-
-There is no set process or form for establishing a formal liaison relationship with the IETF;
-the IETF participants and the peer organization can initiate a conversation with
-the IAB, and after discussion may come to an agreement to form a formal liaison relationship.
-Once the IAB and the other organization mutually agree that a formal liaison
-relationship is beneficial, the IAB appoints a liaison manager to establish it.
-In some cases, the intended scope and guidelines for the collaboration are documented
-specifically (e.g., see {{?RFC3113}}, {{?RFC3563}} , {{?RFC3718}}, {{?RFC4965}},
-{{?RFC4965}}, {{?RFC6756}}, and {{?RFC7241}}).
-
 ## IETF's Preference for Informal Collaboration
 
 Generally informal collaboration between the IETF and peer
@@ -185,6 +173,17 @@ There is no specific procedure to enable informal collaboration.
 Such a working relationship simply exists by defacto when members of both organizations
 cross-collaborate and participate in the groups with overlapping
 interest.
+
+# Establishing Formal Liaison Relationships {#relationship}
+
+There is no set process or form for establishing a formal liaison relationship with the IETF;
+the IETF participants and the peer organization can initiate a conversation with
+the IAB, and after discussion may come to an agreement to form a formal liaison relationship.
+Once the IAB and the other organization mutually agree that a formal liaison
+relationship is beneficial, the IAB appoints a liaison manager to establish it.
+In some cases, the intended scope and guidelines for the collaboration are documented
+specifically (e.g., see {{?RFC3113}}, {{?RFC3563}} , {{?RFC3718}}, {{?RFC4965}},
+{{?RFC4965}}, {{?RFC6756}}, and {{?RFC7241}}).
 
 ## Purposes and Expectations for Formal Liaison Relationships
 
