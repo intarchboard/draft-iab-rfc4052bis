@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052, 4691 (if approved)                                Q. Wu
 Intended status: Informational                                       IAB
-Expires: 3 September 2026                                   2 March 2026
+Expires: 11 October 2026                                    9 April 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 3 September 2026.
+   This Internet-Draft will expire on 11 October 2026.
 
 Copyright Notice
 
@@ -64,10 +64,10 @@ Table of Contents
 
    1.  Introduction
      1.1.  Changes compared to RFC4052
+     1.2.  IETF's Preference for Informal Collaboration
    2.  Establishing Formal Liaison Relationships
-     2.1.  IETF's Preference for Informal Collaboration
-     2.2.  Purposes and Expectations for Formal Liaison Relationships
-     2.3.  Liaison Communications
+     2.1.  Purposes and Expectations for Formal Liaison Relationships
+     2.2.  Liaison Communications
    3.  Liaison Manager Responsibilities and Expectations
      3.1.  Speaking for the IETF
    4.  Security Considerations
@@ -226,20 +226,7 @@ Table of Contents
 
    16.  RFC4691 was added to the obsolete tag
 
-2.  Establishing Formal Liaison Relationships
-
-   There is no set process or form for establishing a formal liaison
-   relationship with the IETF; the IETF participants and the peer
-   organization can initiate a conversation with the IAB, and after
-   discussion may come to an agreement to form a formal liaison
-   relationship.  Once the IAB and the other organization mutually agree
-   that a formal liaison relationship is beneficial, the IAB appoints a
-   liaison manager to establish it.  In some cases, the intended scope
-   and guidelines for the collaboration are documented specifically
-   (e.g., see [RFC3113], [RFC3563] , [RFC3718], [RFC4965], [RFC4965],
-   [RFC6756], and [RFC7241]).
-
-2.1.  IETF's Preference for Informal Collaboration
+1.2.  IETF's Preference for Informal Collaboration
 
    Generally informal collaboration between the IETF and peer
    organizations is preferred whenever direct working relationships
@@ -258,7 +245,20 @@ Table of Contents
    both organizations cross-collaborate and participate in the groups
    with overlapping interest.
 
-2.2.  Purposes and Expectations for Formal Liaison Relationships
+2.  Establishing Formal Liaison Relationships
+
+   There is no set process or form for establishing a formal liaison
+   relationship with the IETF; the IETF participants and the peer
+   organization can initiate a conversation with the IAB, and after
+   discussion may come to an agreement to form a formal liaison
+   relationship.  Once the IAB and the other organization mutually agree
+   that a formal liaison relationship is beneficial, the IAB appoints a
+   liaison manager to establish it.  In some cases, the intended scope
+   and guidelines for the collaboration are documented specifically
+   (e.g., see [RFC3113], [RFC3563] , [RFC3718], [RFC4965], [RFC4965],
+   [RFC6756], and [RFC7241]).
+
+2.1.  Purposes and Expectations for Formal Liaison Relationships
 
    From the IETF's perspective a formal liaison relationship is needed
    only when required for specific purposes, such as:
@@ -298,7 +298,7 @@ Table of Contents
    allowing sufficient time for the requests they make on the other
    organization to be processed.
 
-2.3.  Liaison Communications
+2.2.  Liaison Communications
 
    Communications between organizations use a variety of formal and
    informal channels irrespective of established relationships.  The
@@ -465,9 +465,9 @@ Table of Contents
    [I-D.iab-rfc4053bis]
               Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
               Handling Liaison Statements to and from the IETF", Work in
-              Progress, Internet-Draft, draft-iab-rfc4053bis-01, 11
-              February 2026, <https://datatracker.ietf.org/doc/html/
-              draft-iab-rfc4053bis-01>.
+              Progress, Internet-Draft, draft-iab-rfc4053bis-03, 16
+              March 2026, <https://datatracker.ietf.org/doc/html/draft-
+              iab-rfc4053bis-03>.
 
    [RFC3113]  Rosenbrock, K., Sanmugam, R., Bradner, S., and J. Klensin,
               "3GPP-IETF Standardization Collaboration", RFC 3113,
