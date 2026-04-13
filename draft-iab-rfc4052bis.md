@@ -169,10 +169,9 @@ organization and all participants have access to open working documents and
 communication mechanisms, there may not be a need for a more formal
 structure.
 
-There is no specific procedure to enable informal collaboration.
-Such a working relationship simply exists by defacto when members of both organizations
+A working relationship simply exists by defacto when members of both organizations
 cross-collaborate and participate in the groups with overlapping
-interest.
+interest. No further structure or procedures is required in this case.
 
 # Establishing Formal Liaison Relationships {#relationship}
 
