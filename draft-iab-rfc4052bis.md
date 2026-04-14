@@ -169,7 +169,7 @@ organization and all participants have access to open working documents and
 communication mechanisms, there may not be a need for a more formal
 structure.
 
-A working relationship simply exists by defacto when members of both organizations
+A de facto working relationship exists when members of both organizations
 cross-collaborate and participate in the groups with overlapping
 interest. No further structure or procedures is required in this case.
 
