@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052, 4691 (if approved)                                Q. Wu
 Intended status: Informational                                       IAB
-Expires: 15 October 2026                                   13 April 2026
+Expires: 16 October 2026                                   14 April 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 15 October 2026.
+   This Internet-Draft will expire on 16 October 2026.
 
 Copyright Notice
 
@@ -240,7 +240,7 @@ Table of Contents
    communication mechanisms, there may not be a need for a more formal
    structure.
 
-   A working relationship simply exists by defacto when members of both
+   A de facto working relationship exists when members of both
    organizations cross-collaborate and participate in the groups with
    overlapping interest.  No further structure or procedures is required
    in this case.
