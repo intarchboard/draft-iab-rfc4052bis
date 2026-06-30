@@ -283,7 +283,7 @@ may use any applicable businesslike approach, from
 private to public communications, and bring in other parties as needed.
 IETF liaison managers should limit their communication to factual statements
 or established consensus positions and the level at which that consensus exists
-(e.g., WG, IESG or IETF). Liaisons are not a means to circumvent IETF consensus processes.
+(e.g., WG, IESG or IETF). A liaison relationship is not a means to circumvent IETF consensus processes.
 
 
 # Security Considerations
