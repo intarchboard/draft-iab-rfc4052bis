@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052, 4691 (if approved)                                Q. Wu
 Intended status: Informational                                       IAB
-Expires: 11 October 2026                                    9 April 2026
+Expires: 1 January 2027                                     30 June 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 11 October 2026.
+   This Internet-Draft will expire on 1 January 2027.
 
 Copyright Notice
 
@@ -406,19 +406,6 @@ Table of Contents
 
 7.1.  Normative References
 
-   [BCP39]    Best Current Practice 39,
-              <https://www.rfc-editor.org/info/bcp39>.
-              At the time of writing, this BCP comprises the following:
-
-              IAB and B. Carpenter, Ed., "Charter of the Internet
-              Architecture Board (IAB)", BCP 39, RFC 2850,
-              DOI 10.17487/RFC2850, May 2000,
-              <https://www.rfc-editor.org/info/rfc2850>.
-
-              Carpenter, B., Ed., "IAB Charter Update for RFC Editor
-              Model", BCP 39, RFC 9283, DOI 10.17487/RFC9283, June 2022,
-              <https://www.rfc-editor.org/info/rfc9283>.
-
    [BCP9]     Best Current Practice 9,
               <https://www.rfc-editor.org/info/bcp9>.
               At the time of writing, this BCP comprises the following:
@@ -459,6 +446,19 @@ Table of Contents
               Rosen, B., "Responsibility Change for the RFC Series",
               BCP 9, RFC 9282, DOI 10.17487/RFC9282, June 2022,
               <https://www.rfc-editor.org/info/rfc9282>.
+
+   [BCP39]    Best Current Practice 39,
+              <https://www.rfc-editor.org/info/bcp39>.
+              At the time of writing, this BCP comprises the following:
+
+              IAB and B. Carpenter, Ed., "Charter of the Internet
+              Architecture Board (IAB)", BCP 39, RFC 2850,
+              DOI 10.17487/RFC2850, May 2000,
+              <https://www.rfc-editor.org/info/rfc2850>.
+
+              Carpenter, B., Ed., "IAB Charter Update for RFC Editor
+              Model", BCP 39, RFC 9283, DOI 10.17487/RFC9283, June 2022,
+              <https://www.rfc-editor.org/info/rfc9283>.
 
 7.2.  Informative References
 
@@ -521,8 +521,8 @@ Acknowledgments
    This version of the document is based on [RFC4052] and brings it in
    line with currently followed procedures.  The authors would like to
    thank Leslie Daigle, Roman Danyliw, Dhruv Dhody, Joel Halpern, Wes
-   Hardaker, and Warren Kumari for their valuable comments and
-   suggestions to improve this document.
+   Hardaker, Russ Housley and Warren Kumari for their valuable comments
+   and suggestions to improve this document.
 
 Authors' Addresses
 
