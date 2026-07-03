@@ -109,7 +109,7 @@ It is important to note that participation in the IETF work is open to everyone,
 and all working documents and RFCs are freely available to everyone without
 the need for a formal liaison relationship. Hence, in many cases the need
 for a formal relationship is mostly driven by process restrictions or other requirements
-for collaboration within other organizations. However, for many other cases where no formal relationship with
+for collaboration within other organizations. Also, in many other cases where no formal relationship with
 a dedicated liaison manager is required and established, the IETF still closely collaborates
 with other organizations, using informal or formal communication in form of liaison statements
 (see also {{?I-D.iab-rfc4053bis}}).
