@@ -259,6 +259,8 @@ This often includes:
   the IETF. This may also require participation in relevant meetings of the peer
   organization and potentially reporting back to the appropriate IETF organization any
   material information that is intended to be shared by the peer organization.
+- Provide advice to the IETF community and leadership on processes and formal
+  requirements of the other organization as needed.
 
 Formal messages from the IETF to the peer organization are usually carried in liaison
 statements. The liaison manager must not send liaison statements on their own initiative to a
