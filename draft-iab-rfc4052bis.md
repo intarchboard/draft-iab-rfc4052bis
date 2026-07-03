@@ -59,7 +59,7 @@ The IETF, as an organization, has the need to engage in direct
 communication to coordinate joint activities with various other SDOs or similar formal
 organizations involving Internet-related technologies. This is useful
 in order to, e.g., avoid overlap in work efforts, and to manage interactions
-between their groups. There are no contrains in the IETF process that
+between their groups. The IETF process does not
 requires any formal handling for such a communication and coordination to happen,
 however, sometimes a formal process is required by the other organiztaion or
 seen as beneficial to support the needed level of collaboration.
