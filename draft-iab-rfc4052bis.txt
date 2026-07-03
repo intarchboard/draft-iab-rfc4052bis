@@ -240,10 +240,10 @@ Table of Contents
    communication mechanisms, there may not be a need for a more formal
    structure.
 
-   There is no specific procedure to enable informal collaboration.
-   Such a working relationship simply exists by defacto when members of
-   both organizations cross-collaborate and participate in the groups
-   with overlapping interest.
+   A de facto working relationship exists when members of both
+   organizations cross-collaborate and participate in the groups with
+   overlapping interest.  No further structure or procedures are
+   required in this case.
 
 2.  Establishing Formal Liaison Relationships
 
