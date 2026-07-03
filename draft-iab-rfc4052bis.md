@@ -171,7 +171,7 @@ structure.
 
 A de facto working relationship exists when members of both organizations
 cross-collaborate and participate in the groups with overlapping
-interest. No further structure or procedures is required in this case.
+interest. No further structure or procedures are required in this case.
 
 # Establishing Formal Liaison Relationships {#relationship}
 
