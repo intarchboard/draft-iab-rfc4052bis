@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052, 4691 (if approved)                                Q. Wu
 Intended status: Informational                                       IAB
-Expires: 1 January 2027                                     30 June 2026
+Expires: 4 January 2027                                      3 July 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 1 January 2027.
+   This Internet-Draft will expire on 4 January 2027.
 
 Copyright Notice
 
@@ -377,7 +377,10 @@ Table of Contents
    communication to factual statements or established consensus
    positions and the level at which that consensus exists (e.g., WG,
    IESG or IETF).  A liaison relationship is not a means to circumvent
-   IETF consensus processes.
+   IETF consensus processes.  The liaison manager can speak on behalf of
+   the IETF on the subject matter of the liaison and therefore
+   "represents the IETF", but only after making sure that the IETF
+   consensus is understood.
 
 4.  Security Considerations
 
