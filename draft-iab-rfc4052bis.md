@@ -118,7 +118,7 @@ If even tighter coordination is needed, independent of the existence of
 an established formal liaison relationship, the IAB might consider
 additional activities such as meetings or calls with the relevant
 people (e.g. chairs, ADs, and authors). Such activities could be
-one-time events or organized in a standing groups. If appropriate, the liaison manager
+one-time events or organized in a standing groups. If a formal liaison relationship exists, the liaison manager
 should be involved in the organization and the running of these activities.
 Such activities can e.g. make sense in cases where there are
 a large number of document dependencies; this often happens when
