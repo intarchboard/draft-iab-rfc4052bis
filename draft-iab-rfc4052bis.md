@@ -51,7 +51,7 @@ and maintain formal liaison relationships between the IETF and other
 Standards Development Organizations (SDOs), consortia and industry
 fora. This process is managed by the Internet Architecture Board (IAB) and designed such that the
 IETF can effectively collaborate with other organizations in the
-international standards community when a formal process is required.
+international standards community when a formal relationship is required.
 The IAB also serves as contact
 point for any matters regarding liaison management beyond the scope of this document.
 
