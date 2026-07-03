@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052, 4691 (if approved)                                Q. Wu
 Intended status: Informational                                       IAB
-Expires: 1 January 2027                                     30 June 2026
+Expires: 4 January 2027                                      3 July 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 1 January 2027.
+   This Internet-Draft will expire on 4 January 2027.
 
 Copyright Notice
 
@@ -87,8 +87,8 @@ Table of Contents
    process is managed by the Internet Architecture Board (IAB) and
    designed such that the IETF can effectively collaborate with other
    organizations in the international standards community when a formal
-   process is required.  The IAB also serves as contact point for any
-   matters regarding liaison management beyond the scope of this
+   relationship is required.  The IAB also serves as contact point for
+   any matters regarding liaison management beyond the scope of this
    document.
 
    The IETF, as an organization, has the need to engage in direct
