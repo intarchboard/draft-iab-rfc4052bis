@@ -2,16 +2,16 @@
 
 This is the working area for the individual Internet-Draft, "IAB Processes for Management of IETF Liaison Relationships".
 
-* [Editor's Copy](https://intarchboard.github.io/draft-iab-rfc4052bis/#go.draft-krishnan-iab-rfc4052bis.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-krishnan-iab-rfc4052bis)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-krishnan-iab-rfc4052bis)
-* [Compare Editor's Copy to Individual Draft](https://intarchboard.github.io/draft-tab-rfc4052bis/#go.draft-krishnan-iab-rfc4052bis.diff)
+* [Editor's Copy](https://intarchboard.github.io/draft-iab-rfc4052bis/#go.draft-iab-rfc4052bis.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-iab-rfc4052bis)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-iab-rfc4052bis)
+* [Compare Editor's Copy to Individual Draft](https://intarchboard.github.io/draft-tab-rfc4052bis/#go.draft-iab-rfc4052bis.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/intarchboard/draft-tab-rfc4052bis/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/intarchboard/draft-iab-rfc4052bis/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
