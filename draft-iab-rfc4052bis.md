@@ -132,39 +132,25 @@ result in a satisfactory outcome, then consult the IAB itself.
 
 ## Changes compared to RFC4052
 
-The text in this section is intended to be removed and replaced with a shorter, high-level summary before publication.
+This document revises RFC4052 and obsoletes RFC4691. RFC4691 builds on RFC4052 and already had a lot of overlap;
+especially the guidance for liaison managers including the explicit part of "speaking for the IETF" has been merged
+into {#manager} in this document.
 
-This version of the document contains the following updates:
+The revision of RFC4052 aligns the defined process with current practises and specifically clarifies the purposes and expections for establishing liaison relationships.
+Particularly, it emphasis that there are no formal requiremnts in the IETF process
+that require a formal liaison relationship for particiapting in the IETF and 
+it clearly explains the role of and prefernece for informal collaborations (see {{informal}}.
 
-1. Notes were added in the Introduction and Section 2.1 on "Liaison Relationships" that the
-   IETF process itself does not require a formal liaison relationship, e.g. for
-   document access or meeting participation, and therefore the need for a formal
-   liaison relationship is often driven by processes of the peer organization.
-2. Statement that the "IAB acts as representative of the interests of \[..] the
-   Internet Society" has been removed.
-3. Role of the Liaison Representative (Section 2.3) has been removed since this role
-   is not used in practice.
-4. Clarification was added in section on "Liaison Communication" (now 2.3; was 2.4) that informal
-   channels are preferred, with and without a formal liaison relationship, and further
-   that liaison statements have no "special standing" in the IETF process.
-5. Section on Summary of IETF Liaison Manager Responsibilities was reworked.
-6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
-8. The description of both the aspects and requirements for establishing a
-   formal relationship ws improved.
-9. Text was addded to clarify there are no specific establishment procedures for informal
-   collaboration and formal liaison communications in form of liaison statement
-   don't require a formal liaison relationship
-8. Update was made of the description of aspects for establishing a formal relationship and clarifications
-   about informal collaborations
-10. Liaison manager responsibilities sections was merged
-10. One level in the dcoument structure was removed
-11. Section on "Liaison Communication" was moved into a subsection of "Establishing a Liaison Relationship" and some redundant text was merged
-12. Wording was aligned to consistently use “formal liaison relationship”
-13. Small clarification was added that the appointment of a liaison manager establishes the formal relationship
-14. The intro text was revised including a new initial paragraph to further clarify the scope that aligns with text in 4053bis
-15. RFC4691 was added to the obsolete tag
+Further, this revison removes the statement that the "IAB acts as representative of the interests of \[..] the
+Internet Society"; the Internet Society (ISOC) is not an SDO and usually does not 
+particapte in technical liaison relations.
+Also the role of the Liaison Representative in RFC4052 was removed since this role is not used in practice.
+The Liaison Manager Responsibilities were clearified and re-focused on good, productive, and timely
+(formal and informal) communication.
+And the section "Approval and Transmission of Liaison Statements" in RFC4052 was moved to 4053bis.
 
-## IETF's Preference for Informal Collaboration
+
+## IETF's Preference for Informal Collaboration {#informal}
 
 Generally informal collaboration between the IETF and peer
 organizations is preferred whenever direct working
