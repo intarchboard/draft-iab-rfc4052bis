@@ -134,21 +134,20 @@ result in a satisfactory outcome, then consult the IAB itself.
 
 This document revises RFC4052 and obsoletes RFC4691. RFC4691 builds on RFC4052 and already had a lot of overlap;
 especially the guidance for liaison managers including the explicit part of "speaking for the IETF" has been merged
-into {#manager} in this document.
+into {{manager}} in this document.
 
-The revision of RFC4052 aligns the defined process with current practises and specifically clarifies the purposes and expections for establishing liaison relationships.
-Particularly, it emphasis that there are no formal requiremnts in the IETF process
-that require a formal liaison relationship for particiapting in the IETF and 
-it clearly explains the role of and prefernece for informal collaborations (see {{informal}}.
+The revision of RFC4052 aligns the defined process with current practises and specifically clarifies the purposes and exceptions for establishing liaison relationships.
+Particularly, it emphasis that there are no formal requirements in the IETF process
+that require a formal liaison relationship for participating in the IETF and 
+it clearly explains the role of and preference for informal collaborations (see {{informal}}.
 
-Further, this revison removes the statement that the "IAB acts as representative of the interests of \[..] the
+Further, this revision removes the statement that the "IAB acts as representative of the interests of \[..] the
 Internet Society"; the Internet Society (ISOC) is not an SDO and usually does not 
-particapte in technical liaison relations.
+participate in technical liaison relations.
 Also the role of the Liaison Representative in RFC4052 was removed since this role is not used in practice.
-The Liaison Manager Responsibilities were clearified and re-focused on good, productive, and timely
+The Liaison Manager Responsibilities were clarified and re-focused on good, productive, and timely
 (formal and informal) communication.
 And the section "Approval and Transmission of Liaison Statements" in RFC4052 was moved to 4053bis.
-
 
 ## IETF's Preference for Informal Collaboration {#informal}
 
