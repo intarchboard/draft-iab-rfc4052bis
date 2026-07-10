@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052, 4691 (if approved)                                Q. Wu
 Intended status: Informational                                       IAB
-Expires: 4 January 2027                                      3 July 2026
+Expires: 11 January 2027                                    10 July 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 4 January 2027.
+   This Internet-Draft will expire on 11 January 2027.
 
 Copyright Notice
 
@@ -96,9 +96,9 @@ Table of Contents
    or similar formal organizations involving Internet-related
    technologies.  This is useful in order to, e.g., avoid overlap in
    work efforts, and to manage interactions between their groups.  The
-   IETF process does not requires any formal handling for such a
+   IETF process does not require any formal handling for such a
    communication and coordination to happen, however, sometimes a formal
-   process is required by the other organiztaion or seen as beneficial
+   process is required by the other organization or seen as beneficial
    to support the needed level of collaboration.  In cases where the
    mutual effort to communicate and coordinate activities is formalized,
    these relationships are generically referred to as "formal liaison
@@ -207,9 +207,9 @@ Table of Contents
         has been moved to 4053bis.
 
    7.   The description of both the aspects and requirements for
-        establishing a formal relationship ws improved.
+        establishing a formal relationship was improved.
 
-   8.   Text was addded to clarify there are no specific establishment
+   8.   Text was added to clarify there are no specific establishment
         procedures for informal collaboration and formal liaison
         communications in form of liaison statement don't require a
         formal liaison relationship
@@ -220,7 +220,7 @@ Table of Contents
 
    10.  Liaison manager responsibilities sections was merged
 
-   11.  One level in the dcoument structure was removed
+   11.  One level in the document structure was removed
 
    12.  Section on "Liaison Communication" was moved into a subsection
         of "Establishing a Liaison Relationship" and some redundant text
@@ -478,9 +478,9 @@ Table of Contents
    [I-D.iab-rfc4053bis]
               Kühlewind, M., Krishnan, S., and Q. Wu, "Procedures for
               Handling Liaison Statements to and from the IETF", Work in
-              Progress, Internet-Draft, draft-iab-rfc4053bis-03, 16
-              March 2026, <https://datatracker.ietf.org/doc/html/draft-
-              iab-rfc4053bis-03>.
+              Progress, Internet-Draft, draft-iab-rfc4053bis-04, 3 July
+              2026, <https://datatracker.ietf.org/doc/html/draft-iab-
+              rfc4053bis-04>.
 
    [RFC3113]  Rosenbrock, K., Sanmugam, R., Bradner, S., and J. Klensin,
               "3GPP-IETF Standardization Collaboration", RFC 3113,
