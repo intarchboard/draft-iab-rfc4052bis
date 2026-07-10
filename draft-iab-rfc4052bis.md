@@ -60,8 +60,8 @@ communication to coordinate joint activities with various other SDOs or similar 
 organizations involving Internet-related technologies. This is useful
 in order to, e.g., avoid overlap in work efforts, and to manage interactions
 between their groups. The IETF process does not
-requires any formal handling for such a communication and coordination to happen,
-however, sometimes a formal process is required by the other organiztaion or
+require any formal handling for such a communication and coordination to happen,
+however, sometimes a formal process is required by the other organization or
 seen as beneficial to support the needed level of collaboration.
 In cases where the mutual effort to
 communicate and coordinate activities is formalized, these
@@ -150,14 +150,14 @@ This version of the document contains the following updates:
 5. Section on Summary of IETF Liaison Manager Responsibilities was reworked.
 6. Section 4 on "Approval and Transmission of Liaison Statements" has been moved to 4053bis.
 8. The description of both the aspects and requirements for establishing a
-   formal relationship ws improved.
-9. Text was addded to clarify there are no specific establishment procedures for informal
+   formal relationship was improved.
+9. Text was added to clarify there are no specific establishment procedures for informal
    collaboration and formal liaison communications in form of liaison statement
    don't require a formal liaison relationship
 8. Update was made of the description of aspects for establishing a formal relationship and clarifications
    about informal collaborations
 10. Liaison manager responsibilities sections was merged
-10. One level in the dcoument structure was removed
+10. One level in the document structure was removed
 11. Section on "Liaison Communication" was moved into a subsection of "Establishing a Liaison Relationship" and some redundant text was merged
 12. Wording was aligned to consistently use “formal liaison relationship”
 13. Small clarification was added that the appointment of a liaison manager establishes the formal relationship
