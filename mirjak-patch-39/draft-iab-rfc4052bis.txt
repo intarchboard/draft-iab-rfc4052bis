@@ -6,7 +6,7 @@ Network Working Group                                   S. Krishnan, Ed.
 Internet-Draft                                             M. Kuehlewind
 Obsoletes: 4052, 4691 (if approved)                                Q. Wu
 Intended status: Informational                                       IAB
-Expires: 9 January 2027                                      8 July 2026
+Expires: 21 January 2027                                    20 July 2026
 
 
        IAB Processes for Management of IETF Liaison Relationships
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 9 January 2027.
+   This Internet-Draft will expire on 21 January 2027.
 
 Copyright Notice
 
@@ -182,7 +182,7 @@ Table of Contents
    IETF" has been merged into Section 3 in this document.
 
    The revision of RFC4052 aligns the defined process with current
-   practises and specifically clarifies the purposes and exceptions for
+   practices and specifically clarifies the purposes and exceptions for
    establishing liaison relationships.  Particularly, it emphasis that
    there are no formal requirements in the IETF process that require a
    formal liaison relationship for participating in the IETF and it
