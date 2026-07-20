@@ -189,15 +189,12 @@ Table of Contents
    clearly explains the role of and preference for informal
    collaborations (see Section 1.2.
 
-   Further, this revision removes the statement that the "IAB acts as
-   representative of the interests of [..] the Internet Society"; the
-   Internet Society (ISOC) is not an SDO and usually does not
-   participate in technical liaison relations.  Also the role of the
-   Liaison Representative in RFC4052 was removed since this role is not
-   used in practice.  The Liaison Manager Responsibilities were
-   clarified and re-focused on good, productive, and timely (formal and
-   informal) communication.  And the section "Approval and Transmission
-   of Liaison Statements" in RFC4052 was moved to 4053bis.
+   Further, the role of the Liaison Representative in RFC4052 was
+   removed since this role is not used in practice.  The Liaison Manager
+   Responsibilities were clarified and re-focused on good, productive,
+   and timely (formal and informal) communication.  And the section
+   "Approval and Transmission of Liaison Statements" in RFC4052 was
+   moved to 4053bis.
 
 1.2.  IETF's Preference for Informal Collaboration
 
