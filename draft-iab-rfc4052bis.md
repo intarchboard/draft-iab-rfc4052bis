@@ -141,10 +141,7 @@ Particularly, it emphasis that there are no formal requirements in the IETF proc
 that require a formal liaison relationship for participating in the IETF and
 it clearly explains the role of and preference for informal collaborations (see {{informal}}.
 
-Further, this revision removes the statement that the "IAB acts as representative of the interests of \[..] the
-Internet Society"; the Internet Society (ISOC) is not an SDO and usually does not
-participate in technical liaison relations.
-Also the role of the Liaison Representative in RFC4052 was removed since this role is not used in practice.
+Further, the role of the Liaison Representative in RFC4052 was removed since this role is not used in practice.
 The Liaison Manager Responsibilities were clarified and re-focused on good, productive, and timely
 (formal and informal) communication.
 And the section "Approval and Transmission of Liaison Statements" in RFC4052 was moved to 4053bis.
