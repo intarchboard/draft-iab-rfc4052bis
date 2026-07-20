@@ -60,8 +60,8 @@ communication to coordinate joint activities with various other SDOs or similar 
 organizations involving Internet-related technologies. This is useful
 in order to, e.g., avoid overlap in work efforts, and to manage interactions
 between their groups. The IETF process does not
-requires any formal handling for such a communication and coordination to happen,
-however, sometimes a formal process is required by the other organiztaion or
+require any formal handling for such a communication and coordination to happen,
+however, sometimes a formal process is required by the other organization or
 seen as beneficial to support the needed level of collaboration.
 In cases where the mutual effort to
 communicate and coordinate activities is formalized, these
@@ -84,13 +84,14 @@ the scope of this document.
 
 The IETF has tasked the IAB to manage technical liaison relationships,
 as stated in its charter {{!BCP39}} 2.(f),
-"The IAB acts as a representative of the interests of the IETF
-in technical liaison relationships with other organizations
-concerned with standards, and other technical and organizational
-issues relevant to the worldwide Internet.  Liaison relationships are
-kept informal whenever possible, and must possess demonstrable value to the
-IETF's technical mandate.  Individual participants from the IETF community are
-appointed as liaison managers to other organizations by the IAB."
+"The IAB acts as representative of the interests of the IETF and the
+   Internet Society in technical liaison relationships with other
+   organizations concerned with standards and other technical and
+   organizational issues relevant to the world-wide Internet. Liaisons
+   are kept as informal as possible and must be of demonstrable value in
+   improving the quality of IETF specifications.  Individual members of
+   the IETF are appointed as liaisons to other organizations by the IAB
+   or IESG as appropriate."
 
 In general, collaboration between SDOs is needed when there are
 areas of technical development of mutual interest. For the most
