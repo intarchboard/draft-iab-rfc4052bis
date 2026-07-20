@@ -136,7 +136,7 @@ This document revises RFC4052 and obsoletes RFC4691. RFC4691 builds on RFC4052 a
 especially the guidance for liaison managers including the explicit part of "speaking for the IETF" has been merged
 into {{manager}} in this document.
 
-The revision of RFC4052 aligns the defined process with current practises and specifically clarifies the purposes and exceptions for establishing liaison relationships.
+The revision of RFC4052 aligns the defined process with current practices and specifically clarifies the purposes and exceptions for establishing liaison relationships.
 Particularly, it emphasis that there are no formal requirements in the IETF process
 that require a formal liaison relationship for participating in the IETF and
 it clearly explains the role of and preference for informal collaborations (see {{informal}}.
